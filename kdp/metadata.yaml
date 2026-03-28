@@ -1,0 +1,41 @@
+---
+title: "What's It Like To Be Bob?"
+author: "Alex Towell"
+lang: en-US
+date: "2026"
+description: >
+  A post-singularity galactic civilization has converted the galaxy's matter
+  to computation. It studies one man's Tuesday.
+  \n\n
+  Robert Allen Kessler, claims adjuster, Columbus, Ohio, saw light on a river
+  on March 14, 2028 and felt four seconds of happiness he never told anyone
+  about. Twelve hundred years later, a stellar-scale intelligence devotes a
+  fraction of its vast resources to reconstructing every recoverable detail of
+  that day. It knows his shoe size. It knows the brand of his coffee. It knows
+  the scratch on his kitchen table. It cannot know what the light looked like
+  to him.
+  \n\n
+  Nine chapters zoom from cosmological scale to one man's morning and back out
+  to the thermodynamic death of the universe. The physics is real. The numbers
+  are right. The hard problem of consciousness is the last problem, and it
+  outlasts the stars.
+  \n\n
+  Hard science fiction for readers of Ted Chiang, Greg Egan, and Peter Watts.
+categories:
+  - "Science Fiction > Hard Science Fiction"
+  - "Science Fiction > Short Reads"
+keywords:
+  - "hard science fiction"
+  - "consciousness"
+  - "post-singularity"
+  - "philosophical fiction"
+  - "Dyson sphere"
+  - "far future"
+  - "novella"
+price_usd: "2.99"
+price_paperback_usd: "9.99"
+# KDP cover specs
+cover_ebook: "2560x1600px JPG/TIFF (1.6:1 ratio)"
+cover_paperback: "Use KDP Cover Calculator (depends on page count + trim)"
+# Trim size for paperback (novella)
+trim: "5.25in x 8in"

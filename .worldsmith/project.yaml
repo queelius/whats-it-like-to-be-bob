@@ -1,0 +1,16 @@
+# .worldsmith/project.yaml
+universe: galactic-empire
+
+lore: lore/
+
+works:
+  - name: "What's It Like To Be Bob?"
+    type: novel
+    manuscript: chapters/
+    file_types: [tex]
+    description: >
+      Hard science fiction exploring a post-singularity galactic civilization
+      through multiple zoom levels, zooming from cosmological scale down to
+      Bob Kessler's Tuesday afternoon, then back out to deep time. Title after
+      Nagel's "What Is It Like to Be a Bat?" The ASI can reorganize stellar
+      masses of matter but cannot answer the question in the title.

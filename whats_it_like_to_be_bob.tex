@@ -1,0 +1,74 @@
+\documentclass[12pt,letterpaper,oneside]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Typography settings
+\setstretch{1.5}
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+% Chapter formatting
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+
+% Header formatting
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\fancyhead[L]{\leftmark}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\headrulewidth}{0pt}
+
+% Custom environment for ASI reconstruction frame (Register B)
+% Indented, smaller font, sans-serif
+\newenvironment{recon}{%
+  \begin{quote}\small\sffamily\setstretch{1.2}%
+}{%
+  \end{quote}%
+}
+
+% Metadata
+\title{What's It Like To Be Bob?}
+\author{Alex Towell}
+\date{}
+
+\begin{document}
+
+\frontmatter
+
+% Title page
+\begin{titlepage}
+\centering
+\vspace*{3in}
+{\Huge\bfseries What's It Like To Be Bob?\par}
+\vspace{0.5in}
+{\Large Alex Towell\par}
+\vfill
+\end{titlepage}
+
+\tableofcontents
+
+\mainmatter
+
+% Chapters
+\include{chapters/01_the_overview}
+\include{chapters/02_the_wavefront}
+\include{chapters/03_the_system}
+\include{chapters/04_the_gradient}
+\include{chapters/05_the_archive}
+\include{chapters/06_bob}
+\include{chapters/07_the_counterfactual}
+\include{chapters/08_the_probe}
+\include{chapters/09_deep_time}
+
+\end{document}

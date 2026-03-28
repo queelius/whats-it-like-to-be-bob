@@ -1,0 +1,17 @@
+# LaTeX aux files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.latexml.log
+
+# Output
+*.pdf
+*.epub
