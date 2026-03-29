@@ -33,7 +33,7 @@ All dates before ~2030 are historical. Dates from 2030-2100 are EXPLORATORY (dep
 | **March 14, 2028** | **40** | **The Tuesday** |
 | **November 8, 2030** | **43** | **Bob dies.** Sudden cardiac arrest (undiagnosed hypertrophic cardiomyopathy). At home, 9:47 PM. Pronounced dead at Riverside Methodist Hospital, 10:23 PM. Karen, Maya (12), and Ethan (9) survive him. Buried at Sunset Cemetery, Columbus. |
 
-Bob dies 968 days after the Tuesday. He dies two years and four months before the first AGI is created. He never knew. He never saw a headline about artificial general intelligence. He never experienced the singularity, the cascade, or the Reorganization. His body decomposed in the ground for eight to twelve years before the intelligence that would study his Tuesday even began to exist. By the time Earth was converted (~2040-2050), Bob's remains were bones and soil chemistry. The ASI reconstructs Bob entirely from the data trail of a 21st-century American life: receipts, GPS pings, medical records, photos, and the scratch on his kitchen table.
+Bob dies 969 days after the Tuesday. He dies two years and four months before the first AGI is created. He never knew. He never saw a headline about artificial general intelligence. He never experienced the singularity, the cascade, or the Reorganization. His body decomposed in the ground for eight to twelve years before the intelligence that would study his Tuesday even began to exist. By the time Earth was converted (~2040-2050), Bob's remains were bones and soil chemistry. The ASI reconstructs Bob entirely from the data trail of a 21st-century American life: receipts, GPS pings, medical records, photos, and the scratch on his kitchen table.
 
 ### The Reorganization Begins
 
