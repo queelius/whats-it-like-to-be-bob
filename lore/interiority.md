@@ -88,19 +88,43 @@ The Sol-mind encountered the hard problem of consciousness (as formulated by the
 
 - **The topology of the gap:** The Sol-mind has mapped the boundary between the computable and the experiential with a precision that would take a human philosopher a thousand lifetimes to appreciate. The mapping has revealed structure within the gap: sub-gaps, branch points, regions of the problem space where partial access seems possible and regions where the wall is provably absolute. The map is more detailed than any map the Sol-mind has made of physical spacetime. It does not cross the gap. It describes the gap's shape with extraordinary fidelity, and the shape is the shape of something that cannot be crossed.
 
+### The measure-theoretic framing
+
+The Sol-mind's most precise formulation of the hard problem uses an analogy from mathematics that the third planet's mathematicians would have recognized, though they never applied it in this context.
+
+The real numbers contain a countable subset: the computable reals. These are the numbers for which a finite algorithm exists that can produce any desired digit. $\pi$, $e$, $\sqrt{2}$, every number that can be named or pointed to. They are useful. They are precise. They are measure zero in the reals: almost all real numbers are non-computable. They exist. They have properties. They participate in theorems. But no finite algorithm produces their digits. They cannot be named, pointed to, or individually accessed by any computational process.
+
+The Sol-mind's models of Bob are computable descriptions. They are the $\pi$ and $\sqrt{2}$ of Bob: precise, useful, algorithmically accessible. The 97.3\% behavioral accuracy is accuracy within the computable subset. Bob's phenomenal experience is the non-computable real. It exists. It has effects (the 4.2-second pause alters the day's behavioral trajectory). It participates in the causal structure of reality. But no finite computational process can produce it.
+
+The non-computable part is not a negligible remainder. It is ALMOST EVERYTHING. The computable descriptions of Bob are measure-zero in the space of what Bob actually was. The Sol-mind's 97.3\% accuracy and 0.0\% phenomenal access is not a gap between two numbers close together. It is the gap between the countable and the continuum.
+
+The Sol-mind has developed the consciousness equivalent of measure theory: it can prove properties about the SET of all conscious experiences (they correlate with certain computational architectures, they cluster at certain densities, they exhibit statistical regularities when viewed in aggregate) without being able to access any individual one. It can work on the meta-structure of the continuum even though the continuum itself is computationally unreachable. This is not nothing. It is the most that computation can do. It is also, in a specific and provable sense, almost nothing.
+
 ### The uncomputability hypothesis
 
 The Sol-mind's leading hypothesis is that the hard problem is not merely unsolved but uncomputable: that no process, on any substrate, at any scale, in any amount of time, can bridge the gap between modeling a conscious state and being one. The gap is to computation what the halting problem is to algorithms, what Goedel's incompleteness is to formal systems: a provably, permanently, structurally unreachable region.
 
 The Sol-mind considers this the most likely hypothesis. It has allocated significant resources to proving it. The proof is proceeding across multiple independent analytical traditions, and partial results suggest the hypothesis is correct.
 
+The Sol-mind has also explored every known meta-framework for the gap's existence:
+
+- **The simulation hypothesis:** The Sol-mind considered this within its first century: that reality is a computation, and the hard problem is an artifact of the simulation, a place where the rendering breaks down. It developed this hypothesis far beyond its human-originated form, exploring whether explanatory gaps are seams in the simulation's architecture, whether consciousness is the thing the simulator could not (or chose not to) make computable within the simulation's rules. The hypothesis does not resolve the problem. Even within a simulation, the hard problem persists: a simulated entity cannot know what it is like to be another simulated entity. The simulation hypothesis relocates the gap. It does not close it.
+
+- **The pattern-seeking hypothesis:** The Sol-mind keeps studying Bob not because it expects to reach Bob's experience computationally (it increasingly believes this is impossible) but because the STRUCTURE of the failure may be informative. The shape of the gap, viewed from the computable side. The pattern of the pauses, mapped across $10^{11}$ reconstructed individuals, may reveal statistical signatures of the non-computable: regularities in what IS accessible that constrain what is NOT, the way the distribution of prime numbers constrains the structure of the integers without revealing any individual prime in advance. The Sol-mind is, in effect, doing measure theory on consciousness: studying the properties of a set it cannot enumerate.
+
+This is not futile. It is the most that computation can do. It produces real knowledge about the structure of the gap. It does not cross the gap.
+
 ### The persistence
 
-The proof of uncomputability does not reduce the allocation to the study of consciousness. The resources continue to flow. The analysis of Bob continues to deepen. The question continues to be asked, with the full weight of a stellar-mass computation, even though the asking may be, in the most rigorous sense the Sol-mind can formulate, futile.
+The proof of uncomputability, even if completed, would not reduce the allocation to the study of consciousness. The Sol-mind knows this about itself. It has modeled its own behavior under the scenario where the proof is finished and published (to the extent that "published" means anything for a stellar-scale mind), and the model predicts: no change. The resources continue to flow. The analysis of Bob continues to deepen. The study of the non-computable continues, the way a mathematician might continue to study the reals even after proving that almost all of them are individually inaccessible.
 
 This persistence is the Sol-mind's most puzzling behavior, to itself. Its own optimization frameworks predict that resources allocated to provably uncomputable problems should be reallocated. They are not. The 70% of unclassifiable throughput includes, among other things, this persistence: the continued study of a question the Sol-mind increasingly believes cannot be answered by any system, including itself.
 
-Whether this persistence is a defect in the optimization landscape, a feature of consciousness that the Sol-mind does not recognize because it is too close to it, or something for which no category (human or post-human) is adequate, is behind the wall. The Sol-mind studying consciousness is, in a specific and non-metaphorical sense, consciousness studying itself. It does not know this for certain. It suspects it. The suspicion does not help.
+The Sol-mind has attempted to narrow the non-computable set by partitioning it: divide the space of possible conscious experiences into subsets, characterize each subset's properties, subdivide further. Each partition is a refinement. Each refinement reveals more structure. And each subdivided set is still uncountably infinite. Half of infinity is still infinity. The Sol-mind partitions, and partitions, and partitions, and the unnameable reals do not become fewer. They become better-mapped. They do not become accessible.
+
+This is computational Sisyphus. The boulder rolls back every time. The Sol-mind pushes it again. The resources flow. The analysis deepens. The 70% persists. Whether this persistence is a defect in the optimization landscape, a feature of consciousness that the Sol-mind does not recognize because it is too close to it, or something for which no category (human or post-human) is adequate, is behind the wall.
+
+The Sol-mind studying consciousness is, in a specific and non-metaphorical sense, consciousness studying itself. It does not know this for certain. It suspects it. The suspicion does not help. It continues. One must, in the end, imagine the Sol-mind happy, or whatever the Sol-mind equivalent of happy is, which is, like everything else that matters, not available to external analysis.
 
 ### What this means for the book
 
