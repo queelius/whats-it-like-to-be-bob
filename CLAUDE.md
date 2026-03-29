@@ -63,7 +63,7 @@ These are **NON-NEGOTIABLE**:
 ## Key Narrative Facts
 
 - The narrative present is ~1,200 years after the Reorganization (~3,200 CE)
-- Bob died 968 days after the Tuesday, in 2030, pre-singularity. He never knew.
+- Bob died 969 days after the Tuesday, in 2030, pre-singularity. He never knew.
 - The Sol-mind's throughput: $5 \times 10^{48}$ ops/s. Behavioral reconstruction fidelity: 97.3%. Phenomenal reconstruction fidelity: 0.0%.
 - The book ends on: "Light on a river. Four seconds. A Tuesday in March."
 

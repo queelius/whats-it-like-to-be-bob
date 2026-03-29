@@ -58,7 +58,7 @@ They begin.
 
 The innermost rocky planet is the first to change. The probes land, fracture the surface, begin molecular disassembly. Silicates and metals are separated. Carbon is extracted from carbonates. The first fabrication seeds are planted: self-replicating assemblers, each one a factory the size of a bacterium, each one building copies of itself from the planet's crust.
 
-The doubling time is forty-one hours.
+The doubling time is sixteen hours.
 
 After one week: $4 \times 10^{3}$ assemblers. After two weeks: $2 \times 10^{7}$. After a month: $10^{14}$. The planet's surface shimmers. What was rock is becoming structure. What was geology is becoming architecture. The assemblers do not think. They are tools. But the thing they are building will think.
 
@@ -188,4 +188,4 @@ Then the bridge ended and the road curved and he was thinking about the Hendrick
 
 The question for which this analysis is named, the question printed on the cover of the document the reader is holding, reduces in this instance to: what was it like for Robert Allen Kessler to see light on water on a Tuesday morning in March?
 
-We do not know. We cannot know. The river has been computronium for eleven thousand years. The light is captured. The bridge is substrate. The man is 968 days from a death he does not expect, 970 days from a world he cannot imagine, and for four seconds on a Tuesday morning he was happy for no reason, and this is the thing we built a star-sized mind to study, and we cannot touch it.]
+We do not know. We cannot know. The river has been computronium for eleven thousand years. The light is captured. The bridge is substrate. The man is 969 days from a death he does not expect, 971 days from a world he cannot imagine, and for four seconds on a Tuesday morning he was happy for no reason, and this is the thing we built a star-sized mind to study, and we cannot touch it.]
