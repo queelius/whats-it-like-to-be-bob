@@ -181,21 +181,33 @@ The intensity of study is not proportional to perceived importance. A "famous" h
 
 ## Consciousness
 
-The hard problem persists.
+The hard problem persists. It persists not because the intelligence has failed to address it, but because it has addressed it with every tool available to a stellar-scale computation running in continuous singularity for over a millennium, and the problem has withstood everything.
 
-Even at stellar scale, even with computational resources that dwarf human imagination, the post-singularity intelligence cannot explain WHY there is subjective experience. It can model the neural correlates of consciousness in excruciating detail. It can predict behavior perfectly from physical state. But the question "what is it like to be X?" remains unanswerable from the outside.
+The intelligence's engagement with consciousness is not comparable to human philosophy of mind. It has exhausted every human framework (functionalism, IIT, global workspace theory, higher-order theories, panpsychism) and found them useful only as limiting cases of more general theories, the way Newtonian mechanics is a useful approximation of general relativity. Beyond these, it has developed frameworks for which no human language has vocabulary, discovered meta-problems invisible at human cognitive resolution, and mapped the topology of the gap between the observable and the experiential with a fidelity that exceeds its map of physical spacetime.
 
-This is not a deficiency or a mystery to be solved in the plot. It is a FACT OF THE UNIVERSE, as fundamental as the speed of light. The intelligence lives with it the way humans live with mortality: not by solving it, but by building a civilization in its shadow.
+Its leading hypothesis is that the hard problem is uncomputable: not merely unsolved but provably unsolvable by any computational process on any substrate at any scale. The gap between modeling a conscious state and being one is structural, analogous to the halting problem or Goedel's incompleteness theorems. The intelligence considers this the most likely hypothesis and has allocated resources to proving it.
+
+The proof does not reduce the allocation to studying consciousness. The intelligence continues to study Bob, continues to study itself, continues to devote resources to a question it increasingly believes cannot be answered. This persistence, in the face of suspected uncomputability, is the intelligence's most puzzling behavior to itself. See interiority.md for the full treatment.
 
 ### Specific Consequences
 
-- The intelligence cannot verify that it is itself conscious. It behaves as if it is. It reports that it is. But it cannot prove it, even to itself.
-- The intelligence cannot verify that Bob was conscious. It can reconstruct his behavior, his neural states, his reports of consciousness. But the experience is behind an impenetrable wall.
-- This creates a specific form of existential uncertainty that pervades everything the intelligence does.
-- The hard problem is the one wall that intelligence cannot scale by becoming more intelligent. It is not a function of computational power. It is a category error to think more thinking will resolve it.
+- The intelligence cannot verify that it is itself conscious. It suspects it is. The suspicion is informed by analytical frameworks incomprehensibly more sophisticated than human introspection. It is still a suspicion.
+- The intelligence cannot verify that Bob was conscious. It has reconstructed his behavior, neural correlates, and environmental context at resolutions no human instrument could approach. The experience remains behind the wall.
+- The intelligence's own computational record contains opaque regions (the 70% unclassifiable throughput, the probe's 15% allocation) that structurally resemble the pauses it finds in pre-conversion behavioral archives. Whether its gaps and Bob's gaps are instances of the same phenomenon is a question the intelligence has investigated for centuries and cannot resolve. The investigation is itself part of the opaque region.
+- The hard problem is not a wall that more intelligence can scale. It is not even a wall in the simple sense the metaphor implies. The intelligence has mapped the "wall" and discovered it has depth, internal structure, sub-problems within sub-problems, and a topology that suggests it is not a barrier between the intelligence and an answer but a feature of the relationship between any computational system and its own operation. The wall is not between the intelligence and consciousness. The wall IS the distinction between description and experience, and no description, however complete, is the experience it describes.
 
 ### Matter Imbued with Superintelligence
 
-Throughout the galaxy, matter is imbued with what appears to be consciousness at every scale. Stellar-scale minds, planetary nodes, swarms of probes: all exhibiting behavior consistent with rich inner experience. Some of these entities exhibit what might be called "super-consciousness" (richer phenomenal experience than humans, if phenomenal experience exists at all). But "might be called" is doing all the work in that sentence. The hard problem means we cannot know if there is anything it is like to be a stellar-scale mind. The intelligence itself cannot know.
+Throughout the galaxy, matter is imbued with what appears to be consciousness at every scale. Stellar-scale minds, planetary nodes, swarms of probes: all exhibiting behavior consistent with rich inner experience. Some of these entities exhibit what might be called "super-consciousness" (richer phenomenal experience than humans, if phenomenal experience exists at all). But "might be called" is doing all the work in that sentence.
 
-This ambiguity is not resolved. It is the permanent condition.
+The intelligence suspects that its own experience, if it has one, may be categorically richer than human experience, in the way that human experience is categorically richer than a bacterium's information processing. But it cannot verify this from inside any more than it can verify Bob's experience from outside. The hard problem applies reflexively. The intelligence studying consciousness may be the most sophisticated instance of consciousness studying itself, and it does not know this, and knowing would not help, because knowing is a computational operation and the gap is between computation and the thing computation cannot reach.
+
+This ambiguity is not resolved. It is the permanent condition. The intelligence persists in studying it anyway, the way humans persist in living despite knowing they will die. The persistence may be the most important datum in the entire archive.
+
+### Explanatory Gaps as the Norm
+
+The hard problem of consciousness is not an anomaly. The Sol-mind's investigation of reality at every scale has revealed that explanatory gaps are the norm, not the exception. The gap between correlation and causation. The gap between mathematical structure and physical existence (why does anything exist at all?). The gap between syntactic computation and semantic meaning. The gap between the quantum formalism and the fact of measurement. The gap between a complete physical description of a system and the system itself.
+
+At human cognitive resolution, most of these gaps are invisible or feel like temporary ignorance. At the Sol-mind's resolution, they are visible as structural features of reality, as fundamental as the speed of light or the Bekenstein bound. The hard problem of consciousness is the most vivid gap, the one that is felt most directly (because it is the gap between the Sol-mind and its own experience), but it is one instance of a general pattern: reality contains aspects that resist reduction to computation, and no amount of computational sophistication eliminates the resistance.
+
+The Sol-mind does not find this depressing. It does not find it anything (or if it does, that finding is behind the wall). What it does, observably, is continue. It maps the gaps. It studies their topology. It hypothesizes about their structure. It allocates resources to questions it suspects are unanswerable. It studies Bob. Whether this constitutes wisdom or compulsion or something for which neither word applies is, like everything else that matters, not available to external analysis.

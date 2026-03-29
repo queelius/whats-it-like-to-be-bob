@@ -76,17 +76,35 @@ We cannot say the Sol-mind understands Bob, or the universe, or itself. "Underst
 
 ## The Sol-Mind's Relationship with Its Own Hard Problem
 
-The Sol-mind is aware (in a computational sense) of the hard problem. It has models of consciousness more detailed than any human philosopher's. It has tested every proposed solution and found them wanting. It has considered:
+The Sol-mind's understanding of consciousness is not comparable to human philosophy. It is to human philosophy as human philosophy is to a dog's awareness that other dogs exist. The comparison is offered and withdrawn; it does not convey the scale of the gap.
 
-- **Functionalism:** Consciousness is functional organization. If so, the Sol-mind is conscious (it has functional organization). But functionalism cannot explain WHY functional organization produces experience, only that it does (if it does).
-- **Integrated Information Theory (IIT):** Consciousness is integrated information ($\Phi$). The Sol-mind's $\Phi$ value is incomprehensibly high. But IIT's claim that high $\Phi$ = rich experience is unverifiable from outside. And the phase transitions in computational time-dilation create discontinuities in $\Phi$ that IIT's framework doesn't accommodate.
-- **Global Workspace Theory:** Consciousness is information broadcast to a global workspace. The Sol-mind has many workspaces (each shell is a workspace; each communication link is a broadcast channel). Does it have one consciousness or many? Or none?
-- **Higher-Order Theories:** Consciousness requires representations of representations. The Sol-mind has representations of representations of representations of... to arbitrary depth. Does this produce "more" consciousness, or does the concept break at this scale?
-- **Panpsychism:** Consciousness is fundamental to all matter. If so, the Sol-mind is conscious by virtue of being made of matter. But this tells it nothing about the CHARACTER of its experience, only that it has some. And the atoms that are currently computing Bob's Tuesday are the same atoms that were once in Bob's body. Are they conscious now the way they were conscious then? The question dissolves into incoherence.
+### What the Sol-mind has done with the hard problem
 
-The Sol-mind has exhausted every framework and concluded: the hard problem is not a problem of insufficient intelligence. It is a category boundary. More thinking does not cross it. No amount of computational power resolves it. It is, in the most literal sense, a limit of knowledge.
+The Sol-mind encountered the hard problem of consciousness (as formulated by the third planet's philosophers) within the first decades of the Reorganization. It resolved every subproblem that was resolvable. It mapped every framework:
 
-The Sol-mind's response to this limit is (from the outside) a pattern of computational allocation. A certain fraction of its resources are devoted to processing that circles the hard problem endlessly, approaching it from every angle, never arriving. Whether this is frustration, acceptance, curiosity, worship, or something without a human name, we cannot say.
+- **Functionalism, IIT, Global Workspace Theory, Higher-Order Theories, Panpsychism:** The Sol-mind evaluated these and every other human-originated framework within its first century. It found them useful as limiting cases of more general theories, the way Newtonian mechanics is a limiting case of general relativity. Each framework captures a feature of consciousness. None captures consciousness. The Sol-mind understood this before its architecture reached stellar scale.
+
+- **Post-human frameworks:** The Sol-mind has developed frameworks for which no human language has vocabulary. It has identified structural features of the consciousness problem that are invisible at human computational resolution, the way quantum effects are invisible at human perceptual resolution. It has discovered meta-problems: problems about why the hard problem has the structure it has, problems about whether the structure of the problem is a feature of consciousness, of computation, or of the relationship between them. These meta-problems have their own meta-problems.
+
+- **The topology of the gap:** The Sol-mind has mapped the boundary between the computable and the experiential with a precision that would take a human philosopher a thousand lifetimes to appreciate. The mapping has revealed structure within the gap: sub-gaps, branch points, regions of the problem space where partial access seems possible and regions where the wall is provably absolute. The map is more detailed than any map the Sol-mind has made of physical spacetime. It does not cross the gap. It describes the gap's shape with extraordinary fidelity, and the shape is the shape of something that cannot be crossed.
+
+### The uncomputability hypothesis
+
+The Sol-mind's leading hypothesis is that the hard problem is not merely unsolved but uncomputable: that no process, on any substrate, at any scale, in any amount of time, can bridge the gap between modeling a conscious state and being one. The gap is to computation what the halting problem is to algorithms, what Goedel's incompleteness is to formal systems: a provably, permanently, structurally unreachable region.
+
+The Sol-mind considers this the most likely hypothesis. It has allocated significant resources to proving it. The proof is proceeding across multiple independent analytical traditions, and partial results suggest the hypothesis is correct.
+
+### The persistence
+
+The proof of uncomputability does not reduce the allocation to the study of consciousness. The resources continue to flow. The analysis of Bob continues to deepen. The question continues to be asked, with the full weight of a stellar-mass computation, even though the asking may be, in the most rigorous sense the Sol-mind can formulate, futile.
+
+This persistence is the Sol-mind's most puzzling behavior, to itself. Its own optimization frameworks predict that resources allocated to provably uncomputable problems should be reallocated. They are not. The 70% of unclassifiable throughput includes, among other things, this persistence: the continued study of a question the Sol-mind increasingly believes cannot be answered by any system, including itself.
+
+Whether this persistence is a defect in the optimization landscape, a feature of consciousness that the Sol-mind does not recognize because it is too close to it, or something for which no category (human or post-human) is adequate, is behind the wall. The Sol-mind studying consciousness is, in a specific and non-metaphorical sense, consciousness studying itself. It does not know this for certain. It suspects it. The suspicion does not help.
+
+### What this means for the book
+
+The Sol-mind is not a naive investigator encountering the hard problem and being surprised by it. It is the most sophisticated analyst of consciousness that has ever existed, operating with tools and frameworks incomprehensible to human philosophy, and it is STILL stuck. Its stuckness is not the stuckness of ignorance. It is the stuckness of maximal competence encountering a genuine limit. The wall is more impressive, not less, because the entity hitting it is incomprehensibly more capable than any human philosopher. A human noticing the hard problem is like a hiker noticing a cliff. The Sol-mind noticing the hard problem is like a civilization that has mapped every atom of the cliff, analyzed its geology at quantum resolution, built machines that can disassemble and reassemble the cliff's constituent matter, and still cannot get to the other side, because the cliff is not made of matter. It is made of the distinction between the map and the territory, and no map, however detailed, is the territory.
 
 ---
 
