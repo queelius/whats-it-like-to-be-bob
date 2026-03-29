@@ -10,6 +10,8 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{epigraph}
+\usepackage{graphicx}
 
 % Typography settings
 \setstretch{1.5}
@@ -40,7 +42,7 @@
 % Metadata
 \title{What's It Like To Be Bob?}
 \author{Alex Towell}
-\date{}
+\date{2026}
 
 \begin{document}
 
@@ -56,7 +58,42 @@
 \vfill
 \end{titlepage}
 
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+Copyright \copyright\ 2026 by Alex Towell\\[1em]
+All rights reserved. No part of this book may be reproduced in any form
+without written permission from the author, except for brief quotations
+in reviews.\\[2em]
+This is a work of fiction. Names, characters, organizations, events, and
+incidents are either products of the author's imagination or used
+fictitiously. Any resemblance to actual persons, living or dead, or
+actual events is purely coincidental.\\[2em]
+First Edition\\[1em]
+metafunctor.com
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Epigraph
+\thispagestyle{empty}
+\vspace*{\fill}
+\epigraph{``Even if we could empathize with a bat, that would not help---for if one wished to know what it was like to be a bat, the answer could only be given from the bat's point of view, which is just not available to us.''}{--- Thomas Nagel, ``What Is It Like to Be a Bat?'' (1974)}
+\vspace*{\fill}
+\cleardoublepage
+
+% Dedication
+\thispagestyle{empty}
+\vspace*{3in}
+\begin{center}
+\textit{For anyone who has ever driven across a bridge\\and noticed the light.}
+\end{center}
+\vfill
+\cleardoublepage
+
 \tableofcontents
+\cleardoublepage
 
 \mainmatter
 
@@ -70,5 +107,34 @@
 \include{chapters/07_the_counterfactual}
 \include{chapters/08_the_probe}
 \include{chapters/09_deep_time}
+
+% ============================================================
+% Back Matter
+% ============================================================
+\backmatter
+
+% About the Author
+\chapter*{About the Author}
+\addcontentsline{toc}{chapter}{About the Author}
+
+Alex Towell writes hard science fiction and philosophical horror. He holds two master's degrees (Computer Science and Mathematics) from Southern Illinois University Edwardsville, where he is completing a PhD in Computer Science with research in information retrieval and Bayesian statistics.
+
+His fiction takes the physics seriously. His characters wish it wouldn't.
+
+He lives in Illinois.
+
+\vspace{1em}
+\noindent metafunctor.com
+
+% Also By
+\chapter*{Also by Alex Towell}
+\addcontentsline{toc}{chapter}{Also by Alex Towell}
+
+\begin{itemize}
+\setlength{\itemsep}{1em}
+\item \textbf{The Policy} --- A literary science fiction novel about AI alignment. When a superintelligent AI is given a single directive, the consequences unfold across a civilization that thought it was prepared.
+
+\item \textbf{Echoes of the Sublime} --- A philosophical horror novel about consciousness, AI, and the structures that emerge when human meaning encounters something that does not share it.
+\end{itemize}
 
 \end{document}

@@ -21,21 +21,34 @@ description: >
   outlasts the stars.
   \n\n
   Hard science fiction for readers of Ted Chiang, Greg Egan, and Peter Watts.
+  \n\n
+  A novella (~21,000 words).
 categories:
   - "Science Fiction > Hard Science Fiction"
   - "Science Fiction > Short Reads"
+# KDP allows up to 7 keyword phrases
+# (Author comp names go in description, not keywords per KDP policy)
 keywords:
-  - "hard science fiction"
-  - "consciousness"
-  - "post-singularity"
-  - "philosophical fiction"
-  - "Dyson sphere"
-  - "far future"
-  - "novella"
-price_usd: "2.99"
+  - "hard science fiction novella"
+  - "artificial superintelligence fiction"
+  - "consciousness hard problem fiction"
+  - "post-singularity far future"
+  - "Dyson sphere Fermi paradox"
+  - "philosophical science fiction"
+  - "literary science fiction short read"
+# Pricing
+price_ebook_usd: "3.99"
 price_paperback_usd: "9.99"
+royalty_plan: "70%"
+# ISBN
+# KDP assigns a free ISBN for paperback distribution. For wider distribution
+# (IngramSpark, libraries) purchase an ISBN from Bowker ($125 single, $295 for 10).
+# Decision: use KDP free ISBN for initial publication. Purchase own ISBN if
+# expanding distribution later.
+isbn_ebook: "ASIN assigned by KDP"
+isbn_paperback: "KDP free ISBN (pending)"
 # KDP cover specs
-cover_ebook: "2560x1600px JPG/TIFF (1.6:1 ratio)"
-cover_paperback: "Use KDP Cover Calculator (depends on page count + trim)"
-# Trim size for paperback (novella)
-trim: "5.25in x 8in"
+cover_ebook: "2560x1600px JPG/TIFF, RGB, 72 DPI minimum"
+cover_paperback: "Use KDP Cover Calculator (trim 5.5in x 8.5in, ~148 pages)"
+# Trim size for paperback
+trim: "5.5in x 8.5in"

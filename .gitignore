@@ -15,3 +15,6 @@
 # Output
 *.pdf
 *.epub
+
+# Paperback build intermediate
+*_paperback.tex
