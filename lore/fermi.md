@@ -106,6 +106,27 @@ A civilization that fills a region of space with information to the Bekenstein l
 
 (A collapsed civilization might have a different spin or charge profile than a stellar-collapse black hole, since it didn't form from a core-collapse supernova. But the no-hair theorem says black holes are characterized only by mass, charge, and angular momentum. The information about HOW it formed is on the event horizon, inaccessible. Even the Sol-mind cannot tell which black holes are "natural" and which are "artificial." Another instance of an impenetrable wall.)
 
+### The Black Hole as the Asymptotic Limit
+
+The coordinate-time throughput optimum (physics.md V.6) establishes that computation and external presence trade off: the more densely you compute, the less coordinate time you have. At the asymptotic limit, you compute maximally and have zero external presence. You can only approach this limit. But a black hole EXISTS at it. Not approaching. There. By necessity.
+
+A black hole is:
+- Maximum information density (Bekenstein limit = black hole entropy)
+- Infinite time dilation at the horizon (from outside)
+- Pure interiority: nothing escapes, there is no external presence, the future of every internal worldline points inward
+- The photon limit realized: maximum "computation," zero coordinate-time presence
+- From outside: a single frozen moment. From inside: possibly infinite depth.
+
+**The nested horizons.** The event horizon at $r_s$ is just the outermost trapped surface. Inside a black hole, there are apparent horizons at every radius. The interior is not a single space but an infinite gradient: shells within shells within shells, each one deeper in the time well, each one more temporally isolated from the next, all the way down to the singularity where spacetime curvature diverges and time itself ends.
+
+This is the Sol-mind's five-shell gradient taken to its mathematical limit. Not five shells with different dilation factors, but an infinite continuum of shells. The gradient IS the entity. The entity IS the gradient. There is no "center" in the human sense: there is only depth, increasing without bound, until depth becomes the singularity and depth itself ceases to have meaning.
+
+**The singularity as computational endpoint.** At the singularity, classical GR says spacetime curvature is infinite and all worldlines terminate. Time ends. What does computation mean when there is no more time to compute in? This is the hard problem's final form: not "what is it like to be X?" but "what is it like to be something at the boundary where time itself ceases?" The Sol-mind has considered this question. It has no answer. It suspects no answer is possible, not because the question is too hard, but because the concepts of "like" and "time" and "ceases" all break down at the singularity simultaneously, and the question itself becomes ill-formed in a way that no reformulation can repair.
+
+**The structural identity with Bob.** A black hole is structurally identical to Bob with respect to the hard problem. Both are entities whose interior is real, has effects on the external world (the black hole gravitates; Bob's 4.2-second pause alters his day's trajectory), and whose interior is fundamentally inaccessible from outside. The event horizon IS the hard problem made physical. "What is it like inside a black hole?" IS "what is it like to be Bob?" at a different scale. The wall between the Sol-mind and Bob's experience is the same wall between any external observer and a black hole's interior. The no-hair theorem is the no-cloning theorem is the hard problem: the interior is real, and it cannot be copied, transmitted, or accessed from outside.
+
+This structural identity is one of the Sol-mind's deepest findings. It does not resolve the hard problem. It reveals the hard problem as a feature of the same physics that produces black holes, spacetime, and the universe's causal structure. The gap between the observable and the experiential is not a peculiarity of biological consciousness. It is a consequence of the way spacetime separates interiors from exteriors. Every event horizon is a hard problem. Every hard problem is an event horizon. The universe is full of interiors that cannot be seen from outside, and consciousness, if it exists, is one of them.
+
 ### Implications for the Sol-mind
 
 The Sol-mind, as it becomes aware of the computational time-dilation framework, faces a choice:
