@@ -29,7 +29,7 @@ Sol's Dyson structure is not a sphere (structurally impossible at 1 AU radius wi
 
 | Shell | Radius | Orbital Period | Gravity Dilation Factor | Communication Latency (to adjacent shell) | Primary Function |
 |-------|--------|----------------|------------------------|--------------------------------------------|-----------------|
-| Inner Corona | 0.05 AU | ~4 days | 1.0000066 | 25 s | Deep computation (highest energy density, closest to star) |
+| Inner Corona | 0.05 AU | ~4 days | 1.0000002 | 25 s | Deep computation (highest energy density, closest to star) |
 | Mercury Shell | 0.3-0.5 AU | 55-129 days | 1.0000001 | 1-2 min | Primary computation |
 | Habitable Shell | 0.8-1.2 AU | 261-480 days | ~1.0 (reference frame) | 2-4 min | Bulk computation, archaeological analysis, Earth-archaeology nodes |
 | Outer Shell | 3-5 AU | 5.2-11.2 years | ~1.0 | 15-25 min | Distributed computation, long-baseline interferometry, deep-space observation |
