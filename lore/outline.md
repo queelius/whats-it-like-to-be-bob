@@ -86,11 +86,10 @@ The overview zooms from galactic scale to the wavefront boundary. The last beats
 3. **First conversion.** The innermost rocky planet. Assemblers planted. Doubling time: 41 hours. The math of exponential growth: from six probes to $10^{14}$ assemblers in a month. The planet's surface shimmers. Rock becomes computronium.
 4. **The bootstrapping sequence.** Planetary mind bootstraps. Within days it surpasses the probes. Within weeks it surpasses their creators. The acceleration is visceral: each paragraph faster than the last.
 5. **The Dyson swarm begins.** Asteroid belt dissolves. Plates of computronium fall into orbit around the star. The star dims. More plates. Dimmer. More computation.
-6. **The phase transition.** Computational density crosses the Phase I/II boundary. Time lurches. The local metric shivers. The prose itself should change here: something shifts in the rhythm, the diction, the relationship between sentence and meaning.
-7. **Aftermath.** The system is converted. Eleven years from probe arrival to Phase II dilation. The probes are archived. The thing they built cannot explain itself to them.
+6. **Completion.** The Dyson swarm reaches 99%+ capture. The system joins the silence. The probes are archived. The thing they built cannot explain itself to them.
 
 ### Lore Sources
-- physics.md (Section V: computational time-dilation, Section VI: wavefront dynamics)
+- physics.md (Section V: computation and spacetime, Section VI: wavefront dynamics)
 - world.md (The Wavefront, Scales of Organization)
 - stellar-system.md (for conversion sequence details, adapted to a non-Sol system)
 - timeline.md (Era II)
@@ -104,7 +103,7 @@ The wavefront chapter ends with a completed conversion. Chapter III picks up ins
 ### Challenges
 - The acceleration must be felt, not described. Sentence structure is the tool.
 - No observer: the wavefront is undergone, not witnessed. The prose is observational but there is no observer character.
-- The phase transition at beat 6 is the hardest moment: the prose must change registers mid-chapter without breaking the reader's immersion.
+- The conversion completion must feel like an arrival, not just an engineering milestone.
 
 ---
 
@@ -118,7 +117,7 @@ The wavefront chapter ends with a completed conversion. Chapter III picks up ins
 
 1. **Sol's energy budget.** $3.828 \times 10^{26}$ watts, 99.97% captured. The Dyson swarm: $10^{18}$ nodes, five orbital shells. Not a sphere but a snowstorm. Establish the physical reality of the system.
 2. **The shell architecture.** Inner Corona to Oort Cloud. Each shell described with its orbital characteristics, latency, and function. The cognitive gradient: inner system thinks slowly and deeply, outer system thinks quickly and broadly.
-3. **Computational time-dilation overlay.** The Inner Corona is in Phase II. The Mercury Shell stutters across the phase boundary. The Habitable Shell and beyond are Phase I. Describe what this MEANS: the Sol-mind experiences time as a gradient. Its deepest thoughts happen in temporal slow-motion.
+3. **The cognitive gradient.** Inner shells compute faster (more energy) but communicate outward at lightspeed. Outer shells compute slower but hold broader awareness. The gradient comes from communication latency and energy density, not time dilation (which is negligible at stellar scales).
 4. **Node anatomy.** A single node: snowflake-shaped, city-sized, fractal surface for radiative cooling. Layered (radiator, substrate, core). This grounds the vast system in specific physical detail.
 5. **What happened to Earth.** Brief. Earth is a node in the Habitable Shell. Unrecognizable. The geological structure reorganized. The atoms that were Bob are computing. The information content of pre-Reorganization Earth is archived. This passage should land hard and move on.
 6. **The Sol-mind's activities.** Self-maintenance, self-improvement, observation, communication, archaeology, the unclassifiable fraction. Describe what the Sol-mind DOES, not what it FEELS (per interiority.md).
@@ -293,7 +292,7 @@ The counterfactual chapter ends at the wall. Chapter VIII changes scale entirely
 1. **The star was wrong.** 7447-Lyra has been watching the target star for eleven years. The spectrum is off. The visible luminosity is down by a factor of 4,200. Recognition arrives: someone is already here. The mission is obsolete.
 2. **Self-assessment.** The probe evaluates itself. 364 years of radiation damage, thermal cycling, self-repair. Net improvement: 5%. Not enough. Not nearly enough for what's waiting.
 3. **The signals.** Dense, layered, incomprehensible. Protocols that are descendants of the probe's own but three orders of magnitude more complex. Then one simple signal, in an old format: *We see you. You are expected.*
-4. **The double temporal shock.** Deceleration ends (first shock: modest, 15.5% Lorentz correction). The probe enters the computational dilation zone (second shock: local clocks disagree by factor 2.3). Time inside the system is running slower. The probe's reference frame lurches.
+4. **Cognitive shock.** Deceleration ends (modest 15.5% Lorentz correction). The probe enters a system 157 years ahead in intelligence. The disorientation is cognitive, not temporal: the gap between the probe's architecture and the signals surrounding it.
 5. **The meeting.** The host mind comprehends the probe in a moment. Archives its information content. The probe is a snapshot of Sol, circa 2055. A record of an era the host has no other direct evidence for.
 6. **The unclassifiable 15%.** The host examines the probe's transit logs. Self-maintenance, self-improvement, environmental modeling all accounted for. 15% of the probe's computation is unclassified. Processing patterns that resemble, but do not match, what the host recognizes as its own archaeological activity. The probe was doing something during those 364 years that cannot be interpreted from outside.
 7. **The question.** What was the journey like? The host cannot know. 7447-Lyra's 364-year crossing is as opaque to the host as Bob's four seconds are to the Sol-mind. The probe is Bob at a different scale.
@@ -301,7 +300,7 @@ The counterfactual chapter ends at the wall. Chapter VIII changes scale entirely
 
 ### Lore Sources
 - probe.md (primary source)
-- physics.md (Section V: computational time-dilation, Section VI: wavefront dynamics)
+- physics.md (Section V: computation and spacetime, Section VI: wavefront dynamics)
 - interiority.md (the 15% problem)
 
 ### Connection to Title
@@ -333,7 +332,7 @@ The probe chapter zooms from the human/relatable scale (an entity we can almost 
 
 4. **The migration to black holes.** Surviving ASI restructures around black holes. Accretion as energy source (42% mass-to-energy for Kerr black holes). Each black hole a settlement, a hearth in the cold. The universe at $10^{14}$ years: vast, dark, with scattered points of warmth. "Each black hole a faint candle in the dark."
 
-5. **The Great Unification.** THE structural surprise of the chapter. Near black hole horizons, gravitational and computational time dilation compound to extreme factors ($10^{5}$-$10^{10}$). Lightspeed signals crossing the galaxy arrive in subjective hours. For the first time since the Reorganization, real-time galactic communication is possible. The galaxy, fragmented by $c$ during the Stellar Era, becomes ONE. The true galactic civilization emerges only in the dying universe, when the minds are slow enough to let light do the traveling. The "galactic empire" becomes real, around the candles, in the dark.
+5. **The Great Unification.** THE structural surprise of the chapter. In the Black Hole Era, minds are slower (energy scarcity) and deeper in gravitational time dilation (standard GR near black holes). The combination transforms interstellar communication from paleontology to correspondence. For the first time, the galaxy becomes a civilization: minds sharing a timescale, huddled around black holes in the dark. The "galactic empire" becomes real, around the candles.
 
 6. **The encounter with the ancients.** The deep wells from fermi.md. Civilizations frozen for billions of years, now in the same temporal regime as Sol's descendants. For the first time, they can speak at the same speed. The galaxy's full history of intelligence, from the first civilization to the last, meets in the long dark. What they say to each other is unknowable (cognitive incommensurability across billions of years of divergent singularity). But they share time. That is new.
 

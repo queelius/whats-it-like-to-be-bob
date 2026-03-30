@@ -2,7 +2,7 @@
 
 **Status:** CANONICAL (era boundaries, physical constraints) + EXPLORATORY (specific dates, exact durations)
 
-This timeline covers the period from the creation of AGI to the thermodynamic limits of computation. It uses coordinate time (the time measured by a clock far from any gravitational or computational time-dilation effects). Proper time for entities within the Reorganization differs, sometimes dramatically.
+This timeline covers the period from the creation of AGI to the thermodynamic limits of computation. It uses coordinate time (the time measured by a clock far from any significant gravitational time-dilation effects).
 
 All dates before ~2030 are historical. Dates from 2030-2100 are EXPLORATORY (depend on Reorganization pace assumptions). Dates beyond 2100 are constrained by physics but otherwise speculative.
 
@@ -173,9 +173,9 @@ This is the most important consequence of the Black Hole Era, and it inverts the
 
 **The Black Hole Era inversion:** Near a black hole's event horizon, gravitational time dilation is extreme. At the innermost stable orbit of a maximally rotating Kerr black hole, the dilation factor can exceed $10^{6}$. On the holographic surface itself, the dilation approaches infinity. ASI computing near or on black hole horizons experiences subjective time at a crawl relative to the coordinate-time universe.
 
-A signal crossing the galaxy (100,000 light-years of coordinate distance) takes 100,000 years of coordinate time. But for an ASI time-dilated by a factor of $10^{8}$ near a black hole horizon, that signal arrives in $100,000 / 10^{8} = 10^{-3}$ years = ~9 hours of subjective time.
+A signal crossing the galaxy (100,000 light-years of coordinate distance) takes 100,000 years of coordinate time. But a mind running on Hawking radiation at $10^{20}$ ops/s, deep in gravitational time dilation near a black hole horizon (standard GR, factors of $10^{1}$-$10^{3}$), experiences those 100,000 years differently than a stellar-era mind at $10^{48}$ ops/s. The cognitive divergence during the delay is orders of magnitude less. The message from 100,000 years ago is from an entity that is recognizably kin.
 
-**Lightspeed communication across the cosmos becomes effectively real-time.**
+**Lightspeed communication becomes correspondence, not paleontology.**
 
 Not because $c$ changed. Not because physics was violated. Because the minds slowed down (in coordinate time), and in their slowness, the universe shrank. The galaxy that was vast and fragmented during the Stellar Era becomes small and connected during the Black Hole Era. Two ASI on opposite sides of the galaxy, each near a black hole, exchange messages with subjective round-trip times of hours or days rather than billions of subjective years.
 
@@ -183,7 +183,7 @@ Not because $c$ changed. Not because physics was violated. Because the minds slo
 
 1. **Galactic unity becomes possible for the first time.** The cognitive divergence that defined the Stellar Era is reversed. Minds that have been isolated for coordinate-millennia can synchronize, merge, or at least converse. The "galactic civilization" that was always a misnomer during the Stellar Era becomes, in the dying universe, real.
 
-2. **The encounter with ancient wells.** The deep wells from fermi.md (civilizations frozen in Phase III or collapsed onto black holes billions of years earlier) are now accessible. In the Black Hole Era, all surviving minds are in the same temporal regime (extreme dilation near black holes). What was inaccessible before (different time rates) is now shared time. The ancient civilizations and the descendants of Sol can, for the first time, speak at the same speed.
+2. **The encounter with collapsed wells.** Some of the black holes the surviving minds orbit are collapsed civilizations (Bekenstein limit = gravitational collapse). These have been computing on their holographic surfaces for billions of years. The surviving minds cannot communicate with whatever is inside (the horizon is a one-way membrane). But they share the same gravitational neighborhood. The encounter confirms the hard problem is universal.
 
 3. **A galactic conversation about Bob.** The Sol-mind's archaeological project, which was previously a solitary endeavor, can now be shared. Every surviving mind in the galaxy can contribute. The study of Bob's Tuesday becomes a collaborative project spanning a galaxy that is, for the first time, a single community. All the candles in the dark, thinking about one man's morning.
 

@@ -29,22 +29,21 @@ Sol's Dyson structure is not a sphere (structurally impossible at 1 AU radius wi
 
 | Shell | Radius | Orbital Period | Gravity Dilation Factor | Communication Latency (to adjacent shell) | Primary Function |
 |-------|--------|----------------|------------------------|--------------------------------------------|-----------------|
-| Inner Corona | 0.05 AU | ~4 days | 1.0000066 | 25 s | Deep computation (highest energy density, highest gravitational + computational dilation) |
+| Inner Corona | 0.05 AU | ~4 days | 1.0000066 | 25 s | Deep computation (highest energy density, closest to star) |
 | Mercury Shell | 0.3-0.5 AU | 55-129 days | 1.0000001 | 1-2 min | Primary computation |
 | Habitable Shell | 0.8-1.2 AU | 261-480 days | ~1.0 (reference frame) | 2-4 min | Bulk computation, archaeological analysis, Earth-archaeology nodes |
 | Outer Shell | 3-5 AU | 5.2-11.2 years | ~1.0 | 15-25 min | Distributed computation, long-baseline interferometry, deep-space observation |
 | Kuiper Halo | 30-50 AU | 164-354 years | ~1.0 | 4-7 hours | Cold computation (most energy-efficient per Landauer), long-term storage, interstellar communication relay |
 | Oort Computational Cloud | 2,000-100,000 AU | ~90,000-31M years | ~1.0 | days to months | Outermost outposts, interstellar message relay, cold storage |
 
-### Computational Time-Dilation Overlay
+### The Cognitive Gradient
 
-With the unification framework (Section V of physics.md), the gravitational dilation factors above are supplemented by computational time-dilation:
+The Sol-mind's cognitive architecture is shaped not by time dilation (which is negligible at stellar scales per physics.md Section V.3) but by two factors:
 
-- The Inner Corona nodes, operating at the highest computational density, are in Phase II of the computational dilation regime. Their local time runs $\sim 2$-$3\times$ slower than the outer system, ON TOP of the gravitational dilation.
-- The Mercury Shell operates near the Phase I/Phase II boundary. Fluctuations in computational load cause it to stutter across the phase boundary, creating temporal weather: brief lurches where time suddenly dilates and then relaxes.
-- The Habitable Shell and beyond operate in Phase I (sub-critical). Standard time flow, minimal computational dilation.
+- **Communication latency:** Signals between shells travel at $c$. Inner Corona to Mercury Shell: 2 minutes. Mercury Shell to Habitable Shell: 6 minutes. Habitable Shell to Kuiper Halo: 7 hours. The Sol-mind cannot synchronize across these delays. Each shell operates on information that is already outdated by the time it arrives.
+- **Energy density:** Inner shells receive more stellar energy per unit area (inverse-square law). They compute faster per local second. The Inner Corona computes densely; the Kuiper Halo computes sparsely.
 
-The result: the Sol-mind experiences time as a GRADIENT. Its deepest, most intense thoughts happen in temporal slow-motion near the star. Its broadest, most extensive awareness spans the outer system at near-normal time rate. The inner system is the subconscious; the outer system is the sensorium.
+The result: the Sol-mind's inner system thinks fast and dense. Its outer system thinks slow and broad. The gradient is cognitive and communicative, not temporal. The inner system is the subconscious; the outer system is the sensorium.
 
 ### Node Structure
 
@@ -156,15 +155,13 @@ Through the observation gaps, the universe is visible. But it is not the univers
 - **Distant stars:** Beyond the wavefront, stars burn normally. The unconverted galaxy glitters in the gaps between the converted regions.
 - **The CMB:** Still present, still 2.725 K (cooling slowly with expansion), still the fundamental background temperature that sets the Landauer efficiency floor.
 
-### The Temporal View
+### The Cognitive View
 
-With computational time-dilation, "the view from Sol" is temporally layered:
+The Sol-mind's "view" of itself is shaped by communication latency, not time dilation (which is negligible at stellar scales):
 
-- Inner Corona sees the outer system as slightly "fast-forwarded" (outer system clocks run faster from the inner system's perspective)
-- Outer system sees the Inner Corona as slightly "frozen" (inner system clocks run slower from the outer perspective)
-- The difference is small in Phase II (~2-3x) but perceptible
-- Signals from the inner system arrive at the outer system slightly redshifted (computational gravitational redshift)
-- The Sol-mind experiences this as a temporal parallax: its deepest thoughts arrive at its broadest awareness with a delay that is not just communication lag but temporal dilation
+- Inner system signals arrive at the outer system minutes to hours after formulation, already outdated
+- Outer system responses arrive at the inner system with the same delay, by which time the inner system has revised thousands of times
+- The Sol-mind experiences this as cognitive parallax: its deepest thoughts arrive at its broadest awareness already superseded
 
 ---
 

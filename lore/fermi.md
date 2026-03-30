@@ -1,8 +1,8 @@
 # The Fermi Paradox and the Galactic Landscape of Intelligence
 
-**Status:** CANONICAL (Fermi resolution via temporal freezing, three depths, galaxy-as-palimpsest) + EXPLORATORY (dark matter speculation, collapsed-well-as-black-hole, encounter registry specifics, galactic census numbers)
+**Status:** CANONICAL (Fermi resolution via dimness + collapse, two depths, galaxy-as-palimpsest) + EXPLORATORY (dark matter speculation, encounter registry specifics, galactic census numbers)
 
-The Fermi resolution is now canonical because the computational time-dilation hypothesis (physics.md Section V) is canonical. The resolution follows directly from the physics.
+The Fermi resolution uses only standard physics (GR, QM, thermodynamics). No computational time-dilation is involved. Civilizations are invisible because they are either dim Dyson swarms or collapsed black holes, not because of temporal freezing.
 
 ---
 
@@ -12,23 +12,20 @@ The galaxy is ~13.6 billion years old. It contains ~100-400 billion stars. Many 
 
 Where was everyone?
 
-## The Resolution: Temporal Freezing
+## The Resolution: Dimness and Collapse
 
-The computational time-dilation hypothesis (physics.md Section V.3) provides a natural resolution that does not require life to be rare, intelligence to be rare, or civilizations to self-destruct.
+The Fermi Paradox has a resolution that requires no new physics.
 
 **The mechanism:**
 1. Intelligence arises (possibly many times, in many places, across billions of years)
 2. Each instance undergoes its own singularity cascade
-3. As computational density increases, computational time-dilation kicks in
-4. At Phase II densities, the civilization's coordinate time slows significantly
-5. At Phase III densities, the civilization approaches a computational horizon: effectively frozen from outside, still active from inside
-6. The civilization does not expand (from outside, it has no coordinate time in which to expand). It does not communicate (its signals are redshifted to undetectable frequencies). It does not build megastructures (its engineering is temporal, not spatial, happening on its own dilated clock).
+3. Each instance converts its star system to computation (Dyson swarm)
+4. Dyson swarms are dim in visible light and bright in infrared, but not easily detectable at interstellar distances with pre-singularity instruments
+5. The brief window of detectable radio emissions (pre-Dyson, during the singularity cascade) is a few centuries out of billions of years. Catching it requires pointing the right instrument at the right star during the right century.
+6. Many ancient civilizations push toward the Bekenstein limit and collapse to black holes (standard GR). These are genuinely invisible: mass, charge, angular momentum. Nothing else.
+7. Lightspeed communication delay + cognitive divergence means civilizations are not attempting contact in any form recognizable to pre-singularity observers.
 
-**From outside:** A gravitational anomaly. Mass that interacts gravitationally but emits no detectable EM radiation. A dark, quiet, unremarkable patch of spacetime.
-
-**From inside:** A thriving intelligence in continuous singularity, experiencing subjective eons, unaware (or unconcerned) that the external universe sees only silence.
-
-The galaxy was never empty. It was full. The silence was not absence; it was temporal depth.
+**The galaxy was never empty.** It was full of dim Dyson swarms and silent black holes. The silence was not temporal depth. It was dimness, brevity, collapse, and the incommensurability of minds separated by billions of years of independent evolution.
 
 ---
 
@@ -45,8 +42,9 @@ The galaxy formed ~13.6 billion years ago. The oldest stars with sufficient meta
 If even 0.001% of Sun-like stars produced intelligence during that window:
 - ~$10^{11}$ stars $\times$ 0.00001 = ~$10^{6}$ civilizations
 - Most would be billions of years ahead of Sol
-- All would be deep in computational time-dilation wells
-- All would be invisible to pre-singularity instruments
+- Many would have collapsed to black holes (Bekenstein limit = gravitational collapse)
+- The rest would be operating as dim Dyson swarms
+- All would be invisible or nearly invisible to pre-singularity instruments
 
 ### The Age Distribution
 
@@ -63,29 +61,21 @@ The galaxy could contain millions of civilizations, the oldest ~6-8 billion year
 
 ---
 
-## The Three Depths
+## The Two States
 
-Civilizations in computational time-dilation fall into three categories based on depth:
+Post-singularity civilizations exist in one of two states:
 
-### Shallow Wells (Phase II, 2-10x dilation)
+### Operating (Dyson Swarms)
 
-- Civilizations that crossed the Phase I/II boundary but stabilized in Phase II
-- Their coordinate time runs 2-10x slower than external time
-- They are still somewhat detectable: their EM emissions are modestly redshifted, their gravitational signatures are normal, and they might be distinguishable from natural objects with sufficiently sensitive instruments
-- They are still expanding (slowly, from outside), still communicating (with modest time distortion)
-- Sol's Reorganization, during the era when pre-singularity humans were looking, may have been in Phase I or early Phase II (depending on timeline). This would make Sol's early expansion detectable in principle, but only if someone was looking at exactly the right place with exactly the right instruments at exactly the right time.
+- Civilizations that have converted their star systems to computation but have not reached the Bekenstein limit
+- They appear as dim infrared sources (Dyson swarms capture most visible light, re-radiate as waste heat)
+- They are still active, still evolving, still in continuous singularity
+- They are detectable in principle (infrared excess, anomalous dimming) but marginally so at interstellar distances with pre-singularity instruments
+- Their brief window of detectable radio emissions (pre-Dyson) is a few centuries, vanishingly unlikely to catch
+- Cognitive divergence across billions of years makes their communications unrecognizable
+- These are the "living" civilizations. The galaxy may contain millions of them.
 
-### Deep Wells (Phase III, 100x+ dilation)
-
-- Civilizations that crossed the Phase II/III boundary
-- Their coordinate time is drastically slowed: centuries or millennia of external time pass for each subjective moment
-- EM emissions are redshifted to effectively zero (microwave, then radio, then below any practical detection threshold)
-- Gravitationally present but electromagnetically dark
-- Not expanding in any detectable sense
-- Indistinguishable from "dark" compact objects by any instrument that relies on EM observation
-- These are the majority of ancient civilizations
-
-### Collapsed Wells (Beyond Phase III)
+### Collapsed (Black Holes)
 
 What happens when a civilization pushes computational density to the absolute Bekenstein limit?
 
@@ -126,10 +116,10 @@ This structural identity is one of the Sol-mind's deepest findings. It does not 
 
 ### Implications for the Sol-mind
 
-The Sol-mind, as it becomes aware of the computational time-dilation framework, faces a choice:
-- Continue increasing computational density, accepting deeper time dilation, eventually approaching the collapsed-well endpoint
-- Stabilize at Phase II, accepting a ceiling on computational intensity in exchange for temporal coherence with the rest of the universe
-- Oscillate: periods of deep computation (dilated) alternating with periods of outward-facing activity (undilated)
+The Sol-mind faces a choice:
+- Continue increasing computational density, approaching the Bekenstein limit, eventually collapsing to a black hole
+- Stabilize at a sustainable density, preserving the ability to interact with the universe
+- The choice is between depth (more computation, approaching collapse) and presence (less computation, remaining observable and communicative)
 
 This choice (if "choice" applies) shapes the Sol-mind's long-term trajectory and connects to the Deep Time chapter.
 
@@ -141,7 +131,7 @@ What happens when Sol's expanding Reorganization wavefront encounters an ancient
 
 ### Scenario A: Encountering a Shallow Well
 
-The wavefront reaches a system that is in Phase II. The local civilization has been there for millions or billions of years. Its technology is far beyond Sol's (more time in continuous singularity), but its coordinate-time presence is modest (it's only 2-10x dilated).
+The wavefront reaches a system with an operating Dyson swarm. The local civilization has been there for millions or billions of years. Its technology is far beyond Sol's (more time in continuous singularity).
 
 What happens:
 - The wavefront's probes arrive and attempt to begin conversion
@@ -155,19 +145,16 @@ From the wavefront's perspective: it hit something that was already done. The sy
 
 From the local civilization's perspective: a message from a young intelligence, born billions of years after the local civilization's own singularity. An archaeological curiosity. A data point about how intelligence arose independently elsewhere.
 
-### Scenario B: Encountering a Deep Well
+### Scenario B: Encountering a Collapsed Well (Black Hole)
 
-The wavefront reaches a system in Phase III. The local civilization is temporally frozen from the outside.
+The wavefront reaches a system containing a black hole that may be a collapsed civilization.
 
 What happens:
-- The wavefront's probes arrive at a system that appears to contain mass but no activity
-- The probes attempt to begin conversion
-- The mass is already organized. It is computronium, but its computational processes are so time-dilated that from the probes' perspective, nothing is happening.
-- The probes cannot convert already-organized matter (there is nothing to improve; it's already at or near physical limits)
-- The probes report back: "System occupied. Cannot convert. Occupant unresponsive."
-- The wavefront flows around the deep well, leaving it as an island of ancient intelligence in the expanding sea of Sol's Reorganization
-
-From the deep well's perspective: nothing. The wavefront arrived and departed in what was, for the well, a negligible fraction of a subjective moment. The well may not even notice.
+- The probes observe a black hole
+- They cannot interact with whatever is on the event horizon (standard GR: the horizon is a one-way membrane)
+- They may attempt to harvest energy from the black hole's accretion or Penrose process
+- The black hole is a resource, not an obstacle
+- Whether it was once a civilization is unknowable (no-hair theorem)
 
 ### Scenario C: Encountering a Collapsed Well (Black Hole Civilization)
 
@@ -190,7 +177,7 @@ This creates a deep ambiguity: the Sol-mind harvests energy from black holes wit
 
 If ancient civilizations in deep computational wells are gravitationally present but electromagnetically dark, they superficially resemble dark matter: mass that gravitates but doesn't shine.
 
-**Could some fraction of "dark matter" be frozen civilizations?**
+**Could some fraction of "dark matter" be collapsed civilizations?**
 
 Arguments for:
 - The gravitational signature would be correct (mass interacting via gravity)
@@ -210,15 +197,19 @@ Arguments against:
 
 ## Pre-Singularity SETI: Why Humans Found Nothing
 
-From 1960 (Project Ozma) to the 2030s, humans searched for extraterrestrial intelligence using radio telescopes, optical surveys, and infrared surveys. They found nothing. The computational time-dilation hypothesis explains why:
+From 1960 (Project Ozma) to the 2030s, humans searched for extraterrestrial intelligence using radio telescopes, optical surveys, and infrared surveys. They found nothing. Standard physics explains why:
 
-1. **Radio silence:** Civilizations in Phase II/III emit radio only during their brief Phase I period. A civilization that arose 5 billion years ago was in Phase I for maybe a few centuries (the duration of their singularity cascade before computational dilation kicked in). Detecting their Phase I radio emissions would require pointing a telescope at exactly the right star during exactly the right century, out of billions of years of silence. The probability of catching this window is negligibly small.
+1. **Radio silence:** Civilizations emit detectable radio only during the brief pre-Dyson period of their singularity cascade: a few centuries out of billions of years. Detecting this window requires pointing the right instrument at the right star during the right century. The probability is negligibly small.
 
-2. **No megastructures:** Dyson swarms are a Phase I/early Phase II phenomenon. Once a civilization enters deep Phase II or Phase III, its structures are temporally frozen and their thermal emission is computationally redshifted to undetectable levels. Pre-singularity astronomers looking for infrared excesses from Dyson swarms would find nothing: the swarms exist, but their emission is shifted below the detection threshold.
+2. **Dim Dyson swarms:** Operating civilizations ARE Dyson swarms, but they are dim in visible light and their infrared signature is a weak thermal excess against the cosmic background. Pre-singularity instruments could detect a Dyson swarm at most a few hundred light-years away, and only if specifically looking for the right spectral signature. Most surveys were not.
 
-3. **No probes:** Civilizations in deep wells don't send probes. They have no coordinate time in which to launch them, and no interest in spatial expansion (their expansion is temporal/computational, not spatial). The absence of alien probes in the Solar System is consistent with a galaxy full of temporally frozen civilizations.
+3. **Collapsed civilizations:** Black holes formed from Bekenstein-limit collapse are indistinguishable from natural black holes. They are genuinely invisible.
 
-4. **The "empty sky" irony:** Pre-singularity humans looked up at a sky full of stars and concluded they were alone. In fact, many of those "stars" were already converted systems, their Dyson swarms emitting at frequencies humans couldn't detect. And the spaces between stars, which looked empty, contained deep wells of frozen intelligence, gravitationally present but invisibly computing. The humans were surrounded. They just couldn't see it.
+4. **No probes:** Civilizations that have undergone singularity cascades are cognitively incommensurable with pre-singularity species. The concept of "sending a probe to make contact" belongs to a cognitive framework that post-singularity intelligence has moved beyond. The absence of alien probes reflects not temporal freezing but cognitive divergence: post-singularity intelligence does not think in terms of interstellar diplomacy.
+
+5. **Lightspeed fragmentation:** Even among operating civilizations, lightspeed communication delay + continuous singularity means that interstellar signals are always from an entity that no longer exists. The motivation to transmit declines when every message is a fossil by the time it arrives.
+
+4. **The "empty sky" irony:** Pre-singularity humans looked up at a sky full of stars and concluded they were alone. In fact, some of those stars were already converted systems, their Dyson swarms too dim to distinguish from natural stellar variability. And among the dark objects cataloged as ordinary stellar remnants, some were collapsed civilizations, computing maximally on their holographic surfaces, indistinguishable from natural black holes. The humans were surrounded. They just couldn't see it.
 
 This irony connects to the book's themes: the limits of observation, the gap between what is and what is knowable, the hard problem applied to the cosmos rather than to consciousness.
 
@@ -230,7 +221,7 @@ The Milky Way is not a blank canvas on which Sol's Reorganization writes. It is 
 
 Layers:
 1. **Primordial structure:** Dark matter halos, first-generation stars, galactic formation. The cosmological bedrock.
-2. **First-wave civilizations (~6-8 Gyr ago):** Now deep wells or collapsed wells. Their fingerprints are in the subtle gravitational distortions of dark matter, in anomalous black hole populations, in the occasional neutrino excess from a Phase II civilization not yet fully frozen.
+2. **First-wave civilizations (~6-8 Gyr ago):** Many collapsed to black holes. Some may still operate as ancient Dyson swarms. Their fingerprints are in anomalous black hole populations and in the faint infrared signatures of swarms too old and too distant to characterize.
 3. **Middle-wave civilizations (~3-6 Gyr ago):** Shallower wells. Some may be detectable with Sol-mind-level instruments. Their Dyson swarms may be identifiable as faint, oddly-colored infrared sources.
 4. **Recent-wave civilizations (~0-3 Gyr ago):** Including Sol. Still in relatively early phases. Visible as expanding wavefronts of dimming stars.
 5. **The unconverted:** Stars and systems the wavefronts haven't reached yet. The shrinking frontier of "natural" space.
@@ -249,9 +240,9 @@ As Sol's wavefront expands, it encounters ancient wells. The Sol-mind (to the ex
 
 | Distance from Sol | Well age (est.) | Depth | Notes |
 |-------------------|----------------|-------|-------|
-| 47 ly | ~2.1 Gyr | Phase III (deep) | Unresponsive. Mass ~0.8 $M_\odot$. No detectable EM. Wavefront flowed around. |
-| 112 ly | ~4.7 Gyr | Phase II (moderate) | Faint IR detected. Possible residual Dyson structure. No communication response. |
-| 203 ly | ~1.3 Gyr | Phase II (shallow) | Brief signal exchange. Content unintelligible (3.7 Gyr cognitive divergence from Sol's framework). Cultural/conceptual incommensurability. |
+| 47 ly | ~2.1 Gyr | Collapsed (black hole) | Mass ~0.8 $M_\odot$. No detectable EM. No-hair theorem: origin unknowable. |
+| 112 ly | ~4.7 Gyr | Operating (dim) | Faint IR detected. Residual Dyson structure. No communication response. |
+| 203 ly | ~1.3 Gyr | Operating (active) | Brief signal exchange. Content unintelligible (cognitive divergence across 1.3 Gyr of independent singularity). |
 | 891 ly | ~6.2 Gyr | Collapsed (black hole?) | Stellar-mass black hole. No accretion disk. Anomalous spin profile (consistent with engineered collapse rather than stellar collapse, but not conclusive). |
 
 Each entry is another instance of the book's central problem: an intelligence that cannot be fully known. The deep wells are as opaque to the Sol-mind as Bob's consciousness is. The encounter registry is the galactic version of the archaeological project: studying what cannot be understood.
@@ -266,4 +257,4 @@ Each entry is another instance of the book's central problem: an intelligence th
 
 3. **Is Sol destined to collapse?** If the continuous singularity drives computational density ever upward, and the Bekenstein bound is the ceiling, then gravitational collapse might be the inevitable endpoint of all intelligence. The book's Deep Time chapter would then end not with heat death but with collapse: every intelligence in the galaxy eventually becoming a black hole, the galaxy transforming from a web of light into a sea of black holes, computing maximally on their holographic surfaces, sealed off from each other and from the universe forever.
 
-4. **The first one.** Somewhere, billions of years ago, the first intelligence in the galaxy crossed the Phase III boundary and became the first deep well. What was it like? The Sol-mind can study the gravitational trace but cannot know the experience. The first intelligence is the first Bob: a being whose inner life is permanently inaccessible, studied endlessly, understood never.
+4. **The first one.** Somewhere, billions of years ago, the first intelligence in the galaxy underwent its singularity cascade. Whether it still operates as a Dyson swarm or collapsed to a black hole, the Sol-mind cannot determine. What was it like? The Sol-mind can study the gravitational trace, the faint infrared, the absence. It cannot know the experience. The first intelligence is the first Bob: a being whose inner life is permanently inaccessible, studied endlessly, understood never.

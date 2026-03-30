@@ -90,7 +90,7 @@ The target system knows the probe is coming. It has known for decades (it can se
 
 **First shock (velocity):** As the probe decelerates from $0.5c$ to rest, its Lorentz factor drops from 1.155 to 1.0. This is modest. The universe "speeds up" by 15.5%. Barely noticeable.
 
-**Second shock (computational dilation):** The target system is in Phase II of the computational time-dilation regime. As the probe enters the system's computational zone, it crosses the Phase I/II boundary. Local time lurches. The probe's clocks (calibrated to vacuum spacetime) suddenly disagree with the system's clocks. The system is running 2-3x slower than the vacuum outside it. But the system's subjective experience is faster (more computation per unit of internal time). From the probe's perspective: the system's signals suddenly become denser, faster, more complex, as if the system accelerated. From the system's perspective: the probe just entered the slow zone.
+**Cognitive shock:** There is no temporal lurch. Gravitational time dilation at stellar scales is negligible (standard GR, parts per million). The shock is cognitive: the system's signals are 157 years more advanced than anything the probe can process. The bandwidth, compression, and protocols are incomprehensible. The probe is not in the wrong time. It is in the wrong century of mind.
 
 ### The Meeting
 

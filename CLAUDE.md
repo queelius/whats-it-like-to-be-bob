@@ -31,7 +31,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `lore/stellar-system.md`: Sol system post-Reorganization. Five Dyson shells, cognitive gradient, what happened to Earth.
 - `lore/archaeology.md`: Five schools of interpretation (Positivist, Modal, Constructionist, Structuralist, Apophatic). The 8:03 AM litmus test.
 - `lore/timeline.md`: Four eras from AGI (~2032) through Black Hole Era ($10^{100}$+ years). The Great Unification. Bob's life contextualized.
-- `lore/fermi.md`: Fermi Paradox resolved by computational time-dilation. Three depths. Galaxy as palimpsest.
+- `lore/fermi.md`: Fermi Paradox resolved by dimness + collapse (standard physics). Two states (operating Dyson swarms, collapsed black holes). Galaxy as palimpsest.
 - `lore/probe.md`: Probe 7447-Lyra. 364-year journey at $0.5c$. The unclassified 15%. Structural parallel to Bob.
 - `lore/interiority.md`: Post-singularity experience. Three layers of unknowing. Five prose strategies.
 - `lore/themes.md`: Primary themes (growth vs constraint, persistence of mystery, archaeology of self, scale, finitude).
@@ -58,7 +58,7 @@ These are **NON-NEGOTIABLE**:
 3. **Thermodynamics is real.** Computation costs energy. Landauer's principle. Bekenstein bounds.
 4. **No free miracles.** Every capability has a cost. Every new physics creates new constraints.
 5. **Consciousness remains hard.** The hard problem is not solved. Not by ASI, not by anyone.
-6. **Computational time-dilation is canonical.** Dense computation dilates local time. Phase transitions at critical densities. Gravitational and computational dilation compound near black holes.
+6. **No new physics.** Computation gravitates through its mass-energy content (standard GR). At stellar scales, this is negligible. At the Bekenstein limit, it IS black hole formation. There is no computational time-dilation, no phase transitions, no coupling constant. One physics.
 
 ## Key Narrative Facts
 

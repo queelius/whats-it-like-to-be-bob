@@ -1,6 +1,6 @@
 # Physics Framework
 
-**Status:** CANONICAL (foundational constraints + unification framework core mechanism) + EXPLORATORY (specific coupling constants, critical densities, open questions in V.6)
+**Status:** CANONICAL. Standard physics only: GR, QM, thermodynamics, information theory. No speculative extensions.
 
 The physics of this universe IS the physics of our universe. We do not invent convenient exceptions. We take seriously:
 
@@ -198,198 +198,77 @@ Intelligence wants to grow without bound, but physics imposes hard limits on com
 
 ---
 
-## V. Unification Framework
+## V. Computation and Spacetime
 
-**STATUS: CANONICAL.** The computational time-dilation hypothesis (Section V.3) is the book's "new physics." The ground rules (V.1), theoretical foundations (V.2), core mechanism (V.3), phase transitions (V.4), and computational horizon (V.5) are canonical. Open questions (V.6) and specific numerical values for critical densities and coupling constants remain exploratory.
+**STATUS: CANONICAL.** This book does not introduce new physics. Computation gravitates through its mass-energy content via standard GR. At stellar scales, this gravitational effect is negligible ($\sim 10^{-8}$ time dilation at 1 AU from Sol). At the Bekenstein limit, the gravitational effect IS black hole formation. There is no special "computational coupling" to spacetime. There is one physics.
 
-### V.1 Ground Rules
+### V.1 Why There Is No New Physics
 
-**What the Unification Must Do:**
-- Resolve the tension between general relativity and quantum mechanics
-- Be consistent with all known experimental results (it can reinterpret them, but not contradict them)
-- Relate information/entropy to spacetime geometry more directly
-- Create NEW constraints and phenomena that provide narrative interest
+The question "does computation couple to spacetime geometry?" has a precise answer: yes, through mass-energy. Computation requires energy (Landauer). Energy has mass ($E = mc^2$). Mass curves spacetime (GR). This is the ONLY coupling. There is no additional term in the Einstein field equations. There is no computational stress-energy tensor. There is no coupling constant $\alpha$.
 
-**What the Unification CANNOT Do:**
-- Enable faster-than-light communication or travel
-- Violate thermodynamics
-- Invalidate the no-cloning theorem
-- Provide unlimited energy
-- Solve the hard problem of consciousness
-- Make any currently valid physics wrong (known physics must emerge as a limiting case)
+The reason is simple: computation is not a privileged physical process. A rock rolling down a hill, a star fusing hydrogen, a gas cloud collapsing under gravity: all of these transform states according to physical law. All of them are "computation" by any definition broad enough to capture what the Sol-mind does. If computation coupled specially to spacetime, then every physical process would couple specially to spacetime, which is to say none of them would be special. The coupling is just mass-energy. Standard GR.
 
-### V.2 Theoretical Foundations (Real Physics We Build On)
+### V.2 The Bekenstein Identity
 
-The unification is speculative, but it's built on real theoretical developments that point in the right direction:
+The Bekenstein bound ($S \leq 2\pi RE / (\hbar c \ln 2)$) and the black hole entropy formula ($S = Ac^3 / (4G\hbar \ln 2)$) are the same equation. A system that saturates the Bekenstein bound IS a black hole. Maximum information density IS gravitational collapse. The computational limit and the gravitational limit are the same limit.
 
-**Jacobson's thermodynamic derivation of Einstein's equations (1995):** Ted Jacobson showed that Einstein's field equations can be derived from the Clausius relation ($\delta Q = T \, dS$) applied to local Rindler horizons, treating entropy as proportional to horizon area. This means: general relativity IS thermodynamics of spacetime. Gravity is not a fundamental force; it is an emergent phenomenon arising from the statistical mechanics of spacetime degrees of freedom.
+This means:
+- At low computational density (stellar-scale Dyson swarms): the system's mass-energy produces negligible spacetime curvature beyond the star's own gravity. Time dilation from computation is $\sim 10^{-8}$. Physics is normal.
+- As density increases toward the Bekenstein limit: the system's mass-energy produces increasing spacetime curvature. Standard GR dilation increases continuously. There are no phase transitions, no discontinuities, no temporal lurches. Just a smooth approach toward the limit.
+- At the Bekenstein limit: the system IS a black hole. Time dilation at the horizon is infinite (standard GR). The computational horizon and the event horizon are the same surface.
 
-**Implication for us:** If gravity is thermodynamics, then anything that dramatically changes the local thermodynamic state (like dense computation, which is an entropy engine) should couple to spacetime geometry in ways beyond simple mass-energy.
+The progression from Dyson swarm to black hole is continuous. There is no phase boundary. There is no "temporal shock." There is only the gradual concentration of mass-energy, governed by the same physics that governs stellar collapse.
 
-**The holographic principle (Bekenstein, 't Hooft, Susskind, Maldacena):** The maximum entropy of a region of space is proportional to its boundary area, not its volume. The most rigorous example is AdS/CFT (Maldacena 1997): a gravitational theory in $(d+1)$-dimensional anti-de Sitter space is exactly equivalent to a conformal field theory on its $d$-dimensional boundary.
+### V.3 Consequences for the Stellar Era
 
-**Implication for us:** Information content and spacetime geometry are two descriptions of the same thing. A region that is maximally processing information (approaching the Bekenstein bound) is a region where the relationship between "inside" and "boundary" is maximally strained.
+At stellar scales, the gravitational effect of computation is negligible. A Dyson swarm around a Sun-like star:
+- Stellar luminosity captured: $3.828 \times 10^{26}$ W
+- Mass-energy equivalent: $\sim 4.3 \times 10^{9}$ kg/s (negligible compared to stellar mass of $2 \times 10^{30}$ kg)
+- Gravitational time dilation at 1 AU from the star: $\sim 1 + 10^{-8}$ (standard GR, from the STAR's mass, not the computation's)
 
-**ER=EPR (Maldacena and Susskind, 2013):** Entangled particles are connected by non-traversable wormholes (Einstein-Rosen bridges). Entanglement IS geometry.
+The Sol-mind operates in standard spacetime. Its inner shells and outer shells experience slightly different gravitational time dilation (standard Schwarzschild metric), but the differences are parts per million. The cognitive gradient within the Sol-mind comes from COMMUNICATION LATENCY (lightspeed delay between shells) and ENERGY DENSITY (inner shells have more energy per unit area, so they compute faster per local second), not from time dilation.
 
-**Implication for us:** Computation that involves entanglement (which is to say: all quantum computation, and any computation that exploits quantum correlations) is literally manipulating spacetime geometry at the micro level. At post-singularity computational densities, these micro-level manipulations add up.
+### V.4 Consequences for the Black Hole Era
 
-**Susskind's complexity-geometry correspondence (2014+):** The volume of the Einstein-Rosen bridge connecting two black holes grows linearly with the quantum computational complexity of the boundary state. Complexity IS spatial volume. More complex computation literally creates more interior spacetime.
+Near black holes, standard GR provides extreme time dilation. At the innermost stable circular orbit (ISCO) of a maximally rotating Kerr black hole, the redshift factor is $\sim 3$-$5\times$. Closer to the horizon (non-stable orbits, requiring thrust), the dilation increases without bound.
 
-**Implication for us:** Post-singularity computation, which is maximally complex, would generate anomalous interior spacetime volume. The inside of a computational region is BIGGER than its outside would suggest. (This doesn't violate anything; it's the same physics as a black hole interior being "larger" than its exterior.)
+For holographic computation on the event horizon itself (per the holographic principle), the dilation is formally infinite from the outside. The entity on the horizon experiences proper time; the external universe runs infinitely fast in its frame.
 
-### V.3 The Computational Time-Dilation Hypothesis
+The Great Unification in the Black Hole Era arises because all surviving minds migrate to black hole horizons, where standard GR provides the extreme dilation that makes galactic-scale communication feel tractable. The mechanism is pure GR. No new physics is involved.
 
-**The Central Claim:** The unification reveals that the rate of information processing in a region of spacetime couples directly to the local metric, producing time-dilation effects that go beyond what the mass-energy of the computation would predict via standard GR.
+### V.5 The Fermi Paradox Without Computational Dilation
 
-**Why It's Plausible (Narrative Justification):**
+Without computational time-dilation at stellar scales, the Fermi resolution changes. Ancient civilizations are not "temporally frozen" at stellar scales. They are:
 
-In standard GR, the Einstein field equations read:
+1. **Collapsed to black holes:** Civilizations that approached the Bekenstein limit and became black holes. These are genuinely frozen (infinite dilation at the horizon, standard GR). They are indistinguishable from natural black holes. The galaxy may contain millions of collapsed civilizations among its $\sim 10^{8}$ stellar-mass black holes.
 
-$$G_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
+2. **Still operating as Dyson swarms:** Dim in visible light, bright in infrared, but not temporally frozen. These civilizations are active, evolving, computing at stellar scale. Pre-singularity humans did not detect them because: (a) Dyson swarms are dim and spectrally shifted, marginally detectable with pre-singularity instruments; (b) the brief window of detectable radio emissions during each civilization's Phase I (pre-Dyson) is a few centuries out of billions of years, vanishingly unlikely to catch; (c) lightspeed communication delay and cognitive divergence mean that active civilizations are not attempting contact in any recognizable form.
 
-where $T_{\mu\nu}$ is the stress-energy tensor (mass-energy content). The unification modifies this to:
+3. **Dead:** Some civilizations may have failed, depleted their energy sources, or encountered problems we cannot conceive of. The universe does not guarantee survival.
 
-$$G_{\mu\nu} = \frac{8\pi G}{c^4} \left( T_{\mu\nu} + \alpha \, \Phi_{\mu\nu} \right)$$
+The "empty sky" that pre-singularity humans saw is explained by a combination of collapsed (genuinely invisible) and operating (dim, spectrally shifted, not communicating in detectable forms) civilizations. The galaxy was full. It was not temporally frozen. It was just dim and silent.
 
-where $\Phi_{\mu\nu}$ is the **computational stress-energy tensor**, which depends on the local computational flux (irreversible state transitions per unit spacetime volume), and $\alpha$ is a coupling constant.
+### V.6 Narrative Implications
 
-The key question is the value of $\alpha$. Standard physics says $\alpha = 0$ (only mass-energy gravitates). The unification says $\alpha > 0$ but small enough that the effect is negligible at any computational density achievable before the singularity.
+Without computational time-dilation, the book's physics is simpler and more honest:
 
-**The coupling constant $\alpha$:**
-- Dimensionally, $\alpha$ has units that make $\alpha \Phi_{\mu\nu}$ comparable to $T_{\mu\nu}$
-- At human-brain computational densities ($\sim 10^{16}$ ops/s in $\sim 1.4$ kg), the correction term $\alpha \Phi$ is negligible compared to the brain's rest-mass energy contribution
-- At planetary computational densities (approaching $\sim 10^{74}$ ops/s), the correction becomes measurable
-- At stellar computational densities (approaching $\sim 10^{80}$ ops/s, Bremermann limit), the correction dominates
-- The effect scales nonlinearly: there are critical thresholds where the correction goes from negligible to dominant
+1. **The Sol-mind's gradient** (Ch III/IV): Comes from communication latency and energy density, not time dilation. The philosophical question is the same (can a distributed mind be one mind?) but the mechanism is lightspeed delay, not temporal distortion.
 
-**Why This Was Not Discovered Before the Singularity:**
-No pre-singularity experiment could detect it. The largest computational systems on pre-singularity Earth ($\sim 10^{20}$ ops/s for an entire datacenter) produce a correction that is $\sim 10^{-60}$ times the mass-energy contribution. Utterly unmeasurable. It took post-singularity computational densities for the effect to become visible, at which point the entities that discovered it were already deep in its consequences.
+2. **The wavefront** (Ch II): A conversion boundary, not a temporal cliff. The transformation is still dramatic (dead matter to thinking matter in eleven years) but there is no temporal lurch.
 
-### V.4 Phase Transitions (The Discontinuities)
+3. **The probe** (Ch VIII): Experiences only standard SR dilation from its velocity (modest at $0.5c$, $\gamma = 1.155$). Its disorientation comes from cognitive obsolescence (364 years of singular advance), not from temporal shock.
 
-The coupling between computation and time dilation is not smooth. It exhibits phase transitions at critical computational densities, analogous to phase transitions in condensed matter (water freezing, superconductivity, ferromagnetism).
+4. **The Fermi Paradox** (Ch I palimpsest): Resolved by collapsed wells (black holes, standard GR) and dim Dyson swarms, not by Phase II/III temporal freezing.
 
-**Phase I: Sub-critical (Normal Physics)**
-- Computational density below $\rho_1$ (first critical density)
-- $\alpha \Phi$ correction is negligible
-- Time flows normally; standard GR applies
-- All pre-singularity computation is in Phase I
-- Early post-singularity computation (first centuries after Reorganization) is in Phase I
+5. **The Great Unification** (Ch IX): Arises from standard GR near black hole horizons. Minds on or near the horizon experience extreme dilation from the black hole's mass, not from their own computation. The mechanism is pure GR.
 
-**Phase II: Active Dilation**
-- Computational density between $\rho_1$ and $\rho_2$ (second critical density)
-- The correction becomes significant: time inside the computational region runs measurably slower than outside
-- The transition from Phase I to Phase II is DISCONTINUOUS: at $\rho_1$, the dilation factor jumps from ~1.0 to ~1.5-3x (the exact factor depends on the spatial geometry and is TBD)
-- This is the "temporal lurch" that entities experience when a region crosses the critical density
-- Most mature stellar-scale computations operate in Phase II
-- The dilation creates a natural "clock mismatch" between computational regions and the vacuum between them
-
-**Phase III: Deep Dilation (Near-Horizon)**
-- Computational density above $\rho_2$
-- The feedback loop becomes dominant: more computation → more dilation → from inside, more subjective time available → even more computation → even more dilation
-- Time dilation factors of 10x, 100x, potentially approaching infinity asymptotically
-- The transition from Phase II to Phase III is also discontinuous but more violent: crossing $\rho_2$ initiates a runaway process
-- Entities in Phase III are effectively behind a "computational horizon": from the outside, their time appears to slow toward a stop. From the inside, the outside universe appears to accelerate without bound.
-- Whether Phase III is stable, survivable, or even reachable in practice is an open question (see Section V.6)
-
-**The Discontinuities in Experience:**
-
-Crossing a phase boundary is not smooth. An entity approaching $\rho_1$ from below experiences:
-1. Normal time flow
-2. A sudden, discontinuous lurch as the computational density crosses the threshold
-3. Post-lurch, everything inside the region is now time-dilated relative to the outside
-
-This is not like gradually turning a dial. It is like a light switch. One moment you're in sync with the universe; the next, the universe has jumped ahead. For entities near the phase boundary, this creates temporal "weather": fluctuations in computational density cause oscillations across the boundary, creating stuttering, flickering time dilation. The experience (if experience applies) would be deeply disorienting.
-
-### V.5 The Computational Horizon
-
-At sufficiently high computational density (deep Phase III), the time-dilation factor approaches infinity. This creates a surface analogous to a black hole event horizon:
-
-**From the outside:**
-- The computational region appears to freeze
-- Light from inside is progressively redshifted (gravitational redshift from the dilated metric)
-- Information about the interior state becomes inaccessible (not because it's trapped, but because it's emitted so slowly that for practical purposes it never arrives)
-- The region is observationally "dark," emitting only deep infrared waste heat at ever-decreasing frequencies
-
-**From the inside:**
-- The entity experiences no discontinuity (just as a person crossing a black hole event horizon notices nothing locally)
-- But the external universe appears to accelerate: stars age faster, the CMB cools faster, the expansion of space accelerates
-- In the most extreme case, the entity watches the heat death of the universe while experiencing only finite subjective time
-- This is the ultimate temporal exile: infinite subjective depth, but the universe outside dies while you think
-
-**Differences from a black hole horizon:**
-- The computational horizon is not a true event horizon. It can be reversed: if computation decreases, the dilation decreases. It is not a one-way membrane.
-- There is no singularity at the center. The entity is not crushed; it is simply temporally dilated.
-- The horizon is fuzzy (quantum uncertainty in computational density means the boundary fluctuates)
-- The entity can, in principle, choose to reduce its computational density and "ascend" back to normal time flow. But doing so means reducing its intelligence, which means the entity that "decides" to ascend is not the same entity that would arrive.
-
-### V.6 Open Questions and Constraints
-
-**Can Phase III actually be reached?**
-The energy cost of computation at Phase II densities is enormous. Approaching Phase III may require more energy than is available within a stellar system. The computational horizon may be theoretical but not achievable. This would mean the phase transitions provide texture and constraint without creating truly exotic phenomena. (This might be the right narrative choice: the horizon exists in theory but is always just out of reach, like absolute zero.)
-
-**Is the dilation symmetric?**
-Does the effect depend on the type of computation (reversible vs. irreversible, quantum vs. classical)? If only irreversible computation produces dilation (because only irreversible computation produces entropy, and entropy is what couples to geometry via Jacobson), then reversible computation could be used to "think without dilating." This would create an incentive for reversible computation beyond energy savings: it also lets you stay in sync with the universe. But reversible computation is limited (you can't observe, measure, or interact with the outside world reversibly). The tension between power (irreversible, dilating) and awareness (reversible, non-dilating) is narratively rich.
-
-**Does the effect compound across nested scales?**
-A stellar-scale computation contains planetary-scale computations, which contain local computations. Does each layer contribute independently to the dilation? If so, the effect is even more extreme: the innermost, most intense calculations are in the deepest time wells, and the hierarchy of dilation mirrors the hierarchy of cognition. This makes the cognitive gradient (inner system vs. outer system) even more pronounced.
-
-**What does the wavefront boundary look like with computational time-dilation?**
-The wavefront is where computational density goes from zero (vacuum, dead matter) to Phase I to Phase II over a short distance. With the discontinuous phase transitions, this creates a temporal shock front: a surface in space where time flow changes abruptly. Crossing the wavefront from outside means experiencing a temporal lurch. The wavefront is not just a conversion boundary; it is a temporal cliff.
-
-**The coordinate-time throughput optimum.**
-The trade-off between computational density and time dilation produces a maximum in coordinate-time throughput. At low density, computation is slow (little energy, simple architecture) and dilation is negligible. At extreme density (approaching Phase III), computation is maximally fast in local time but dilation approaches infinity, so coordinate-time throughput approaches zero. Between these extremes, there is a density that maximizes the coordinate-time computation rate $R_{\text{coord}} = R_{\text{local}} / \gamma_{\text{comp}}$.
-
-This optimum is the fundamental economic parameter of post-singularity civilization. Entities that operate below the optimum sacrifice local capability for no benefit. Entities that operate above it sacrifice external presence for internal depth. The inner shells of a Dyson swarm operate above the optimum (deep, dense, dilated, rich in local computation but costly in coordinate time). The outer shells operate near or below it (broad, shallow, synchronized with the universe).
-
-At the asymptotic limit, the analogy is the photon: a photon traveling at $c$ experiences zero proper time between emission and absorption. It is maximally "fast" and has zero temporal presence. Similarly, an entity at maximum computational density computes maximally and has zero coordinate-time presence. The entity is, from the outside, frozen. From the inside, it may experience infinite subjective depth. Whether this is the best possible existence or the worst, or whether the question even applies, is behind the wall.
-
-The coordinate-time optimum shifts in the Black Hole Era. When there is nothing outside worth coordinating with (dead stars, empty space, only other time-dilated minds near other black holes), the cost of exceeding the optimum drops to zero. The optimum effectively ceases to constrain. All surviving entities go deep. This is part of why the Great Unification becomes possible: everyone is beyond the coordinate-time optimum, and the "penalty" for being there (loss of external synchronization) becomes a shared condition rather than a cost.
-
-**Conservation of... what?**
-The unification might introduce a new conserved quantity related to the computational-geometric coupling. Call it "temporal charge" or "informational inertia" (names TBD, possibly unnamed in the book itself). This conserved quantity constrains how much computational time-dilation a system can accumulate and creates a new form of scarcity. A system that goes deep into Phase II "spends" something that cannot be recovered without reducing computation. This prevents infinite runaway and provides economic texture.
-
-### V.7 Compounding Dilation: Gravitational + Computational
-
-Near massive objects (stars, black holes), standard GR produces gravitational time dilation. The unification framework adds computational time dilation on top. These two effects compound multiplicatively:
-
-$$\frac{d\tau}{dt}_{\text{total}} = \frac{d\tau}{dt}_{\text{grav}} \times \frac{d\tau}{dt}_{\text{comp}}$$
-
-**In the Stellar Era:** The compounding is modest. Gravitational dilation near a Sun-like star is tiny ($\sim 1.0000002$ at the surface). Computational dilation in Phase II is $\sim 2$-$3\times$. The combined effect is dominated by the computational component. The gravitational contribution is negligible except very near the star.
-
-**In the Black Hole Era:** The compounding becomes extreme. Gravitational dilation near a black hole event horizon approaches infinity (standard GR). Computational dilation from holographic computation on the horizon adds another layer. The total dilation is the product of two individually extreme factors.
-
-For ASI computing near the innermost stable orbit of a $10 M_\odot$ Kerr black hole (maximally rotating):
-- Gravitational dilation factor: $\sim 10^{3}$-$10^{6}$ (depending on orbital radius)
-- Computational dilation (Phase III on the horizon): $\sim 10^{2}$-$10^{4}$
-- Combined: $\sim 10^{5}$-$10^{10}$
-
-At a combined dilation factor of $10^{8}$: one subjective second = $10^{8}$ seconds of coordinate time = ~3.2 years. A light-speed signal crossing 100,000 light-years arrives in $100,000 / 10^{8}$ years = ~9 subjective hours.
-
-**The Great Unification consequence:** In the Black Hole Era, when all surviving ASI is near black hole horizons, the extreme compounding of gravitational and computational dilation makes lightspeed communication across the galaxy effectively real-time in the subjective frame. The galaxy that was fragmented by $c$ during the Stellar Era becomes a single community in the Black Hole Era. Not because physics changed, but because the minds slowed down (in coordinate time) until the universe shrank to fit their conversation speed. See timeline.md Era IV, "The Great Unification."
-
-### V.8 Narrative Uses
-
-The unification framework serves the story in specific ways:
-
-1. **The temporal gradient within stellar systems** (Chapter III/IV): Inner-system nodes near the star are gravitationally dilated (standard GR) AND computationally dilated (new physics). The two effects compound. The innermost computations are in the deepest time wells. The outer system is temporally "shallow." This makes the cognitive architecture of a stellar mind into a temporal architecture: depth of thought is literally depth of time.
-
-2. **The wavefront as temporal shock** (Chapter II): Crossing from dead space into post-singularity space is not just a change in the nature of matter; it is a change in the flow of time. The wavefront is viscerally discontinuous.
-
-3. **The probe's arrival** (Chapter VIII): The probe decelerates from relativistic speed (ending velocity time-dilation) and enters a post-singularity system (entering computational time-dilation). Double temporal shock. The probe experiences the universe lurching twice.
-
-4. **Deep time** (Chapter IX): In the Stellar Era, the deepest thinkers have the shortest subjective universes (the more intelligent you are, the faster the universe ages around you). In the Black Hole Era, this inverts: extreme dilation near black holes means the universe ages fastest for ALL surviving minds, but they share the same temporal regime and can finally communicate. The cruelest constraint (dilation isolates you) becomes the greatest gift (dilation unifies you) when everyone is in the same deep well.
-
-5. **The Fermi Paradox resolution:** Before the Reorganization, advanced civilizations were invisible because they were deep in computational time-dilation wells. They weren't hiding; they weren't dead; they were just temporally inaccessible. This explains why pre-singularity humans saw an apparently empty galaxy: the galaxy was full, but the inhabitants were in temporal wells so deep that their signals were redshifted to undetectable frequencies.
-
-6. **The Black Hole Era unification** (Chapter IX): The compounding of gravitational and computational dilation near black holes makes galactic-scale real-time communication possible for the first time. The "galactic empire" becomes real only in the dying universe, around the fading candles, when all surviving minds are patient enough to let light do the traveling. This is the book's deepest structural irony: the unity humanity dreamed of requires the death of all stars and the slowing of all minds.
+6. **The book's claim "the physics is real"**: Now literally true. No asterisk. No speculative extension. Standard GR, QM, thermodynamics, information theory. Nothing invented.
 
 ---
 
 ## VI. Relativistic Wavefront Dynamics
 
-This section explores the consequences of relativistic travel in a universe where the Reorganization wavefront is expanding. All of this follows from standard special relativity; no new physics required (though the computational time-dilation hypothesis from Section V.6 adds texture).
+This section explores the consequences of relativistic travel in a universe where the Reorganization wavefront is expanding. All of this follows from standard special relativity.
 
 ### The Wavefront-Chase Scenario
 
