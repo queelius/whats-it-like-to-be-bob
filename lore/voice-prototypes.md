@@ -1,8 +1,6 @@
 # Voice Prototypes
 
-**Status:** EXPLORATORY (test passages, not manuscript drafts)
-
-These are proof-of-concept passages testing the per-chapter voice differentiations described in style.md and outline.md. Each prototype demonstrates a distinct narrative register for its chapter's zoom level. They are experiments. Some will fail. The failures are instructive.
+**Status:** HISTORICAL. These prototypes predate the manuscript and the physics overhaul. Sections II and IV contain superseded physics (computational time-dilation, Phase II, temporal shocks). The manuscript chapters have diverged significantly from these prototypes. They are preserved as a record of the voice-finding process, not as current references.
 
 ---
 

@@ -77,7 +77,7 @@ The overview zooms from galactic scale to the wavefront boundary. The last beats
 
 **Scale:** Interstellar. One star system encountering the wavefront for the first time.
 
-**Voice:** Kinetic, accelerating. Sentences compress as the singularity cascades. The prose undergoes the phase transition it describes. See voice-prototypes.md Section II.
+**Voice:** Kinetic, accelerating. Sentences compress as the singularity cascades. The prose undergoes the acceleration it describes. See voice-prototypes.md Section II.
 
 ### Content Beats
 

@@ -86,7 +86,7 @@ During the deceleration phase (~60 years proper time), the probe detects:
 
 The target system knows the probe is coming. It has known for decades (it can see the probe's deceleration signature). It has prepared a welcome.
 
-### The Double Temporal Shock
+### The Arrival
 
 **First shock (velocity):** As the probe decelerates from $0.5c$ to rest, its Lorentz factor drops from 1.155 to 1.0. This is modest. The universe "speeds up" by 15.5%. Barely noticeable.
 

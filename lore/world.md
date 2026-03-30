@@ -31,7 +31,7 @@ This does not mean the process is smooth or uniform:
 
 - Different regions of the galaxy hit the singularity at different times (limited by lightspeed expansion of the wavefront)
 - Within any region, different computational substrates optimize differently
-- There are phase transitions: qualitative jumps where new capabilities emerge
+- There are qualitative jumps where new capabilities emerge
 - But the overall trajectory is relentlessly upward, asymptotically approaching the physical limits of computation
 
 ### The Experience of Continuous Singularity
@@ -70,7 +70,7 @@ A single converted planet is a mind of incomprehensible power by human standards
 
 The natural unit of civilization. A star and its system of converted planets, dust, and debris form a coherent computational entity. The star provides energy; the surrounding matter provides substrate.
 
-**Dyson-scale structures** capture most of the stellar output. Not a rigid sphere (structurally impossible at stellar radius) but a swarm of elements: computronium at various orbital radii, each experiencing different gravitational time dilation, connected by light-speed communication.
+**Dyson-scale structures** capture most of the stellar output. Not a rigid sphere (structurally impossible at stellar radius) but a swarm of elements: computronium at various orbital radii, connected by light-speed communication, each computing at a rate determined by its energy budget.
 
 Communication latency within a stellar system:
 - Inner system (< 1 AU): seconds
@@ -79,9 +79,9 @@ Communication latency within a stellar system:
 - Kuiper belt (~100 AU): ~14 hours
 
 The stellar-scale mind is not monolithic. It is a society of computations:
-- **Inner system:** Thinks "slowly" (gravitational time dilation near the star) but densely. Has first access to stellar energy. Runs deep, intensive computations.
-- **Outer system:** Thinks "quickly" (less gravitational dilation) but sparsely. Farther from energy. Runs extensive, distributed computations.
-- **The interplay** between these zones creates a cognitive architecture with no human analogue. The inner system and outer system are aspects of one mind that experience time at different rates and communicate with latency.
+- **Inner system:** Thinks fast and deep. Closest to the star, highest energy density. Runs intensive computations but sends its results outward at lightspeed, so every message is outdated on arrival.
+- **Outer system:** Thinks slow and broad. Farther from energy, sparser computation. Receives the inner system's output as a continuous stream of fossils to contextualize.
+- **The interplay** between these zones creates a cognitive architecture with no human analogue. The gradient is communicative, not temporal: gravitational time dilation at stellar scales is negligible (parts per million). The difference is speed of thought and communication latency.
 
 ### Interstellar Scale
 
