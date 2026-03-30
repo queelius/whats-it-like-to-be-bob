@@ -25,7 +25,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `chapters/09_deep_time.tex`: Ch IX. Thermodynamic scale. Elegiac, the Great Unification, the ending.
 
 ### Lore Bible (13 documents)
-- `lore/physics.md`: THE foundational document. Hard physics constraints. Computational time-dilation (CANONICAL). **Read this first.**
+- `lore/physics.md`: THE foundational document. Hard physics constraints. Standard GR, QM, thermodynamics, information theory only. No speculative extensions. **Read this first.**
 - `lore/world.md`: The setting at all scales, from cosmological to Bob
 - `lore/bob.md`: Robert Allen Kessler. Born 1987, died Nov 8 2030 (age 43, pre-singularity). The Tuesday: March 14, 2028. Maya (born 2018, age 9), Ethan (born 2021, age 6).
 - `lore/stellar-system.md`: Sol system post-Reorganization. Five Dyson shells, cognitive gradient, what happened to Earth.
