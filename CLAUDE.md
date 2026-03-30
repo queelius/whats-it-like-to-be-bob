@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **What's It Like To Be Bob?** (title; after Nagel's "What Is It Like to Be a Bat?") is a hard science fiction novella exploring a post-singularity galactic civilization through multiple zoom levels. No traditional protagonist or narrative arc. Matter throughout the galaxy is being systematically reorganized into structured intelligence; continuous singularity events cascade at every scale. The structure zooms from cosmological scale down to a single human's Tuesday afternoon (Bob Kessler, claims adjuster, Columbus, Ohio), then back out to deep time. Bob is the fulcrum.
 
-**Current Status:** First draft complete. 9 chapters, ~21,000 words, 64 pages. Two full editorial reviews completed (2026-03-26 lore review, 2026-03-27 manuscript review). All HIGH issues resolved. Entering revision phase.
+**Current Status:** First draft complete. 9 chapters, ~21,000 words, 64 pages. Five editorial reviews completed (2026-03-26 through 2026-03-30). All HIGH issues resolved. Physics overhaul completed (computational time-dilation stripped; standard physics only). Publication-ready.
 
 **Genre:** Hard science fiction. The physics is real. The numbers are right.
 
@@ -17,11 +17,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `chapters/01_the_overview.tex`: Ch I. Cosmological scale. Naturalist voice.
 - `chapters/02_the_wavefront.tex`: Ch II. Interstellar scale. Accelerating prose.
 - `chapters/03_the_system.tex`: Ch III. Stellar scale. Contemplative, nested sentences.
-- `chapters/04_the_gradient.tex`: Ch IV. Within-system scale. Temporal rhythm variation.
+- `chapters/04_the_gradient.tex`: Ch IV. Within-system scale. Cognitive gradient, communication latency.
 - `chapters/05_the_archive.tex`: Ch V. Archaeological scale. Discovery, wonder.
 - `chapters/06_bob.tex`: Ch VI. Human scale. THE fulcrum. Dual-voice (Register A: Bob's lived experience; Register B: ASI reconstruction in `\recon` blocks).
 - `chapters/07_the_counterfactual.tex`: Ch VII. Analytical scale. Modal, philosophical.
-- `chapters/08_the_probe.tex`: Ch VIII. Relativistic scale. Disorientation, temporal vertigo.
+- `chapters/08_the_probe.tex`: Ch VIII. Relativistic scale. Disorientation, cognitive obsolescence.
 - `chapters/09_deep_time.tex`: Ch IX. Thermodynamic scale. Elegiac, the Great Unification, the ending.
 
 ### Lore Bible (13 documents)
