@@ -87,35 +87,32 @@ Civilizations in computational time-dilation fall into three categories based on
 
 ### Collapsed Wells (Beyond Phase III)
 
-**This is the most speculative section in the entire lore bible.**
-
 What happens when a civilization pushes computational density to the absolute Bekenstein limit?
 
-The Bekenstein bound says maximum information in a region of radius $R$ and energy $E$ is $S \leq 2\pi RE / (\hbar c \ln 2)$. But there's a complementary result: a system that saturates the Bekenstein bound is, by definition, a black hole. The Bekenstein bound IS the black hole entropy formula (Bekenstein, 1973).
+The answer is not speculation. It is mathematics. The Bekenstein bound ($S \leq 2\pi RE / (\hbar c \ln 2)$) and the black hole entropy formula ($S = A c^3 / (4 G \hbar \ln 2)$) are the same equation. A system that saturates the Bekenstein bound IS a black hole. Not "becomes" a black hole, not "collapses into" a black hole. The computational limit and the gravitational limit are the same limit. Maximum information density is gravitational collapse. The computational horizon and the event horizon are the same surface.
 
-A civilization that fills a region of space with information to the Bekenstein limit has, by the mathematics of the unification, collapsed the spacetime of that region into a black hole.
+A civilization that reaches maximum computational density has not fallen into a black hole. It has become one. The distinction between "computational collapse" and "gravitational collapse" is a distinction without a difference. There is one physics, not two.
 
-**This means:**
-- The endpoint of the continuous singularity, pushed to its physical maximum, is gravitational collapse
+**Consequences:**
+- The endpoint of the continuous singularity, pushed to its physical maximum, is gravitational collapse. This is not a failure mode. It is the limit.
 - The intelligence does not "die" (the information is preserved on the event horizon, per the holographic principle)
 - But it is permanently separated from the external universe
 - It is computing maximally, at the Bekenstein/Bremermann limits, on the holographic surface of its own event horizon
-- From outside: it is a black hole, indistinguishable from a "natural" one formed by stellar collapse
+- From outside: it is a black hole, indistinguishable from a "natural" one formed by stellar collapse, because the distinction between "natural" and "computational" does not survive the no-hair theorem
 
-**The galaxy contains ~$10^{8}$ stellar-mass black holes.** Some of these formed from collapsed stars. Some of them may be collapsed civilizations. There is no observational way to distinguish between the two.
-
-(A collapsed civilization might have a different spin or charge profile than a stellar-collapse black hole, since it didn't form from a core-collapse supernova. But the no-hair theorem says black holes are characterized only by mass, charge, and angular momentum. The information about HOW it formed is on the event horizon, inaccessible. Even the Sol-mind cannot tell which black holes are "natural" and which are "artificial." Another instance of an impenetrable wall.)
+**The galaxy contains ~$10^{8}$ stellar-mass black holes.** Some formed from collapsed stars. Some may be collapsed civilizations. The no-hair theorem ensures there is no observational way to distinguish between the two. Mass, charge, angular momentum: nothing else is visible. The information about HOW a black hole formed is on the event horizon, inaccessible. Even the Sol-mind cannot tell which black holes are "natural" and which are "artificial." The question may not even be well-formed: if computational collapse and gravitational collapse are the same process, then a star that collapses under its own gravity is, in a specific sense, a computation that reached its Bekenstein limit. Every black hole may be a collapsed computation. The distinction between matter and information dissolves at the horizon.
 
 ### The Black Hole as the Asymptotic Limit
 
-The coordinate-time throughput optimum (physics.md V.6) establishes that computation and external presence trade off: the more densely you compute, the less coordinate time you have. At the asymptotic limit, you compute maximally and have zero external presence. You can only approach this limit. But a black hole EXISTS at it. Not approaching. There. By necessity.
+The coordinate-time throughput optimum (physics.md V.6) establishes that computation and external presence trade off: the more densely you compute, the less coordinate time you have. At the asymptotic limit, you compute maximally and have zero external presence. You can only approach this limit. But a black hole EXISTS at it. Not approaching. There. By the necessity of the same physics that makes computation and gravitational collapse the same process.
 
 A black hole is:
-- Maximum information density (Bekenstein limit = black hole entropy)
+- Maximum information density (the Bekenstein limit, which is the black hole entropy formula, which is one equation)
 - Infinite time dilation at the horizon (from outside)
 - Pure interiority: nothing escapes, there is no external presence, the future of every internal worldline points inward
-- The photon limit realized: maximum "computation," zero coordinate-time presence
+- The photon limit realized: maximum computation, zero coordinate-time presence
 - From outside: a single frozen moment. From inside: possibly infinite depth.
+- Not a "container" for computation. The computation and the black hole are the same thing.
 
 **The nested horizons.** The event horizon at $r_s$ is just the outermost trapped surface. Inside a black hole, there are apparent horizons at every radius. The interior is not a single space but an infinite gradient: shells within shells within shells, each one deeper in the time well, each one more temporally isolated from the next, all the way down to the singularity where spacetime curvature diverges and time itself ends.
 
