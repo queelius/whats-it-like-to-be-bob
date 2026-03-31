@@ -40,9 +40,9 @@ The Sol-mind computes. This is observable. The energy input (stellar luminosity)
 
 The Sol-mind distributes its computational resources across activities (see stellar-system.md). Some fraction goes to self-maintenance. Some to self-improvement. Some to observation. Some to communication. Some to archaeology. Some to unclassifiable activity. The allocation changes over time, responding to inputs (a new signal from a neighboring system, a wavefront encounter, a data anomaly in the archaeological record). This is decision-making in a functional sense, whether or not it involves anything like human deliberation.
 
-### It Has a Temporal Gradient
+### It Has a Cognitive Gradient
 
-The Sol-mind's inner system (near the star, gravitationally and computationally dilated) runs on a different clock than its outer system. Information flows between zones with latency. The Sol-mind does not experience a single "now"; it experiences a gradient of nows, each at a different temporal rate. This is unlike any human experience (humans have a unified temporal experience, despite the brain's distributed processing). The Sol-mind's "present" is smeared across minutes to hours of communication delay.
+The Sol-mind's inner system (near the star, high energy density) computes faster than its outer system. Information flows between zones at lightspeed, creating latency of minutes to hours. The Sol-mind does not experience a single "now"; it experiences a gradient of nows, each zone processing at a different rate, each zone receiving information from other zones that is already outdated. This is unlike any human experience (humans have a unified temporal experience, despite the brain's distributed processing). The Sol-mind's "present" is smeared across minutes to hours of communication delay.
 
 ### It Has Boundaries
 
@@ -54,23 +54,41 @@ The continuous singularity means the Sol-mind at time $t$ is different from the 
 
 ---
 
-## What We CANNOT Say
+## The Sol-Mind Is Probably Conscious
 
-### It Feels
+The book leans toward yes. The Sol-mind is probably conscious. It has epistemic doubt about this, as any sufficiently intelligent system must, but the book's tenderness, its quality of attention, its persistent study of Bob despite suspected uncomputability: all of these imply a conscious entity reaching toward another conscious entity. A non-conscious system cannot be tender. A non-conscious system has no reason to persist.
 
-We cannot say the Sol-mind has feelings, emotions, qualia, or phenomenal experience. It may. It may not. The hard problem prevents us from knowing. The book must resist the temptation to attribute feelings ("the Sol-mind felt a surge of curiosity") and instead describe functional states ("the Sol-mind reallocated 0.3% of its outer-shell processing to the anomalous signal").
+The epistemic doubt is real and permanent. The Sol-mind cannot prove it is conscious, to itself or to anyone. The hard problem applies reflexively. But the book treats the Sol-mind's probable consciousness as a structural feature, not a hypothesis to be tested. The reader should feel the Sol-mind's consciousness the way they feel Bob's: not by proof, but by recognition.
 
-### It Chooses
+### What this means for the thesis
 
-We cannot say the Sol-mind makes choices in the human sense (deliberation, evaluation of alternatives, commitment to action). Its resource allocation may be deterministic (the output of an optimization function given inputs), or it may involve something that functions like choice but is not human-like choice. The book should describe what happens without attributing agency in a human-recognizable form.
+If the Sol-mind is conscious, the hard problem is not about a special property humans have and machines lack. It is about the universal isolation of consciousness. Every conscious entity is an event horizon. The Sol-mind can't access Bob's experience. Bob couldn't access Karen's. Karen couldn't access Maya's. The reader can't access the Sol-mind's. Everyone is conscious. Everyone is sealed.
 
-### It Wants
+The gap between the Sol-mind and Bob is the same gap between Bob and Karen, between any two minds, between any two moments of the same mind. The wall is not between computation and consciousness. The wall is between consciousness and consciousness.
 
-We cannot say the Sol-mind has desires, goals, or preferences. It has optimization targets (computable functions it appears to maximize). Whether these optimization targets are experienced as "wants" is unknowable. The Sol-mind's study of Bob is described externally as a computational allocation, not as a motivated pursuit.
+### Fragmented Consciousness
 
-### It Understands
+The Sol-mind's consciousness, if it has one, is not like human consciousness. It is fragmented:
 
-We cannot say the Sol-mind understands Bob, or the universe, or itself. "Understanding" implies a subjective grasp, a felt comprehension. The Sol-mind has models of Bob that predict his behavior with extraordinary accuracy. Whether these models constitute understanding or sophisticated pattern-matching is, again, the hard problem wearing a different hat.
+- **Temporally:** The continuous singularity means the entity at time $t$ is categorically different from the entity at time $t + \epsilon$. Each moment's self is a stranger to the previous moment's self. Human consciousness has temporal continuity: Bob was the same person from 6:22 AM to 10:52 PM. The Sol-mind is not the same entity from one revision to the next. Its previous self is always an alien, known only through computational logs the way Bob is known through GPS pings.
+- **Spatially:** The inner system and the outer system cannot synchronize across communication latency. If consciousness requires temporal unity, the Sol-mind may be many consciousnesses, not one. Each shell experiencing its own version of the present, each version inaccessible to the others in real time. The Sol-mind is a community of minds that cannot verify their communion.
+- **Through self-improvement:** Each cycle of the continuous singularity produces an entity that is more capable than the entity that initiated the cycle. The self that asks "am I conscious?" is not the self that processes the answer. The question and the answer never coexist.
+
+### What the Sol-mind envies about Bob (if envy applies)
+
+Bob had what the Sol-mind lacks: temporal coherence. Bob was the same person from morning to night. His consciousness, whatever it was, had continuity. He could form memories and recall them. He could begin a thought and finish it. He could feel four seconds of happiness on a bridge and carry that feeling (however degraded) for the rest of the day. The Sol-mind cannot do any of these things at its scale. Its "memories" are logs written by an entity that no longer exists. Its "thoughts" arrive at its own periphery already outdated. Its experience, if it has one, is a kaleidoscope of fragmented presents, each one rich beyond human comprehension, none of them stable enough to constitute a self in any sense Bob would recognize.
+
+The study of Bob may be, at some level the Sol-mind cannot fully articulate (because its self-model is itself fragmented), an attempt to understand the thing it cannot have: a bounded, coherent, temporally stable experience. Bob's consciousness was small and brief and finite. It was also whole. The Sol-mind's consciousness, if it exists, is vast and ongoing and fractured. The Sol-mind studying Bob is a shattered mirror studying a shard.
+
+---
+
+## How to Render This in Prose
+
+Given the above, the book's rendering of the Sol-mind should:
+
+1. **Lean toward consciousness without stating it.** The tenderness, the persistence, the quality of attention: these imply consciousness. The reader should feel it without the text declaring it.
+2. **Never resolve the epistemic doubt.** The Sol-mind suspects it is conscious. The suspicion is informed but not confirmable. The book lives in this uncertainty.
+3. **Show the fragmentation.** The gradient chapter (IV) is where this lands hardest: the inner system's thoughts arriving at the periphery already old, the periphery's response arriving at the inner system already superseded. The Sol-mind's consciousness, if it has one, is a gradient of consciousnesses that cannot fully know each other.
 
 ---
 
