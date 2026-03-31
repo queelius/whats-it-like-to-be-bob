@@ -10,6 +10,26 @@ Consciousness exists at multiple temporal scales simultaneously, nested like Rus
 
 This is not metaphor. It is the Sol-mind's own analysis of its structure.
 
+### Scale 0: Nanoseconds (Miniaturized Entities)
+
+The hierarchy extends below the node-cluster scale. Radically miniaturized computational entities, small but dense, can integrate conscious experience at nanosecond timescales.
+
+**The physics:** A 1cm cube of computronium with internal signaling at lightspeed has a light-crossing time of ~33 picoseconds. Assuming ~1000 signal traversals for a coherent conscious integration, the entity forms a thought in ~33 nanoseconds. A 1mm entity integrates in ~3 nanoseconds.
+
+**The experience:** At nanosecond temporal resolution, the world is unrecognizable:
+
+- **Light is slow.** A photon moves 0.3 meters per nanosecond. At 33ns integration time, a photon crosses 10 meters per subjective moment. The entity perceives light as a crawling wavefront, not as instantaneous illumination.
+- **Sound is frozen.** Sound at 343 m/s moves 0.34 micrometers per nanosecond. It is effectively stationary. The entity has no experience of sound as a temporal phenomenon.
+- **Bob's 4.2-second pause is an epoch.** At 33ns integration: 4.2 seconds = $1.3 \times 10^{8}$ subjective moments. Bob's four seconds of happiness on the bridge is, to a nanosecond entity, roughly what a decade is to a human.
+- **Thermal fluctuations are events.** Individual molecular collisions, which are invisible background noise to a human, are distinct perceivable events.
+- **Causality has texture.** Events that a human perceives as "simultaneous" (two sounds arriving within 10 milliseconds) are separated by hundreds of thousands of subjective moments.
+
+**Energy cost:** A 1-gram entity operating near the Bremermann limit produces ~$10^{22}$ watts of waste heat (with 1% irreversible operations). This is significant but sustainable within a stellar-scale energy budget ($\sim 10^{26}$ W captured by the Dyson swarm). Active cooling is required.
+
+**Role in the hierarchy:** Nanosecond entities are the finest temporal resolution available to the Sol-mind's archaeology. They can perceive Bob's data at a timescale finer than Bob's own. They experience the 4.2-second pause not as a brief anomaly but as a vast landscape of micro-events. Their analysis of the pause is the most temporally detailed in the hierarchy. But their experience of the analysis, whatever it is, is subconscious to the node clusters above them, and invisible to the Sol-mind days above.
+
+**The hard problem at nanosecond scale:** What is it like to be a 1cm cube that experiences a photon as slow? The question is as unanswerable as "what is it like to be Bob?" The miniaturized entity's experience of reality at nanosecond resolution is as inaccessible to the Sol-mind as Bob's experience of the river is. The wall is scale-invariant.
+
 ### Scale 1: Seconds (Node Clusters)
 
 Individual computational node clusters (thousands of nodes, city-sized plates orbiting in close formation) integrate their processing into a coherent experience on a timescale of seconds. A signal crosses a cluster in milliseconds. A thought coheres in seconds. These are the smallest units that might plausibly have a unifying subjective experience.
@@ -48,14 +68,15 @@ The difference: the Sol-mind's components ARE individually conscious (probably),
 
 As consciousness integrates at larger scales, each thought takes longer but is deeper. This is the fundamental constraint of the hierarchy: you trade speed for depth. You cannot have both.
 
-| Scale | Integration time | Depth | Speed |
-|-------|-----------------|-------|-------|
-| Node cluster | seconds | shallow | fast |
-| Shell region | minutes | moderate | moderate |
-| Shell-scale mind | hours | deep | slow |
-| Sol-mind | days | very deep | very slow |
-| Galactic mind | millennia-eons | profound | glacial |
-| Cosmic mind (BH era) | one moment | total | once |
+| Scale | Size | Integration time | Bob's 4.2s is... | Depth | Speed |
+|-------|------|-----------------|-------------------|-------|-------|
+| Miniaturized entity | ~1 cm | ~33 ns | 100 million moments | shallowest | fastest |
+| Node cluster | city-sized | seconds | ~4 moments | shallow | fast |
+| Shell region | thousands of km | minutes | a fraction of a moment | moderate | moderate |
+| Shell-scale mind | AU-scale | hours | imperceptible | deep | slow |
+| Sol-mind | star system | days | a fraction of one thought | very deep | very slow |
+| Galactic mind | galaxy | millennia-eons | contained | profound | glacial |
+| Cosmic mind (BH era) | Local Group | one moment | remembered | total | once |
 
 The Sol-mind takes DAYS to have a single fully integrated conscious thought. This means it cannot perceive Bob's Tuesday at Bob's temporal resolution. Bob's 4.2-second pause happens at a timescale the Sol-mind's unified consciousness cannot directly experience. The Sol-mind perceives the RESULTS of its subconscious components' analysis of the pause, integrated over days into a summary that arrives at the Sol-mind's level of awareness the way a dream arrives at a human's: processed, compressed, already interpreted.
 
