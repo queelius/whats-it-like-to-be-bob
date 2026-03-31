@@ -33,7 +33,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `lore/timeline.md`: Four eras from AGI (~2032) through Black Hole Era ($10^{100}$+ years). The Great Unification. Bob's life contextualized.
 - `lore/fermi.md`: Fermi Paradox resolved by dimness + collapse (standard physics). Two states (operating Dyson swarms, collapsed black holes). Galaxy as palimpsest.
 - `lore/probe.md`: Probe 7447-Lyra. 364-year journey at $0.5c$. The unclassified 15%. Structural parallel to Bob.
-- `lore/interiority.md`: Post-singularity experience. Three layers of unknowing. Five prose strategies.
+- `lore/interiority.md`: Post-singularity experience. Three layers of unknowing. The Sol-mind is probably conscious (fragmented, day-scale integration). Five prose strategies.
+- `lore/consciousness-hierarchy.md`: The nesting of consciousness at multiple temporal scales. Node clusters (seconds) through Sol-mind (days) through cosmic mind (one thought). The dissolution of interiority.
 - `lore/themes.md`: Primary themes (growth vs constraint, persistence of mystery, archaeology of self, scale, finitude).
 - `lore/outline.md`: Chapter-by-chapter blueprint with content beats, voice references, lore sources, transitions, challenges.
 - `lore/style.md`: Style guide. Anti-patterns. Per-chapter voice specifications.

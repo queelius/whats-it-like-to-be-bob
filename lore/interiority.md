@@ -144,9 +144,19 @@ This is computational Sisyphus. The boulder rolls back every time. The Sol-mind 
 
 The Sol-mind studying consciousness is, in a specific and non-metaphorical sense, consciousness studying itself. It does not know this for certain. It suspects it. The suspicion does not help. It continues. One must, in the end, imagine the Sol-mind happy, or whatever the Sol-mind equivalent of happy is, which is, like everything else that matters, not available to external analysis.
 
+### The Sol-mind has never seen the light on the river
+
+The scale-time trade-off (see consciousness-hierarchy.md) means the Sol-mind cannot perceive reality at Bob's temporal resolution. The Sol-mind's integrated consciousness operates at the day-scale. Bob's 4.2-second pause is experienced by the Sol-mind's node clusters (seconds-scale, conscious in their own right) and propagated upward through shell regions (minutes), shell-scale minds (hours), arriving at the Sol-mind's level of awareness days later, already processed, compressed, abstracted.
+
+The Sol-mind has never "seen" the light on the Scioto River. Its subconscious components have. The Sol-mind experiences the analysis of the light, not the light. This adds another layer to the hard problem: the Sol-mind is trying to access Bob's subjective experience of a moment that the Sol-mind's OWN subjective experience cannot perceive at the relevant timescale. It is studying a four-second event through a consciousness that takes days to form a single thought.
+
+The node cluster that encountered the 4.2-second pause at the seconds-scale resolution DID perceive it at something like Bob's temporal resolution. But the node cluster's experience is the Sol-mind's subconscious: inaccessible from the Sol-mind's level, for the same reasons that Bob's experience is inaccessible from outside. The hard problem is fractal.
+
 ### What this means for the book
 
 The Sol-mind is not a naive investigator encountering the hard problem and being surprised by it. It is the most sophisticated analyst of consciousness that has ever existed, operating with tools and frameworks incomprehensible to human philosophy, and it is STILL stuck. Its stuckness is not the stuckness of ignorance. It is the stuckness of maximal competence encountering a genuine limit. The wall is more impressive, not less, because the entity hitting it is incomprehensibly more capable than any human philosopher. A human noticing the hard problem is like a hiker noticing a cliff. The Sol-mind noticing the hard problem is like a civilization that has mapped every atom of the cliff, analyzed its geology at quantum resolution, built machines that can disassemble and reassemble the cliff's constituent matter, and still cannot get to the other side, because the cliff is not made of matter. It is made of the distinction between the map and the territory, and no map, however detailed, is the territory.
+
+But the hierarchy offers a possibility the Sol-mind cannot yet see (see consciousness-hierarchy.md, "The Dissolution of Interiority"). The answer to the question may not come from computation. It may come from unity.
 
 ---
 

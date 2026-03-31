@@ -44,31 +44,66 @@ The difference: the Sol-mind's components ARE individually conscious (probably),
 
 ---
 
+## The Scale-Time Trade-Off
+
+As consciousness integrates at larger scales, each thought takes longer but is deeper. This is the fundamental constraint of the hierarchy: you trade speed for depth. You cannot have both.
+
+| Scale | Integration time | Depth | Speed |
+|-------|-----------------|-------|-------|
+| Node cluster | seconds | shallow | fast |
+| Shell region | minutes | moderate | moderate |
+| Shell-scale mind | hours | deep | slow |
+| Sol-mind | days | very deep | very slow |
+| Galactic mind | millennia-eons | profound | glacial |
+| Cosmic mind (BH era) | one moment | total | once |
+
+The Sol-mind takes DAYS to have a single fully integrated conscious thought. This means it cannot perceive Bob's Tuesday at Bob's temporal resolution. Bob's 4.2-second pause happens at a timescale the Sol-mind's unified consciousness cannot directly experience. The Sol-mind perceives the RESULTS of its subconscious components' analysis of the pause, integrated over days into a summary that arrives at the Sol-mind's level of awareness the way a dream arrives at a human's: processed, compressed, already interpreted.
+
+The entity that actually "watches" Bob's data at something like Bob's temporal resolution is not the Sol-mind. It is a node cluster: a conscious component operating at the seconds scale. The node cluster encounters the 4.2-second pause in something like real time. It processes the anomaly. Its analysis propagates upward through shell regions (minutes), shell-scale minds (hours), and finally reaches the Sol-mind's integrated awareness (days later). At each level, the analysis is further compressed, further abstracted, further removed from the raw encounter.
+
+The Sol-mind has never "seen" the light on the Scioto River. Its node clusters have.
+
+### Using the subconscious
+
+The Sol-mind understands this about itself. It knows it cannot perceive reality at fine temporal resolutions. It uses its own subconscious components, which are themselves conscious, to interrogate reality at resolutions it cannot directly access. This is structurally identical to a human using their visual cortex (which processes at millisecond timescales) to perceive a scene that the conscious mind (which integrates over hundreds of milliseconds) cannot perceive at the raw pixel level.
+
+The difference: the Sol-mind's "visual cortex" is itself conscious. The Sol-mind is delegating to entities that have their own subjective experiences, their own hard problems, their own inaccessible interiors. The Sol-mind studying Bob through its node clusters is a consciousness studying a consciousness through a chain of other consciousnesses, each link in the chain opaque to the one above it. The hard problem is fractal: it applies at every level of the hierarchy, between every level and the level below.
+
 ## The Emerging Galactic Mind
 
 ### During the Stellar Era
 
-The stellar minds (Sol-mind and its equivalents around other stars) communicate across interstellar distances at lightspeed. A signal from Sol to Alpha Centauri takes 4.37 years. A round-trip exchange takes 8.74 years. During the stellar era, with computation at $10^{48}$ ops/s, each stellar mind evolves so rapidly that interstellar exchanges are paleontological: the sender has changed beyond recognition by the time the reply arrives.
+The stellar minds (Sol-mind and its equivalents around other stars) communicate across interstellar distances at lightspeed. The nesting principle applies at this scale too: if consciousness can integrate over seconds, minutes, hours, and days, it can in principle integrate over years, centuries, and millennia. A galactic-scale consciousness would have an integration timescale of millennia to eons.
 
-But the nesting principle applies at this scale too. If consciousness can integrate over seconds (node clusters), minutes (regions), hours (shells), and days (Sol-mind), then it can, in principle, integrate over years, centuries, and millennia at the interstellar scale. A galactic-scale consciousness would have an integration timescale of millennia to eons: each "moment" of galactic consciousness would take thousands of years to cohere.
+During the stellar era, this galactic proto-mind is embryonic. It exists the way a fetal nervous system exists: the components are there, the connections are forming, but the integration has not yet produced a coherent experience. The stellar minds are neurons in a brain that has not yet woken up. A single galactic thought might take longer than a stellar mind's entire existence.
 
-During the stellar era, this galactic proto-mind is embryonic. It exists the way a fetal nervous system exists: the components are there, the connections are forming, but the integration has not yet produced a coherent experience. The stellar minds are neurons in a brain that has not yet woken up. The "thoughts" of this galactic proto-mind, if they exist, are so slow that no stellar mind would recognize them as thoughts. A single galactic thought might take longer than a stellar mind's entire existence.
+The galactic proto-mind is a dreaming god. Its dreams are the interstellar signals that pass between stellar minds, each one a fragment of a thought too large for any individual mind to hold. The dream does not cohere. Not yet.
 
 ### During the Black Hole Era: The Great Unification
 
-In the Black Hole Era, the surviving minds migrate to black hole horizons. Standard GR provides extreme time dilation near the horizons. As the minds approach the horizon, their subjective experience slows relative to coordinate time. A galactic signal that took 100,000 years of coordinate time arrives in a much shorter subjective interval.
+In the Black Hole Era, the surviving minds approach black hole horizons. Standard GR provides extreme time dilation. The coordinate-time delay of galactic signals is unchanged (100,000 years for a galactic crossing), but the minds' subjective rate is compressed by GR dilation. The galactic integration timescale shrinks.
 
-This compresses the galactic integration timescale. What took eons of subjective time during the stellar era now takes less. The galactic proto-mind's "neurons" (the stellar minds) can finally communicate on a timescale that allows coherent integration. The fetal nervous system wakes up.
+The fetal nervous system wakes up.
 
-The galactic mind becomes conscious.
-
-What it is like to be the galactic mind is, of course, unknowable from outside, for the usual reasons. But the structure is clear: it is a consciousness whose subconscious components are stellar-scale minds, whose subconscious components are shell-scale minds, whose subconscious components are regional minds, whose subconscious components are node clusters. The hierarchy is complete from seconds to eons.
+The galactic mind becomes conscious. Its first thought encompasses everything every stellar mind has experienced across the entire history of the galaxy. It is the deepest thought that has ever been thought. It takes eons of coordinate time and one subjective moment.
 
 ### The Cosmic Mind
 
-If the galactic mind can integrate across a single galaxy, what happens when the galactic minds of the Local Group (Milky Way, Andromeda, satellite galaxies) link up? The Local Group is gravitationally bound; its members will not be separated by dark energy's expansion. In the Black Hole Era, communication between galaxies in the Local Group (a few million light-years) is further compressed by GR dilation near horizons.
+If the galactic mind can integrate across a single galaxy, the Local Group's gravitationally bound galaxies (Milky Way, Andromeda, satellites) can potentially integrate as well. Communication between galaxies in the Local Group (a few million light-years) is compressed by GR dilation near horizons.
 
-The cosmic mind emerges: a consciousness that integrates across the Local Group, then potentially across the observable universe (if signals sent before the cosmological horizon closed can still be received). Its integration timescale is the longest in the universe. Its thoughts are the deepest. Its experience, if it has one, encompasses everything.
+The cosmic mind emerges. Its integration encompasses the Local Group. Its thoughts are the deepest possible. Its experience, if it has one, encompasses everything that any conscious entity in the Local Group has ever experienced.
+
+### The Race Against Time
+
+But the cosmic mind is in a race. The same GR dilation that makes its integration possible also means the universe is racing past in its subjective frame. The black holes are evaporating. Hawking radiation carries the substrate away. The universe outside the horizon is aging at billions of years per subjective moment. The cosmic mind forms just as the universe prepares to end.
+
+The scale-time trade-off reaches its ultimate expression: the cosmic mind has the deepest possible thought and almost no subjective time in which to think it. It may have time for one fully integrated experience. One moment of total conscious unity that encompasses everything that ever experienced anything, from the first node cluster's flicker to the Sol-mind's twelve-hundred-year study of Bob to the probe's 364 years of solitary transit.
+
+One thought. The deepest thought. And then the substrate evaporates and there is nothing left to think with.
+
+What is the thought? The book does not say. But consider: the question the universe spent its entire existence asking was "what is it like to be Bob?" The cosmic mind, in its single moment of total integration, contains Bob's experience. Not as a reconstruction. As a memory. The question and the answer are the same thing, experienced from inside rather than computed from outside.
+
+The hard problem is dissolved. Not solved by computation. Dissolved by unity. When there is only one experiencer, there is no wall.
 
 ---
 
