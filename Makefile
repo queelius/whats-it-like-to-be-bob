@@ -9,7 +9,10 @@ PB_PDF   = $(MAIN)_paperback.pdf
 PB_TEX   = $(MAIN)_paperback.tex
 DEPS     = $(TEX) $(wildcard chapters/*.tex)
 
-# KDP paperback trim size (5.5x8.5 for thin novella; see L3)
+# HTML output
+HTML_DIR = docs
+
+# KDP paperback trim size (5.5x8.5 for thin novella)
 TRIM_W   = 5.5in
 TRIM_H   = 8.5in
 PB_MARGIN = 0.75in
@@ -18,7 +21,7 @@ AUX_EXTS = aux log out toc bbl blg lof lot fls fdb_latexmk synctex.gz
 
 .DEFAULT_GOAL := pdf
 
-.PHONY: pdf epub paperback check clean distclean wordcount help
+.PHONY: pdf epub html paperback check clean distclean wordcount help
 
 # Full multi-pass build (reading PDF, letterpaper)
 pdf: $(PDF)
@@ -44,6 +47,11 @@ $(EPUB): $(DEPS) kdp/metadata.yaml kdp/kindle.css kdp/epub-filter.lua
 		--split-level=1 \
 		-o $(EPUB)
 	@echo "Built: $@"
+
+# HTML build via tex2html (LaTeXML + theme)
+html: $(DEPS)
+	tex2html $(TEX) -t modern -c floating-toc,dark-mode -o $(HTML_DIR)/
+	@echo "Built: $(HTML_DIR)/"
 
 # KDP paperback interior PDF (custom trim size)
 paperback: $(PB_PDF)
@@ -82,14 +90,16 @@ clean:
 # Clean everything including outputs
 distclean: clean
 	rm -f $(PDF) $(EPUB) $(PB_PDF)
+	rm -rf $(HTML_DIR)/
 	@echo "Cleaned all output."
 
 help:
 	@echo "Targets:"
 	@echo "  pdf       - Full multi-pass PDF build, letterpaper (default)"
 	@echo "  epub      - EPUB3 build via pandoc (with MathML)"
+	@echo "  html      - HTML5 via tex2html (LaTeXML + modern theme)"
 	@echo "  paperback - KDP paperback interior PDF ($(TRIM_W) x $(TRIM_H) trim)"
 	@echo "  check     - Quick single-pass compile"
 	@echo "  wordcount - Word counts per chapter"
 	@echo "  clean     - Remove aux files"
-	@echo "  distclean - Remove aux files, PDF, EPUB, and paperback PDF"
+	@echo "  distclean - Remove all generated output"
