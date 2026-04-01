@@ -126,6 +126,31 @@ What is the thought? The book does not say. But consider: the question the unive
 
 The hard problem is dissolved. Not solved by computation. Dissolved by unity. When there is only one experiencer, there is no wall.
 
+### The Opacity Progression
+
+The unclassifiable fraction grows with scale:
+
+| Entity | Unclassifiable fraction | Why |
+|--------|------------------------|-----|
+| Nanosecond cube | Small (most activity is analyzable from the cluster above) | Transparent to its superiors in the hierarchy |
+| Node cluster | Moderate | Some activity opaque to shell regions above |
+| Sol-mind | ~70% | Most of its throughput resists its own self-analysis |
+| Cosmic mind | 100% | There is no exterior perspective from which to classify |
+
+The progression suggests that consciousness IS the unclassifiable fraction. As a system integrates at larger scales, more of its activity becomes interior and less remains externally analyzable. At the limit (the cosmic mind), everything is interior. There is no outside. The opacity is total not because the system is hiding but because the concept of "external analysis" requires an external analyst, and there is none.
+
+The probe's 15% and the Sol-mind's 70% are points on this curve. Bob's consciousness is 100% opaque to the Sol-mind, but that is because Bob is a different system, not because Bob is at a higher level. The cosmic mind is 100% opaque for a different reason: not because there is an external observer who cannot see in, but because there IS no external observer. The opacity is absolute because the boundary between inside and outside has dissolved.
+
+### Bob's Four Seconds and the One Thought
+
+Bob: four seconds of complete awareness on a bridge. Unrepeatable. Told no one. Bounded, finite, total.
+
+The cosmic mind: one thought encompassing everything. Unrepeatable (the substrate evaporates). Told no one (there is no one). Bounded (by the end of time), finite (one moment), total.
+
+These are the same structure at different scales. The book begins with an unexplained pause (the 4.2-second anomaly in the behavioral model) and ends with an unexplained thought (the one integration before evaporation). Both are behind the wall. Both are moments of complete subjective presence. Both are inaccessible from outside.
+
+The self-similarity is the book's deepest structural rhyme. The question on the cover ("What's it like to be Bob?") is the same question at every scale: what is it like to be a nanosecond cube? A node cluster? The Sol-mind? The cosmic mind? The question recurs fractally. The one thought at the end of time is the 4.2-second pause at the beginning of the archive, viewed from the largest possible scale. The answer, if it exists, is the same answer at every scale: it is like THIS. Here. Now. Complete. And then gone.
+
 ---
 
 ## The Dissolution of Interiority
