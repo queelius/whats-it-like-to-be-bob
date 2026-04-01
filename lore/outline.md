@@ -116,7 +116,7 @@ The wavefront chapter ends with a completed conversion. Chapter III picks up ins
 ### Content Beats
 
 1. **Sol's energy budget.** $3.828 \times 10^{26}$ watts, 99.97% captured. The Dyson swarm: $10^{18}$ nodes, five orbital shells. Not a sphere but a snowstorm. Establish the physical reality of the system.
-2. **The shell architecture.** Inner Corona to Oort Cloud. Each shell described with its orbital characteristics, latency, and function. The cognitive gradient: inner system thinks slowly and deeply, outer system thinks quickly and broadly.
+2. **The shell architecture.** Inner Corona to Oort Cloud. Each shell described with its orbital characteristics, latency, and function. The cognitive gradient: inner system thinks fast and deep (more energy), outer system thinks slow and broad (less energy, broader perspective).
 3. **The cognitive gradient.** Inner shells compute faster (more energy) but communicate outward at lightspeed. Outer shells compute slower but hold broader awareness. The gradient comes from communication latency and energy density, not time dilation (which is negligible at stellar scales).
 4. **Node anatomy.** A single node: snowflake-shaped, city-sized, fractal surface for radiative cooling. Layered (radiator, substrate, core). This grounds the vast system in specific physical detail.
 5. **What happened to Earth.** Brief. Earth is a node in the Habitable Shell. Unrecognizable. The geological structure reorganized. The atoms that were Bob are computing. The information content of pre-Reorganization Earth is archived. This passage should land hard and move on.

@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **What's It Like To Be Bob?** (title; after Nagel's "What Is It Like to Be a Bat?") is a hard science fiction novella exploring a post-singularity galactic civilization through multiple zoom levels. No traditional protagonist or narrative arc. Matter throughout the galaxy is being systematically reorganized into structured intelligence; continuous singularity events cascade at every scale. The structure zooms from cosmological scale down to a single human's Tuesday afternoon (Bob Kessler, claims adjuster, Columbus, Ohio), then back out to deep time. Bob is the fulcrum.
 
-**Current Status:** First draft complete. 9 chapters, ~21,000 words, 64 pages. Five editorial reviews completed (2026-03-26 through 2026-03-30). All HIGH issues resolved. Physics overhaul completed (computational time-dilation stripped; standard physics only). Publication-ready.
+**Current Status:** First draft complete. 9 chapters, ~22,000 words, 70 pages. Eight editorial reviews completed (2026-03-26 through 2026-03-31). All HIGH issues resolved. Physics overhaul completed (standard physics only). Consciousness hierarchy integrated. Publication-ready.
 
 **Genre:** Hard science fiction. The physics is real. The numbers are right.
 

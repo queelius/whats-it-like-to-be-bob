@@ -26,7 +26,7 @@ Before describing the schools, we must describe what they're working with. The r
 - Vehicle telemetry
 - Security camera footage (partial, depending on coverage and storage)
 
-For Bob: Class A data is relatively complete for 2015-2028 (the smartphone era of his adult life) and sparse to nonexistent before ~2005.
+For Bob: Class A data is relatively complete for 2008-2030 (the smartphone era of his adult life) and sparse to nonexistent before ~2005.
 
 **Class B: Low-fidelity physical records**
 - Written documents (if physically preserved during conversion or scanned)

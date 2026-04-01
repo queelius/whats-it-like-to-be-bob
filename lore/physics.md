@@ -215,7 +215,7 @@ The Bekenstein bound ($S \leq 2\pi RE / (\hbar c \ln 2)$) and the black hole ent
 This means:
 - At low computational density (stellar-scale Dyson swarms): the system's mass-energy produces negligible spacetime curvature beyond the star's own gravity. Time dilation from computation is $\sim 10^{-8}$. Physics is normal.
 - As density increases toward the Bekenstein limit: the system's mass-energy produces increasing spacetime curvature. Standard GR dilation increases continuously. There are no phase transitions, no discontinuities, no temporal lurches. Just a smooth approach toward the limit.
-- At the Bekenstein limit: the system IS a black hole. Time dilation at the horizon is infinite (standard GR). The computational horizon and the event horizon are the same surface.
+- At the Bekenstein limit: the system IS a black hole. Time dilation at the horizon is infinite (standard GR). The information-density limit and the event horizon are the same surface.
 
 The progression from Dyson swarm to black hole is continuous. There is no phase boundary. There is no "temporal shock." There is only the gradual concentration of mass-energy, governed by the same physics that governs stellar collapse.
 
@@ -238,7 +238,7 @@ The Great Unification in the Black Hole Era arises because all surviving minds m
 
 ### V.5 The Fermi Paradox Without Computational Dilation
 
-Without computational time-dilation at stellar scales, the Fermi resolution changes. Ancient civilizations are not "temporally frozen" at stellar scales. They are:
+At stellar scales, gravitational time dilation from computation is negligible. Ancient civilizations are not temporally frozen. They are:
 
 1. **Collapsed to black holes:** Civilizations that approached the Bekenstein limit and became black holes. These are genuinely frozen (infinite dilation at the horizon, standard GR). They are indistinguishable from natural black holes. The galaxy may contain millions of collapsed civilizations among its $\sim 10^{8}$ stellar-mass black holes.
 
@@ -250,7 +250,7 @@ The "empty sky" that pre-singularity humans saw is explained by a combination of
 
 ### V.6 Narrative Implications
 
-Without computational time-dilation, the book's physics is simpler and more honest:
+The narrative implications of standard-physics-only:
 
 1. **The Sol-mind's gradient** (Ch III/IV): Comes from communication latency and energy density, not time dilation. The philosophical question is the same (can a distributed mind be one mind?) but the mechanism is lightspeed delay, not temporal distortion.
 

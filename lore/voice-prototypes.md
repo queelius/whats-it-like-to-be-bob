@@ -186,4 +186,4 @@ Then the bridge ended and the road curved and he was thinking about the Hendrick
 
 The question for which this analysis is named, the question printed on the cover of the document the reader is holding, reduces in this instance to: what was it like for Robert Allen Kessler to see light on water on a Tuesday morning in March?
 
-We do not know. We cannot know. The river has been computronium for eleven thousand years. The light is captured. The bridge is substrate. The man is 969 days from a death he does not expect, 971 days from a world he cannot imagine, and for four seconds on a Tuesday morning he was happy for no reason, and this is the thing we built a star-sized mind to study, and we cannot touch it.]
+We do not know. We cannot know. The river has been computronium for twelve hundred years. The light is captured. The bridge is substrate. The man is 969 days from a death he does not expect, 971 days from a world he cannot imagine, and for four seconds on a Tuesday morning he was happy for no reason, and this is the thing we built a star-sized mind to study, and we cannot touch it.]
