@@ -34,14 +34,14 @@ Bob must be SPECIFIC. Not a symbol, not an everyman, not a representative sample
 - **Siblings:** One sister, Jennifer, two years younger, lived in Cincinnati. They were close in the way that siblings who don't see each other often but would drop everything in an emergency are close.
 
 ### Occupation
-- **Job:** Claims adjuster, Midland National Insurance, Columbus office
-- **How he got there:** Studied business administration at Ohio State (graduated 2010, middle of his class, no honors, no shame). Took the Midland job because it was offered and because he didn't have a better plan. Stayed because inertia is powerful and the health insurance was good.
+- **Job:** Claims adjuster, Nationwide Insurance, Columbus office
+- **How he got there:** Studied business administration at Ohio State (graduated 2010, middle of his class, no honors, no shame). Took the Nationwide job because it was offered and because he didn't have a better plan. Stayed because inertia is powerful and the health insurance was good.
 - **How he felt about it:** He didn't hate it. He didn't love it. Some days were interesting (a genuinely ambiguous claim, a conversation with a claimant that felt human). Most days were routine. He was competent, liked by his coworkers, passed over for one promotion he half-wanted and got another he didn't especially want.
 - **The specific job:** He evaluated homeowner's insurance claims. Water damage, roof collapses, the occasional fire. He had a practiced eye for exaggeration and a practiced gentleness for genuine distress. He had processed roughly 4,200 claims by the time of the Tuesday.
 
 ### Daily Life
 - Woke at 6:15 (alarm) or 6:22 (the actual time he got out of bed most days)
-- Coffee: black, from a drip machine, a medium roast from Aldi. Two cups before leaving the house. One at the office around 10 AM.
+- Coffee: black, from a drip machine, Folgers Classic Roast from Kroger. Made too strong (two scoops where the package recommended one and a half). Two cups before leaving the house. One at the office around 10 AM. The office coffee was worse than the home coffee; he drank it anyway.
 - Commute: 22 minutes via I-670 to the office on East Broad Street, unless there was construction (often), in which case 35 minutes and a different mood
 - Lunch: brought from home maybe three days a week (Karen made sandwiches; he sometimes made his own, always worse). Ate at Chipotle or Panera the other days. Burrito bowl, no guac (he'd add it if Karen was there, because she'd insist, but alone he defaulted to cheaper).
 - Home by 5:45 most days. Helped with homework (Maya's was getting beyond him in math; Ethan's was coloring). Dinner together. TV after the kids were in bed. In bed himself by 10:30, asleep by 10:50.
@@ -62,6 +62,18 @@ This section is what makes the book. The ASI can reconstruct everything above fr
 - He had read exactly one book that changed how he thought about the world: *Surely You're Joking, Mr. Feynman*, which his college roommate had left behind. He wasn't sure what specifically it changed, but he remembered the feeling of reading it: that the world was more interesting than he'd assumed, and that noticing things was a skill he could practice. He practiced intermittently.
 
 - On the Tuesday, driving to work, he noticed the light hitting the Scioto River in a way that struck him as beautiful, and for approximately four seconds he felt a pure, uncomplicated happiness that had no cause and no object. He did not tell anyone about this. It would not have occurred to him that it was worth mentioning.
+
+### The Signature Quote (Canonical)
+
+Over dinner with Karen on the evening of March 14, 2028, Bob said:
+
+> "Some files just don't want to stay closed."
+
+The context was a work complaint: a specific water-damage claim that the automated review system at Nationwide kept reopening every quarter. Bob would process it, enter a manual override, and close it. The system would flag it again three months later. He was venting about the minor ongoing frustration.
+
+The quote is recovered from the archive (kitchen voice recorder, Columbus Police ambient data, or one of several similar classical-recording sources; the exact provenance is not recorded in the file because multiple sources corroborate). It is cross-referenced in File \#BK-2028-0314-SC under CORRELATED\_UTTERANCES. The Sol-mind has read the quote 4.7 million times because it appears in the cross-reference chain of every sub-analysis attempting to close the file. The Sol-mind does not find it significant. Significance requires the perspective to see the juxtaposition between what Bob said (about a water-damage claim) and the Sol-mind's situation (a file about Bob that cannot be closed). The Sol-mind does not have this perspective. The reader does.
+
+The quote is the book's thesis stated by its subject without the subject knowing. It appears in v2 Ch VI.
 
 ---
 
@@ -88,12 +100,12 @@ This is the day the ASI's analysis focuses on with particular intensity. Not bec
 | 7:52 AM | Commute to work begins | Vehicle telemetry |
 | 8:03 AM | Notices light on the Scioto River | (NOT RECOVERABLE) |
 | 8:04 AM | Feels four seconds of uncaused happiness | (NOT RECOVERABLE) |
-| 8:14 AM | Arrives at office | Building access card log |
-| 8:15-11:45 AM | Processes three claims | Midland National digital records |
+| 8:07 AM | Arrives at office | Building access card log |
+| 8:15-11:45 AM | Processes the morning's claims | Nationwide digital records |
 | 11:50 AM | Drives to Chipotle | Vehicle telemetry, Chipotle security camera |
 | 12:05 PM | Burrito bowl, no guac | Payment records, order system |
 | 12:25 PM | Eats at desk, reads news on phone | Phone screen-time data, cell tower pings |
-| 1:00-4:30 PM | Afternoon work, two more claims, one phone call with a claimant whose basement flooded | Midland records, phone logs |
+| 1:00-4:30 PM | Afternoon work, more claims, one phone call with a claimant whose basement flooded | Nationwide records, phone logs |
 | 4:45 PM | Leaves office | Building access card |
 | 5:12 PM | Picks up milk at Kroger | Loyalty card records, store cameras |
 | 5:38 PM | Home | Vehicle telemetry |

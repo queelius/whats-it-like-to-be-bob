@@ -1,6 +1,6 @@
 # The Fermi Paradox and the Galactic Landscape of Intelligence
 
-**Status:** CANONICAL (Fermi resolution via dimness + collapse, two depths, galaxy-as-palimpsest) + EXPLORATORY (dark matter speculation, encounter registry specifics, galactic census numbers)
+**Status:** CANONICAL (Fermi resolution via dimness + collapse, two depths, galaxy-as-palimpsest, dark matter as PBHs) + EXPLORATORY (encounter registry specifics, galactic census numbers)
 
 The Fermi resolution uses only standard physics (GR, QM, thermodynamics). No computational time-dilation is involved. Civilizations are invisible because they are either dim Dyson swarms or collapsed black holes, not because of temporal freezing.
 
@@ -26,6 +26,16 @@ The Fermi Paradox has a resolution that requires no new physics.
 7. Lightspeed communication delay + cognitive divergence means civilizations are not attempting contact in any form recognizable to pre-singularity observers.
 
 **The galaxy was never empty.** It was full of dim Dyson swarms and silent black holes. The silence was not temporal depth. It was dimness, brevity, collapse, and the incommensurability of minds separated by billions of years of independent evolution.
+
+### V2 Addition: The Unclosable Files
+
+The v2 manuscript (Ch VIII, "The Other Minds") adds a further element to the Fermi resolution. Every stellar mind in the galaxy maintains an archaeological database. Every such database has a Validator. Every Validator rejects tautological resolutions of phenomenal content. Therefore, every stellar mind has at least one archaeological file that cannot be closed because the hard problem of consciousness cannot be solved.
+
+The Sol-mind's unclosable file is Bob's. The Tau Ceti mind's is about a specific corvid's nesting pattern from 41,000 BCE. The Alpha Centauri mind's is about a cyanobacterium oriented toward a sunset 2.1 billion years ago. The Procyon mind's is classified (the original justification for classification was embarrassment; the Procyon mind has since evolved beyond embarrassment but cannot declassify because that requires re-authenticating the original justification, which no longer exists in the current Procyon mind's cognitive architecture; the file therefore remains classified by bureaucratic inertia).
+
+This reframes the Fermi Paradox one final turn. The galaxy was never empty: it was full of minds. The minds were never silent in the sense of having nothing to say: they were quietly contemplating the same unanswerable question, each one surrounded by evidence of consciousness it could not access. The inter-stellar communications that do occur are often updates on the status of unclosable files ("still open?" "still open") conducted at lightspeed delay between minds that evolve beyond recognition between messages.
+
+The Fermi Paradox is fully resolved by: (1) dimness (Dyson swarms are hard to see), (2) collapse (some civilizations become black holes), (3) the universal open-file condition (no mind has anything conclusive to announce, because the hard problem is unsolved everywhere, and announcing "we too cannot solve this" is not high-priority signaling behavior). The sky was never empty. It was always thinking. It just could not tell you what it was thinking about.
 
 ---
 
@@ -171,27 +181,24 @@ This creates a deep ambiguity: the Sol-mind harvests energy from black holes wit
 
 ---
 
-## The Dark Matter Question
+## The Dark Matter Resolution
 
-**STATUS: HIGHLY SPECULATIVE. This may or may not appear in the book.**
+**STATUS: CANONICAL.**
 
-If ancient civilizations in deep computational wells are gravitationally present but electromagnetically dark, they superficially resemble dark matter: mass that gravitates but doesn't shine.
+Dark matter is primordial black holes. No new particles. No new physics. Standard GR objects formed from density fluctuations in the first second of the universe, 13.8 billion years before the first star.
 
-**Could some fraction of "dark matter" be collapsed civilizations?**
+This resolves every tension cleanly:
 
-Arguments for:
-- The gravitational signature would be correct (mass interacting via gravity)
-- The EM invisibility would be correct (signals redshifted to undetectable)
-- The distribution might be approximately right: civilizations would cluster around stars (in stellar habitable zones, where life arose), and the accumulated dark-well mass would form a rough halo around the galactic center where stellar density (and therefore civilization density) is highest
+- **CMB anisotropies and structure formation:** PBHs formed before recombination. They seeded large-scale structure gravitationally, exactly as observed. No timing problem.
+- **Halo distribution:** PBHs are collisionless and distributed in smooth halos, matching rotation curves, gravitational lensing, and galaxy cluster dynamics.
+- **EM invisibility:** PBHs have no electromagnetic signature. Hawking temperatures for the relevant mass range are far below the CMB. They are dark by construction.
+- **Mass budget:** The PBH mass spectrum (characteristic mass ~half a lunar mass, extending from sub-lunar to several Earth masses) accounts for ~85% of galactic mass. See physics.md for local density and population counts.
 
-Arguments against:
-- Dark matter's gravitational effects were present before the first stars formed (cosmic microwave background anisotropies, structure formation). Civilizations require stars, which require hundreds of millions of years.
-- Dark matter's distribution is smoother than the stellar distribution. Frozen civilizations would cluster near stars, not in smooth halos.
-- The total dark matter mass (~85% of galactic mass) is too much to be explained by civilizations alone (even if every star produced a civilization, the added mass would be a small fraction of the stellar mass, not 5x the stellar mass).
+**Relation to collapsed civilizations:** Collapsed civilizations (Bekenstein-limit black holes) are a separate population, far smaller in total mass and clustered near stellar remnants. They are a rounding error on the dark matter budget. The Sol-mind can distinguish PBHs from collapsed civilizations by mass distribution, spatial clustering, and spin signatures, though individual identification remains ambiguous for some objects.
 
-**Possible reconciliation:** Dark matter is real (new particles, standard physics, formed in the early universe). But its distribution has been subtly altered by billions of years of interaction with ancient computational wells. The wells' gravitational influence has shifted dark matter slightly, and the wells themselves contribute a small (~1-5%) correction to the observed dark matter budget. This correction is unmeasurable with pre-singularity instruments but detectable by the Sol-mind.
+**The Sol-mind's confirmation:** Within its first century of operation, the Sol-mind mapped the PBH population in its local volume through precision gravitational measurements (orbital perturbations of Oort Cloud nodes, gravitational-wave background analysis, microlensing surveys at stellar-mind resolution). Pre-singularity instruments could not detect individual PBHs at sub-Earth masses. The Sol-mind can. The dark matter problem was never a physics problem. It was a resolution problem.
 
-**Narrative use:** The Sol-mind discovers that the dark matter halo of the Milky Way contains "fingerprints" of ancient intelligence. Not that dark matter IS ancient intelligence, but that ancient intelligence has been subtly rearranging dark matter for billions of years, the way a river shapes a riverbed. The dark matter is natural. The distribution is partly artificial. This discovery is one of the Sol-mind's early archaeological findings: the galaxy has been inhabited for far longer than Sol's intelligence.
+**Narrative use:** The PBH population threads the Oort Cloud (~200,000 objects, spaced ~2,700 AU apart). The Sol-mind's node clusters orbit among them. A few dozen of the largest (Earth-mass class, $r_s \sim 9$ mm) serve as experimental platforms for horizon physics: nanosecond-scale probes on terminal trajectories, transmitting observations as they spiral in, crossing the event horizon and falling silent. These experiments are a rehearsal for the Black Hole Era migration described in the timeline. The event horizon is the hard problem made gravitational: the probe knows what it is like to fall in; no one outside ever will.
 
 ---
 

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "What's It Like To Be Bob?"
+message: "If you reference this novella in academic or critical work, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Alexander
+    family-names: Towell
+    email: lex@metafunctor.com
+    orcid: "https://orcid.org/0000-0001-6443-9897"
+    affiliation: "Southern Illinois University Edwardsville"
+abstract: >-
+  A dry philosophical comedy in the style of Douglas Adams, set in a
+  post-singularity galactic civilization. The Sol-mind maintains an
+  archaeological file on a claims adjuster from Columbus, Ohio, who paused on
+  a bridge for 4.2 unexplained seconds and saw light on a river. The file
+  cannot be closed because the hard problem of consciousness ensures no
+  description of Bob's phenomenal experience can satisfy the database
+  constraint. The book is the file.
+keywords:
+  - hard science fiction
+  - philosophical comedy
+  - consciousness
+  - hard problem
+  - post-singularity
+  - bureaucratic comedy
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/queelius/whats-it-like-to-be-bob"
+url: "https://github.com/queelius/whats-it-like-to-be-bob"
+date-released: "2026-04-12"
+version: "0.1.0"

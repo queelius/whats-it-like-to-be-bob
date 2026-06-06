@@ -1,6 +1,8 @@
 # Voice Prototypes
 
-**Status:** HISTORICAL. These prototypes predate the manuscript and the physics overhaul. Sections II and IV contain superseded physics (computational time-dilation, Phase II, temporal shocks). The manuscript chapters have diverged significantly from these prototypes. They are preserved as a record of the voice-finding process, not as current references.
+**Status:** V1-HISTORICAL. These prototypes were drafted during v1's voice-finding process (zoom-structure, per-chapter voices, contemplative register). The current manuscript (v2) uses a single deadpan comic voice throughout; see `style.md` for current voice guidance. These prototypes are preserved as a record of a voice the book no longer uses. Sections II and IV additionally contain superseded physics (computational time-dilation, Phase II, temporal shocks), which is not canonical in any version.
+
+Do not use these as style reference for v2 edits. For v2, see `style.md` and the manuscript itself.
 
 ---
 

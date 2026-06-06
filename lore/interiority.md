@@ -1,8 +1,8 @@
 # The Nature of Post-Singularity Experience
 
-**Status:** EXPLORATORY (all of it; this is philosophical territory, not physics)
+**Status:** Philosophical content (three layers of unknowing, the Sol-mind's probable consciousness, the fragmented day-scale integration, the 70\% unclassifiable activity, the Sol-mind's relationship with its own hard problem): CANONICAL, preserved into v2. Rendering guidance ("How to Render This in Prose" sections): V1-SPECIFIC. V1 experimented with rendering the Sol-mind's interiority directly through various prose strategies. V2 solved this differently: the narrator is an external deadpan omniscient, the Sol-mind's interiority is described from outside, and the 70\% motif serves as the book's acknowledgment that the inaccessible parts are inaccessible. For current rendering guidance, see `style.md`.
 
-This document addresses the hardest question the book faces: what is it like to be a post-singularity intelligence? The answer, per the book's own thesis, is that we cannot know. But the book must RENDER post-singularity experience in prose. This document establishes what we can say, what we cannot say, and how to write in the space between.
+This document addresses the hardest question the book faces: what is it like to be a post-singularity intelligence? The answer, per the book's own thesis, is that we cannot know. V1 attempted to render the Sol-mind's experience directly; v2 declines to attempt this and instead renders the Sol-mind as observed from outside, which is more honest to the thesis and funnier to read.
 
 ---
 

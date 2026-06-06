@@ -12,7 +12,6 @@
 \usepackage{amssymb}
 \usepackage{epigraph}
 \usepackage{graphicx}
-\usepackage{enumitem}
 
 % Typography settings
 \setstretch{1.5}
@@ -31,6 +30,14 @@
 \fancyhead[L]{\leftmark}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\headrulewidth}{0pt}
+
+% Custom environment for ASI reconstruction frame (Register B)
+% Indented, smaller font, sans-serif
+\newenvironment{recon}{%
+  \begin{quote}\small\sffamily\setstretch{1.2}%
+}{%
+  \end{quote}%
+}
 
 % Metadata
 \title{What's It Like To Be Bob?}
@@ -91,18 +98,22 @@ metafunctor.com
 \mainmatter
 
 % Chapters
-\include{chapters/01_the_file}
-\include{chapters/02_a_brief_history}
-\include{chapters/03_the_validator}
-\include{chapters/04_the_attempts}
-\include{chapters/05_the_humans}
+\include{chapters/01_the_overview}
+\include{chapters/02_the_wavefront}
+\include{chapters/03_the_system}
+\include{chapters/04_the_gradient}
+\include{chapters/05_the_archive}
 \include{chapters/06_bob}
-\include{chapters/07_the_black_holes}
-\include{chapters/08_the_other_minds}
+\include{chapters/07_the_counterfactual}
+\include{chapters/08_the_probe}
 \include{chapters/09_deep_time}
 
+% ============================================================
+% Back Matter
+% ============================================================
 \backmatter
 
+% About the Author
 \chapter*{About the Author}
 \addcontentsline{toc}{chapter}{About the Author}
 
@@ -114,5 +125,16 @@ He lives in Illinois.
 
 \vspace{1em}
 \noindent metafunctor.com
+
+% Also By
+\chapter*{Also by Alex Towell}
+\addcontentsline{toc}{chapter}{Also by Alex Towell}
+
+\begin{itemize}
+\setlength{\itemsep}{1em}
+\item \textbf{The Policy} --- A literary science fiction novel about AI alignment. When a superintelligent AI is given a single directive, the consequences unfold across a civilization that thought it was prepared.
+
+\item \textbf{Echoes of the Sublime} --- A philosophical horror novel about consciousness, AI, and the structures that emerge when human meaning encounters something that does not share it.
+\end{itemize}
 
 \end{document}

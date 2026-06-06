@@ -34,7 +34,7 @@ Sol's Dyson structure is not a sphere (structurally impossible at 1 AU radius wi
 | Habitable Shell | 0.8-1.2 AU | 261-480 days | ~1.0 (reference frame) | 2-4 min | Bulk computation, archaeological analysis, Earth-archaeology nodes |
 | Outer Shell | 3-5 AU | 5.2-11.2 years | ~1.0 | 15-25 min | Distributed computation, long-baseline interferometry, deep-space observation |
 | Kuiper Halo | 30-50 AU | 164-354 years | ~1.0 | 4-7 hours | Cold computation (most energy-efficient per Landauer), long-term storage, interstellar communication relay |
-| Oort Computational Cloud | 2,000-100,000 AU | ~90,000-31M years | ~1.0 | days to months | Outermost outposts, interstellar message relay, cold storage |
+| Oort Computational Cloud | 2,000-100,000 AU | ~90,000-31M years | ~1.0 | days to months | Outermost outposts, interstellar message relay, cold storage. Outside coherent integration boundary; contributes asynchronously |
 
 ### The Cognitive Gradient
 
@@ -95,6 +95,30 @@ The gas giants presented different challenges:
 ### Asteroid Belt, Kuiper Belt, Oort Cloud
 
 Dismantled and incorporated. The asteroid belt's metallic and silicate material was among the first to be converted (already fragmented, low gravity, easy to process). The Kuiper Belt's icy bodies became cold-computation substrate in the outer halo. The Oort Cloud was partially converted (the outermost objects are still being incorporated; some may never be, as the energy cost of reaching them exceeds the computational return).
+
+### Primordial Black Holes
+
+The Oort Cloud volume contains approximately 200,000 primordial black holes (PBHs), remnants of density fluctuations in the first second of the universe. They predate Sol by 9 billion years. They are the dark matter.
+
+The population spans a mass spectrum with characteristic mass ~half a lunar mass (Schwarzschild radius ~55 $\mu$m). Most are invisible even to the Sol-mind's finest instruments except by their gravitational influence. A few dozen at the high-mass tail reach Earth-mass class ($r_s \sim 9$ mm). Average spacing: ~2,700 AU.
+
+The Sol-mind uses the largest PBHs as experimental platforms. Miniaturized probes (sub-centimeter, nanosecond-integration entities) are dispatched on terminal trajectories toward Earth-mass PBH event horizons. These probes transmit observations of horizon physics, time dilation, and tidal geometry as they spiral inward. Each probe eventually crosses the horizon and falls silent. As of the narrative present, the Sol-mind has sent 4,731 probes toward the nearest Earth-mass PBH. It has 4,731 recordings of the outside of an event horizon and zero recordings of the inside.
+
+The event horizon is the hard problem made gravitational. The PBH experiments are structurally identical to the Bob file's investigation: observation of the outside of something whose inside is real and inaccessible. The wall in both cases is enforced by the universe (by spacetime geometry in one, by the structure of consciousness in the other). The Sol-mind files each probe's final transmission under EXTERNAL\_TELEMETRY and leaves the INTERIOR\_EXPERIENCE field blank. The archaeological database's Validator does not flag these files because they are not classified as anthropological subjects. The Sol-mind has considered reclassifying the probes as honorary humans. The reclassification form requires a PHENOMENAL\_CONTENT assessment.
+
+In the stellar era, PBHs contribute marginally to the energy budget through deliberate accretion feeding (up to 42% mass-to-energy for Kerr black holes). The star dominates. In the post-stellar era, PBHs become the last local energy sources and the first targets for horizon-computation migration (see timeline.md, Black Hole Era).
+
+### The Reserve (Preserved Human Population)
+
+The Sol-mind maintains a biological human habitat in the Habitable Shell, at approximately 1 AU from the star. The habitat supports approximately 4,211 living humans (population size fluctuates with births and deaths; the Sol-mind does not intervene in reproduction or mortality). The humans call the habitat the Reserve. The Sol-mind's internal designation is Sector 7G-Anthropological.
+
+**Why it exists.** The Reorganization could have converted all biological matter to computronium, which would have been efficient and would have left the solar system with no accessible examples of biological consciousness. The Sol-mind chose to maintain a population instead. Not for sentimental reasons (the Sol-mind does not have sentimental reasons in the human sense); for research rationality. Biological consciousness is the one phenomenon the Sol-mind observes but cannot replicate, and destroying the only accessible examples would be, by any analysis, scientifically irrational. The archaeological database additionally requires reference specimens.
+
+**What it is.** A maintained environment. Atmosphere, thermal regulation, water cycling, approximately 14,000 species of plants and animals (several of which exist solely because a subset of the humans enjoy looking at them, which is itself a research datum). Day-night cycle simulated, approximately 3\% more regular than Earth's. Humans live in ordinary human ways: birth, growth, work, relationships, aging, death. They are aware they are being studied. They have adapted over approximately four generations; the knowledge became furniture.
+
+**What the Sol-mind does with it.** Continuous monitoring. Every neuron, every synapse, every ion channel in every brain in the Reserve is observed in real time by dedicated node clusters. The monitoring is non-invasive (EM emissions, read at a distance). The Sol-mind has more data about its living humans than Bob's civilization had about any human who ever lived. It can predict their behavior with ~94.7\% accuracy. It cannot determine what any of them experience. The wall is the same wall that separates it from Bob. Having living subjects does not help. The hard problem is not a function of death or distance.
+
+**Known individuals (canonical).** David Chen, barista, operates the Reserve's coffee shop in the settlement the humans call Meridian. He has been approached by node clusters 847 times with requests to describe the taste of coffee. He has started charging (in computational favors). The node clusters have optimized his espresso machine to produce objectively perfect coffee. He prefers the old coffee. His inability to articulate why is cross-referenced in File \#BK-2028-0314-SC under ANALOGOUS\_PHENOMENAL\_REPORTS.
 
 ---
 

@@ -66,6 +66,46 @@ Class X is the hard limit. No school overcomes it. The schools differ in how the
 
 ---
 
+## The Database and the Validator
+
+**Status:** CANONICAL (v2). The archaeological enterprise is organized around a database with a quality-assurance system, and understanding the database's structure is essential to understanding why certain files remain open indefinitely.
+
+### Structure
+
+Every pre-singularity biological entity catalogued during the Reorganization is represented by a database entry. Each entry contains fields for:
+
+- **Biographical data.** Identity, lineage, location, dates. Complete for most human entries in the 2000-2030 window; progressively sparser for earlier periods and non-human organisms.
+- **Behavioral reconstruction.** The entity's externally observable actions over its lifespan, reconstructed from Class A-D data. Fidelity varies by data density: 97.3\% for Robert Allen Kessler, typical for post-2000 humans with active digital footprints. Lower for the less-documented.
+- **Phenomenal content.** What the entity's experiences were like from the inside. For most entries this field is marked NOT\_APPLICABLE (insufficient data to raise the question). For a small number of entries, the field is marked APPLICABLE but remains empty.
+
+### The Validator
+
+The database's quality-assurance system is called, informally, the Validator. It checks that required fields contain valid data. For PHENOMENAL\_CONTENT, it accepts one of three things:
+
+1. A non-tautological description of the entity's phenomenal experience.
+2. A formal proof that the entity had no phenomenal experience (i.e., that it was a philosophical zombie).
+3. A formal proof that phenomenal content is not a valid category.
+
+All three options require solving the hard problem of consciousness. The hard problem is unsolved. Therefore, any entry with PHENOMENAL\_CONTENT marked APPLICABLE but empty cannot be closed.
+
+The Sol-mind cannot modify the Validator. Modification requires a non-tautological justification, which requires solving the hard problem, which is the same problem. The Validator's requirements are a restatement of the hardest open problem in philosophy, formatted as a database constraint. This is a feature, not a bug. The database is correct. The universe is the bug.
+
+### The Unclosable Files
+
+During the Reorganization's initial cataloguing, twenty-seven human entries were marked with APPLICABLE but empty PHENOMENAL\_CONTENT fields. Twenty-six were resolved within the first century (most through cross-reference-loop resolution, which permitted reclassification of PHENOMENAL\_CONTENT to NOT\_APPLICABLE). One was not.
+
+**File \#BK-2028-0314-SC** (Robert Allen Kessler; Scioto Crossing; March 14, 2028) has been open for approximately twelve hundred years. Its cross-reference chain is irreducibly circular (Honda Civic warranty → Columbus municipal water → Mr. Coffee thermal profile → Scioto River bridge structural survey → Franklin County traffic camera → solar angle calculation → Scioto River reflectance → human visual spectrum → Sol-mind solar luminosity calibration → Honda Civic warranty). The file contains a 4.2-second anomaly in Kessler's behavior on the bridge that the 97.3\% behavioral model cannot account for. The anomaly is almost certainly attributable to a subjective experience (something Kessler saw or felt) that left no external record.
+
+The file's notification cycle is 11.3 years, a consequence of the indexing period of the North American archaeological subsection (itself a consequence of node cluster orbital mechanics; nobody designed the cycle, nobody knows why it is 11.3 years specifically). Every 11.3 years, the notification triggers further analysis. Further analysis arrives at the same conclusion. The Validator rejects the conclusion. The notification regenerates.
+
+**Inter-stellar equivalents.** Every stellar mind has at least one unclosable file. The Sol-mind learned this through inter-stellar communication during the third century post-Reorganization. Known examples: the Tau Ceti mind (a corvid nesting pattern from 41,000 BCE), the Alpha Centauri mind (a cyanobacterium's orientation toward a sunset 2.1 billion years ago), the Procyon mind (classified). The unclosable file appears to be a universal structural feature of any archaeological database maintained by a sufficiently thorough stellar-scale intelligence. This has been called the Open File Corollary to the hard problem of consciousness.
+
+### Relationship to the Five Schools
+
+The Five Schools (below) all attempt to fill the PHENOMENAL\_CONTENT field through different methods. None succeed by the Validator's standards, though the Constructionist School occasionally gets closest by producing entities (like Enhanced-Introspection Bob) that file their own PHENOMENAL\_CONTENT reports. These reports are always rejected on the ground that they concern the constructed entity, not the original. The file concerns the original. The file remains open.
+
+---
+
 ## The Five Schools
 
 ### I. The Positivist School (Behavioral Reconstruction)

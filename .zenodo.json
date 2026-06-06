@@ -1,0 +1,36 @@
+{
+  "title": "What's It Like To Be Bob?",
+  "description": "A dry philosophical comedy in the style of Douglas Adams, set in a post-singularity galactic civilization. The Sol-mind, a stellar-scale intelligence, maintains an archaeological file on Robert Allen Kessler, a claims adjuster from Columbus, Ohio, who paused on a bridge for 4.2 unexplained seconds on a Tuesday morning in March 2028 and saw light on a river. The file cannot be closed: the database requires a non-tautological description of Bob's phenomenal experience, and the hard problem of consciousness ensures no such description exists. The book is the file. After Nagel's 'What Is It Like to Be a Bat?'",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "creators": [
+    {
+      "name": "Towell, Alexander",
+      "orcid": "0000-0001-6443-9897",
+      "affiliation": "Southern Illinois University Edwardsville"
+    }
+  ],
+  "keywords": [
+    "hard science fiction",
+    "philosophical comedy",
+    "consciousness",
+    "hard problem",
+    "Nagel",
+    "post-singularity",
+    "bureaucratic comedy",
+    "Douglas Adams"
+  ],
+  "license": {
+    "id": "CC-BY-NC-ND-4.0"
+  },
+  "access_right": "open",
+  "language": "eng",
+  "version": "0.1.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/queelius/whats-it-like-to-be-bob",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

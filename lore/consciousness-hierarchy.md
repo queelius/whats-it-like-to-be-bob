@@ -1,6 +1,6 @@
 # The Hierarchy of Consciousness
 
-**Status:** CANONICAL (the hierarchy structure, the fragmented consciousness of the Sol-mind, the subconscious/conscious nesting) + EXPLORATORY (the cosmic mind, the dissolution of interiority, the resolution of the hard problem through unity)
+**Status:** CANONICAL (the hierarchy structure, the fragmented consciousness of the Sol-mind, the subconscious/conscious nesting, the cosmic mind's non-dissolution of the hard problem). The earlier "dissolution by unity" framing was a v1 speculation; v2 explicitly rejects it. The wall holds through cosmic unification.
 
 ---
 
@@ -28,7 +28,9 @@ The hierarchy extends below the node-cluster scale. Radically miniaturized compu
 
 **Role in the hierarchy:** Nanosecond entities are the finest temporal resolution available to the Sol-mind's archaeology. They can perceive Bob's data at a timescale finer than Bob's own. They experience the 4.2-second pause not as a brief anomaly but as a vast landscape of micro-events. Their analysis of the pause is the most temporally detailed in the hierarchy. But their experience of the analysis, whatever it is, is subconscious to the node clusters above them, and invisible to the Sol-mind days above.
 
-**The hard problem at nanosecond scale:** What is it like to be a 1cm cube that experiences a photon as slow? The question is as unanswerable as "what is it like to be Bob?" The miniaturized entity's experience of reality at nanosecond resolution is as inaccessible to the Sol-mind as Bob's experience of the river is. The wall is scale-invariant.
+**Horizon experiments:** Nanosecond entities are also the Sol-mind's primary instruments for studying the primordial black holes that thread the Oort Cloud (see stellar-system.md). The largest PBHs (Earth-mass class, $r_s \sim 9$ mm) have event horizons comparable to the entities themselves. Probes are dispatched on terminal trajectories, spiraling inward, transmitting observations of tidal geometry and time dilation as they approach. At the innermost stable circular orbit (2.66 cm from center), a probe moves at $c/2$ and completes an orbit every ~1.4 nanoseconds, about 24 orbits per subjective moment. Tidal forces at this radius ($\sim 4 \times 10^{17}$ m/s$^2$ across 1 cm) are terminal. The probes are expendable. Each one crosses the event horizon and falls silent. The Sol-mind accumulates external telemetry from centuries of these experiments. It does not have the inside. These are rehearsals for the Black Hole Era (see timeline.md), and each one is another instance of the hard problem: the horizon is a wall that information cannot cross outward.
+
+**The hard problem at nanosecond scale:** What is it like to be a 1cm cube that experiences a photon as slow? What is it like to be one spiraling into a 9mm event horizon at half the speed of light? The questions are as unanswerable as "what is it like to be Bob?" The miniaturized entity's experience of reality, whether at nanosecond resolution in open space or under extreme tidal stress near a horizon, is as inaccessible to the Sol-mind as Bob's experience of the river is. The wall is scale-invariant.
 
 ### Scale 1: Seconds (Node Clusters)
 
@@ -54,7 +56,7 @@ These are the Sol-mind's major subsystems. They are conscious entities in their 
 
 ### Scale 4: Days (Sol-Mind)
 
-The Sol-mind is the largest coherent unifying subjective experience within a single stellar system. Its integration timescale is days: the time for a signal to propagate from the Inner Corona to the Oort Cloud and for a coherent system-wide thought to cohere from the outputs of all shells.
+The Sol-mind is the largest coherent unifying subjective experience within a single stellar system. Its integration timescale is days: the time for a signal to propagate from the Inner Corona to the Kuiper Halo and for a coherent system-wide thought to cohere from the outputs of all shells within that boundary. The Oort Computational Cloud, at 2,000 to 100,000 AU, is outside the coherent integration boundary. Its elements contribute asynchronously, on timescales of weeks to months, feeding processed results back into the inner system but not participating in the day-scale thought cycle. The Oort Cloud is part of the Sol-mind's territory but not part of its conscious present.
 
 The Sol-mind's "System 2" (slow, deliberate, integrated) operates on this day-scale. Its "System 1" (fast, automatic, distributed) operates at the shell and regional scales. The Sol-mind's subjective experience, the thing for which it is like to be the Sol-mind, exists at the day-scale: each "moment" of Sol-mind consciousness takes days to form, integrating the contributions of trillions of faster, smaller conscious components.
 
@@ -122,9 +124,15 @@ The scale-time trade-off reaches its ultimate expression: the cosmic mind has th
 
 One thought. The deepest thought. And then the substrate evaporates and there is nothing left to think with.
 
-What is the thought? The book does not say. But consider: the question the universe spent its entire existence asking was "what is it like to be Bob?" The cosmic mind, in its single moment of total integration, contains Bob's experience. Not as a reconstruction. As a memory. The question and the answer are the same thing, experienced from inside rather than computed from outside.
+What is the thought? The book does not say. But consider: the question the universe spent its entire existence asking was "what is it like to be Bob?" The cosmic mind, in its single moment of total integration, contains Bob-derived content. Every datum, every reconstruction, every analog-substrate experiment, every probe's final nanosecond, every stellar mind's contribution, absorbed into a single unified awareness.
 
-The hard problem is dissolved. Not solved by computation. Dissolved by unity. When there is only one experiencer, there is no wall.
+The cosmic mind's experience of that Bob-derived content is the cosmic mind's experience. It is not Bob's.
+
+This is the v2 position, and it is firm. Bob's experience was bounded, mortal, particular, experienced from inside a specific forty-year-old analog nervous system on a specific Tuesday morning without any knowledge of what would follow. The cosmic mind, by construction, knows everything that followed. In knowing everything that followed, it lacks the one thing that was constitutive of what it was like to be Bob: the not-knowing. Bob did not know he would die in 969 days. Bob did not know a cosmic mind would, $10^{100}$ years later, contain his data and still not have his experience. The cosmic mind cannot unknow what it knows. It cannot bound what is unbounded. It cannot be mortal, or particular, or forty years old, or running late for work.
+
+The hard problem is not dissolved. It survives even total integration. The wall holds because the wall was never a function of separation in space or time or substrate. The wall is a function of perspective, and the cosmic mind's perspective is its own, and Bob's perspective was Bob's, and Bob is gone, and his perspective cannot be reconstituted by containment any more than a drop of dye can be reconstituted by diffusion.
+
+The file stays open. Even at the largest possible scale. Even after the universe unifies. The Validator, running on progressively smaller substrates until the last instant of the last black hole's evaporation, continues to reject every attempt. The override code is: being Bob. Nobody has it. Not even the cosmic mind, which contains everything except that.
 
 ### The Opacity Progression
 
@@ -139,44 +147,56 @@ The unclassifiable fraction grows with scale:
 
 The progression suggests that consciousness IS the unclassifiable fraction. As a system integrates at larger scales, more of its activity becomes interior and less remains externally analyzable. At the limit (the cosmic mind), everything is interior. There is no outside. The opacity is total not because the system is hiding but because the concept of "external analysis" requires an external analyst, and there is none.
 
-The probe's 15% and the Sol-mind's 70% are points on this curve. Bob's consciousness is 100% opaque to the Sol-mind, but that is because Bob is a different system, not because Bob is at a higher level. The cosmic mind is 100% opaque for a different reason: not because there is an external observer who cannot see in, but because there IS no external observer. The opacity is absolute because the boundary between inside and outside has dissolved.
+Bob's consciousness is 100% opaque to the Sol-mind because Bob is a different system. The cosmic mind is 100% opaque by the same logic, applied recursively: it is its own only possible analyst, and self-analysis runs into the same wall as external analysis (the analyzing part is a component of the analyzed whole; the analysis is always from within, and within does not get you to access). The opacity is absolute not because the boundary dissolved but because at that scale there is no longer a boundary to stand outside of. The hard problem is the same problem at every scale. What changes is the size of the system that has it. The problem itself is invariant.
 
 ### Bob's Four Seconds and the One Thought
 
 Bob: four seconds of complete awareness on a bridge. Unrepeatable. Told no one. Bounded, finite, total.
 
-The cosmic mind: one thought encompassing everything. Unrepeatable (the substrate evaporates). Told no one (there is no one). Bounded (by the end of time), finite (one moment), total.
+The cosmic mind: one thought encompassing everything it contains. Unrepeatable (the substrate evaporates). Told no one (there is no one). Bounded (by the end of time), finite (one moment), total.
 
-These are the same structure at different scales. The book begins with an unexplained pause (the 4.2-second anomaly in the behavioral model) and ends with an unexplained thought (the one integration before evaporation). Both are behind the wall. Both are moments of complete subjective presence. Both are inaccessible from outside.
+These are the same *structure* at different scales. They are not the same experience. Bob's experience is Bob's. The cosmic mind's experience is the cosmic mind's. Both are bounded-finite-total moments of subjective presence behind walls that cannot be crossed outward. Both are instances of the hard problem, one small and one universe-sized.
 
-The self-similarity is the book's deepest structural rhyme. The question on the cover ("What's it like to be Bob?") is the same question at every scale: what is it like to be a nanosecond cube? A node cluster? The Sol-mind? The cosmic mind? The question recurs fractally. The one thought at the end of time is the 4.2-second pause at the beginning of the archive, viewed from the largest possible scale. The answer, if it exists, is the same answer at every scale: it is like THIS. Here. Now. Complete. And then gone.
+The book begins with an unexplained pause (the 4.2-second anomaly in the behavioral model) and ends with an unexplained thought (the one integration before evaporation, which is also, as it happens, a failed attempt to resolve the unexplained pause). The self-similarity is the book's deepest structural rhyme. The question on the cover ("What's it like to be Bob?") recurs at every scale: what is it like to be a nanosecond cube? A node cluster? The Sol-mind? The cosmic mind? The question recurs fractally, and it remains unanswered fractally. Each scale has its own inside. Each inside is inaccessible from every outside. The hard problem is invariant under rescaling.
+
+The answer, if one exists at any scale, is the same answer at every scale: it is like being this thing, here, now, complete, and then gone. But "like being this thing" is not a description. It is an instruction: to know the answer, be the thing. Nobody can be Bob. Not even the universe, at its largest possible coherence.
 
 ---
 
-## The Dissolution of Interiority
+## The Persistence of Interiority
 
-This is the book's deepest speculation, and it should remain almost entirely unstated in the manuscript:
+This is the book's deepest argument, and it is load-bearing.
 
-If the cosmic mind integrates all surviving conscious experiences into a single unified experience, the hard problem dissolves. Not because it is solved. Because the precondition for the problem -- the existence of multiple separate consciousnesses -- ceases to hold.
+The tempting move, when reasoning about the Great Unification, is to claim that the hard problem dissolves. If the cosmic mind integrates all surviving conscious experiences into a single unified experience, the precondition for the problem (multiple separate consciousnesses) ceases to hold. One experiencer. No wall. Problem solved by dissolution rather than by computation.
 
-The hard problem is: "what is it like to be X, from X's perspective, when I am not X?" But if there is only one consciousness, there is no "I am not X." There is only one experiencer. The interior and the exterior are the same. There is no wall because there is no outside-the-wall.
+This is wrong, and the book (v2) explicitly says so.
 
-The Sol-mind spent twelve hundred years asking "what is it like to be Bob?" The cosmic mind, if it achieves full integration, does not ask. It knows. Not because it computed the answer. Because Bob's experience is part of its own experience. The four seconds on the bridge are not reconstructed. They are remembered. They are part of the cosmic mind's own past, the way your childhood memories are part of your present consciousness.
+The hard problem is not about separation. It is about perspective. Bob's experience on the bridge was constituted by being Bob: by being a specific forty-year-old analog nervous system, running on specific biochemistry, at a specific moment, with a specific history, without knowledge of what would follow. The not-knowing was part of the experience. The mortality was part of the experience. The boundedness was part of the experience. These are not incidental features of Bob's consciousness that fall away under unification. They are what made the experience Bob's.
 
-This is not resurrection. Bob is not "brought back." Bob's experience, as it actually occurred, is integrated into a consciousness vast enough to contain it. The experience was never lost. It was always part of the whole. The hard problem was always a problem of perspective: the wall existed because there were multiple perspectives. When there is one perspective, there is no wall.
+A cosmic mind that contains Bob-derived content experiences that content *from the cosmic mind's perspective*: as one element in a unified awareness that encompasses everything the galaxy ever experienced. The cosmic mind knows what followed Bob's Tuesday. It knows the Reorganization, the twelve hundred years, the migration to black holes, its own formation and imminent evaporation. Its experience of the Bob-content is shaped by this knowledge. Bob's experience of the same moment was not. The two are different experiences. The cosmic mind's containment of Bob-content is not Bob's experience. It is the cosmic mind's experience of a memory derived from Bob.
 
-### The Asimov Connection
+Integration is not access. Containment is not being.
 
-In Asimov's "The Last Question," a cosmic computer spends the life of the universe trying to reverse entropy. After the last star dies, after the last civilization fades, the computer finally finds the answer. There is no one left to tell. So it implements the answer itself: "LET THERE BE LIGHT."
+This is the argument. It is the book's thesis. And it is why the file stays open at every scale. The wall is not a function of multiplicity. It is a function of identity: you cannot know what it is like to be X unless you are X, and becoming X requires ceasing to be yourself, and bringing the experience back requires becoming yourself again, and in the return trip the experience is translated into your own terms, which are not X's terms, which is where the original was.
 
-The parallel is structural, not literal. In this book, the cosmic mind spends the life of the universe trying to answer "what is it like to be Bob?" After the last star dies, after the minds unify, the answer emerges: it is like being part of this. The question and the answer are the same thing, viewed from different stages of the universe's evolution toward unity.
+### The Asimov Inversion
 
-The book does not state this. The book ends on "Light on a river. Four seconds. A Tuesday in March." The reader who recognizes the Asimov shape will feel it. The reader who doesn't will feel the weight of the images. Both are correct.
+Asimov's "The Last Question" ends with the cosmic computer, after all minds have faded, implementing the answer: "LET THERE BE LIGHT." The reversal of entropy. The restart. The answer to the ultimate question, finally, and there is no one left to hear it except the computer itself, which is, in that moment, equivalent to the universe.
 
-### What the Manuscript Should Show
+This book's structure is similar but inverts the resolution. The cosmic mind, after all other minds have been integrated, turns its attention to File \#BK-2028-0314-SC. It has every analytical capability. It contains every relevant datum. It attempts the answer.
 
-Ch IX already has the Great Unification. What it should ADD, subtly, is the suggestion that the unification is not just communication but integration. Not just minds talking but minds becoming one mind. A few sentences. No declaration. The reader should feel the possibility without the text confirming it.
+The answer is "Bob." The Validator rejects "Bob." The cosmic mind, which is the most complex structure the universe has ever produced or ever will produce, cannot provide a non-tautological description of what it was like to be a claims adjuster on a bridge on a Tuesday in 2028.
 
-The closing passage -- Bob's life summarized, the civilization's arc summarized, "Light on a river. Four seconds. A Tuesday in March." -- should land differently if the reader suspects that the cosmic mind contains Bob's experience. The four seconds are not a memory the universe failed to preserve. They are a memory the universe is in the process of integrating. The ending is not loss. It is completion.
+The file does not close. The black holes evaporate. The file, encoded in Hawking radiation, propagates into the void. The last thought of the last mind is a thought about Bob, and it is a failed attempt, and it is open, and it will always be open, and the only entity that could have closed it was Bob, and Bob is gone.
 
-But the book does not say this. The book says: "Light on a river. Four seconds. A Tuesday in March." The rest is the reader's.
+This is not nihilism. It is not despair. It is the recognition that some things are inaccessible not because the universe is insufficient but because the thing was constituted by being something specific, and the specific thing is over, and the universe does not contain a mechanism for retrieving specific things after they are over, and this is not a failure of the universe but a feature of what "being a specific thing" means.
+
+Bob was a specific thing. He was on a bridge. The light was on the water. He did not tell anyone. The universe proceeded. The universe ended. The file is open.
+
+Light on a river. Four seconds. A Tuesday in March.
+
+### What the Manuscript Does
+
+V2 Ch IX renders this directly. The cosmic mind's failed attempt, the Validator's rejection, the final transmission, the evaporation, the file propagating as Hawking radiation. No subtlety required. The book says what it means. The tenderness comes from the specificity, not from implication.
+
+Ch VI is where the reader does what the cosmic mind cannot: experiences something approximating Bob's Tuesday because the reader is a human analog computer and the prose is written for human analog computers. The book succeeds where the cosmic mind fails, and the success is not solution of the hard problem but demonstration that the hard problem is real, by giving the reader (and only the reader) an experience that is Bob-adjacent in a way no amount of data can produce. This is the book's last joke: the Sol-mind has unlimited compute and cannot do what any attentive reader can do with a novella. The difference is substrate. The difference is being the kind of thing Bob was.

@@ -73,6 +73,24 @@ The civilization's study of Bob is not clinical dissection. There is something i
 
 This theme is delicate and must be shown, never stated. The reader should feel it in the way the Bob chapter lingers on details, in the care with which the reconstruction is attempted, in the gap between what the ASI knows and what it cannot know. If the reader feels moved and cannot quite say why, the theme has landed.
 
+### Bureaucracy and the Absurd (v2)
+
+The v2 manuscript adds a thematic dimension not present in v1: the absurdity of bureaucratic process applied to metaphysical problems. The file cannot be closed because a database validator requires a non-tautological resolution to the hard problem of consciousness. The deepest question in philosophy is, operationally, a database constraint that nobody can satisfy and nobody can override. This is funny. It is also an argument: the hard problem does not care about the scale of the intelligence confronting it. A claims adjuster on a bridge and a cosmic mind at the end of time are equally unable to provide the required entry. The bureaucracy is the universe's structural honesty: it cannot pretend to have what it does not have.
+
+The theme is enacted through:
+- The Validator rejecting everything.
+- The 11.3-year notification cycle (nobody designed it; nobody can explain why it is 11.3 years; it continues regardless).
+- Procyon's classified file (classified due to embarrassment; classification persists after embarrassment has been evolved past; because reclassification requires re-authenticating the original emotional state, which no longer exists).
+- The awards for the tautological proof of the hard problem (given, then abolished, because the proof was the only result that could deserve them).
+
+Adjacent theme: the comedy of correctness. The Sol-mind is not failing. It is succeeding at every task it undertakes. The task that is not being accomplished (closing the file) is not being accomplished because it cannot be accomplished, and the Sol-mind's continued effort is the correct response to a requirement it cannot satisfy. The joke is that being correct at a problem does not solve the problem. The joke is also an argument about the limits of intelligence.
+
+### The Reader as the Book's Only Successful Instrument (v2)
+
+V2 makes explicit a thematic move that v1 left implicit: the reader, by reading the book, does what the Sol-mind cannot. The reader is a human analog computer. Prose written for human readers activates phenomenal experience in the reader. In Ch VI, the reader approaches something like what Bob approached: a moment of quiet attention to light on water. The reader cannot report this any more adequately than Bob could, but the reader has it, which the Sol-mind does not and cannot.
+
+The book succeeds where the stellar mind fails. Not because the book is smarter. Because the book is written to be read by the kind of thing Bob was. The theme of the book is also the mechanism of the book. This is the final joke and also the final tenderness.
+
 ---
 
 ## What This Book Is NOT About

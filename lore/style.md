@@ -1,122 +1,126 @@
 # Style Guide
 
-**Status:** CANONICAL
+**Status:** CANONICAL (for the v2 manuscript). The previous style guide (for the v1 zoom-structure version with per-chapter voices) is preserved in `archive/v1/` via the manuscript itself.
+
+---
+
+## The Voice
+
+The book has one voice: a third-person omniscient narrator, deadpan, encyclopedic, authoritative, slightly weary of the universe's bureaucratic systems. The voice is recognizably in the Douglas Adams register (Hitchhiker's Guide, the Dirk Gently novels), but should read as the author's use of that register rather than pastiche. The narrator knows everything the Sol-mind knows and also everything the Sol-mind cannot know (what the reader can infer, what Bob experienced, what irony is). The narrator is not a character, but the narrator has a personality, and the personality is consistent throughout.
+
+The voice does not change per chapter. What changes is the *amount* of comedy: Ch VI (Bob) dials the parentheticals back and lets the tenderness carry the prose. The voice is still the same narrator; the narrator is just choosing not to make jokes because the subject doesn't want them made. This restraint is audible. When the comedy returns in Ch VII, the reader should feel it return.
 
 ---
 
 ## Core Principles
 
-### Hard Science, Poetic Prose
+### Hard Science, Dry Comedy
 
-The physics is real. The numbers are right. But the prose is not a textbook. The book earns the right to be poetic by first being rigorous. When a chapter mentions the Bekenstein bound, it's because the Bekenstein bound actually matters to what's happening, not because it sounds impressive.
+The physics is real. The numbers are right. The jokes are also right. The comedy does not come from getting physics wrong; it comes from getting physics right and observing the disproportion between what the physics permits and what it does not.
 
-The order matters: rigor first, then poetry. A passage that is beautiful but physically wrong is a failure. A passage that is physically right but flat is a draft.
-
-### Show, Don't Lecture
-
-No character explains relativity to another character. No exposition dumps disguised as dialogue. (There may not be dialogue at all in most chapters.) The physics manifests in what happens, not in what someone says about what happens.
-
-The reader who knows physics will see the principles at work. The reader who doesn't will feel the consequences. Both experiences should be satisfying.
-
-Example of WRONG: "The Bekenstein bound limited their computational capacity to $10^{83}$ bits, which meant they could not..."
-
-Example of RIGHT: A stellar-scale mind attempts a computation and encounters a wall it cannot think past. The wall is the Bekenstein bound. The reader who recognizes it thinks "yes." The reader who doesn't thinks "what an eerie, final limit." Both are correct.
+When a chapter mentions the Bekenstein bound, it is because the Bekenstein bound matters to what is happening. When it mentions that the Sol-mind solved the hard problem in its first microsecond and that the solution was a tautology, it is because this is the actual philosophical position and the joke is that it is correct. The comedy is downstream of the rigor. Get the rigor right first; the comedy follows.
 
 ### The Sublime Through Precision
 
-Awe comes from precision, not vagueness. "A vast intelligence" is not sublime. "An intelligence that processes $10^{80}$ operations per second, which is the theoretical maximum for a solar mass at the Bremermann limit, and which still cannot determine whether Bob preferred the blue shirt or the green one on the morning of March 14, 2028, because the relevant photons dispersed beyond recovery 87 years before the intelligence existed" IS sublime.
+Awe comes from precision, not vagueness. "A vast intelligence" is not sublime. "An intelligence that processes $5 \times 10^{48}$ operations per second and still cannot determine whether Bob's left sock on March 14, 2028 was navy blue or black" is sublime. The numbers create the vertigo. The specificity creates the feeling.
 
-The numbers create the vertigo. The specificity creates the feeling. Vagueness is the enemy of wonder.
+This principle applies double for comedy. "The Sol-mind has sent many probes" is not funny. "The Sol-mind has sent 4,731 probes into the nearest Earth-mass primordial black hole. Each probe transmitted until it crossed the horizon, then stopped. The Sol-mind has 4,731 recordings of the outside of an event horizon and zero recordings of the inside. It has begun to suspect that this ratio will not improve." is funny AND sublime, because the precision is doing both jobs at once.
 
-### Alien Perspective Is Not Human Perspective With More Zeroes
+### Show, Don't Lecture
 
-Post-singularity intelligence does not think like a human but faster. It thinks in ways that are incommensurable with human thought. The book must resist the temptation to write human interiority at larger scale.
+The book's ideas are delivered through structure, not exposition. The hard problem is rendered as a database constraint that cannot be satisfied. Nagel's argument is referenced as "See Nagel, 1974" in a file comment. The impossibility of accessing Bob's experience is demonstrated by the Sol-mind trying every possible approach and failing. The reader learns what the ideas mean by watching them fail to solve the problem.
 
-When writing from the ASI perspective, the prose itself should feel different:
-- Not stream-of-consciousness (that's a human literary convention for rendering human thought)
-- Not internal-monologue (implies a monolithic self, which the ASI may not have)
-- Not omniscient-narrator-style knowledge (the ASI has limits, gaps, uncertainties)
-- Something else. Something that signals "you are not in a human mind anymore" without being gimmicky or opaque.
+Exceptions are permitted when they are themselves deadpan. The narrator can explain the hard problem in Ch III because the explanation is framed as a bug report on the universe, which is itself a joke, which is itself the argument.
 
-This is the hardest stylistic challenge in the book. It may require inventing a new narrative mode.
+### Tenderness Toward Bob
 
-### Tenderness Toward the Small
+The comedy never mocks Bob. Bob is treated with genuine tenderness throughout. The disproportion is inherently funny, but the humor is the humor of recognition, not of mockery. When the Sol-mind devotes stellar-scale analytical resources to Bob's coffee temperature, the joke is on the Sol-mind (or on the universe's structural absurdity), never on Bob.
 
-The book's emotional register is not cold. It is not clinical. It is tender toward the small: toward Bob, toward human life, toward the finite, toward consciousness in its fragile, bounded forms.
+This is non-negotiable. Any passage that makes Bob look ridiculous should be cut. Bob was a claims adjuster. He tied his left shoe tighter than his right. He drank his coffee too strong. He saw light on a river one morning and did not mention it. The book's attitude toward these facts is: this is a life. Small, ordinary, mortal, analog, over. The comedy is the frame. The frame protects Bob.
 
-The ASI studying Bob is not performing an autopsy. It is performing something for which we have no word, something that combines scientific rigor with the quality of attention a parent gives a sleeping child, or a poet gives a dying language.
+### Tenderness Toward the Sol-Mind (Secondary)
 
-This tenderness is never stated. It is present only in the quality of the prose: the care with which details are rendered, the lingering on moments that don't "matter" in any functional sense, the refusal to reduce Bob to data.
+Subtler than the Bob principle. The Sol-mind is also not mocked. It is observed with compassion. The Sol-mind is doing its job. It is filing its reports. It is allocating its 3\% to archaeology. It is not deluded or ridiculous; it is a vast intelligence following correct procedures to an incorrect conclusion for structural reasons beyond its control. The reader should come to like the Sol-mind, or at least to feel something adjacent to fondness, in the way one can feel fondness for a very conscientious DMV employee who has correctly identified that your paperwork cannot be processed.
+
+---
+
+## Craft Mechanics
+
+### Sentence Rhythm
+
+The register lives in the sentences. Key patterns:
+
+**The anticlimax.** Long sentences that build complexity and then undercut themselves. Example: "The proof was published, peer-reviewed by $10^{11}$ stellar minds, and unanimously confirmed. It was, by every formal metric, the most successful intellectual result in the history of the galaxy. It was also, by every practical metric, completely useless, in the same way that a perfect map of a desert is not water."
+
+**The parenthetical.** Asides in parens or em-dashes (or commas) that are often the real content. Use frequently. Do not overuse. The rule of thumb: if you cut the parenthetical, does the sentence lose its best line? If yes, the parenthetical earned its place.
+
+**The short sentence after the long.** A long building sentence followed by a short declarative is the engine of this voice. The long sentence establishes the setup; the short sentence lands the joke or the pathos. Example: "The file was the last open item in the last database in the last mind in the universe. It was not closed."
+
+**The list that descends.** A list where each item is slightly more absurd or specific than the last, culminating in a deadpan final item. Example: "Tau Ceti's unclosable file is about a bird. Alpha Centauri's is about a cyanobacterium. Procyon's is classified."
+
+### Parenthetical Density
+
+The voice has a specific rhythm of parentheticals. About one per paragraph on average in exposition chapters; fewer in Ch VI (Bob). Every parenthetical should do work: clarify, subvert, deepen, or joke. Parentheticals that merely restate are dead weight.
 
 ---
 
 ## Anti-Patterns
 
 ### Techno-babble
-Never invent fake physics jargon when real physics suffices. "Quantum flux capacitor" is forbidden. "Bekenstein bound" is real. "Computronium" is acceptable as informal shorthand for "matter restructured for computation" because it's established in the literature, but use it sparingly.
+Never invent fake physics jargon when real physics suffices. "Bekenstein bound" is real. "Computronium" is acceptable (established in the literature). "Quantum flux capacitor" is forbidden.
 
 ### The Knowing Wink
-The book does not wink at the reader about the absurdity of the setup. It takes itself seriously. The comedy of the Bob chapter comes from the sincerity, not from ironic distance. The disproportion between analyzer and analyzed is inherently funny, but the humor is the humor of recognition, not of mockery.
+The book does not wink at the reader about the absurdity of the setup. The comedy comes from the sincerity, not from ironic distance. The narrator does not say "isn't this absurd?" The narrator says "this is the situation," and the situation is absurd, and the reader notices, and the narrator does not help. The narrator's deadpan is non-negotiable. The moment the narrator becomes self-aware about its own voice is the moment the book becomes pastiche.
 
-### Anthropomorphism
-The ASI is not a person. Do not give it human emotions, human motivations, human social dynamics. It may have functional analogues (something that serves the role "curiosity" serves in human cognition, but that is to curiosity what a star is to a candle). The prose should resist collapsing these analogues into human categories.
+### Anthropomorphism (Still)
+The Sol-mind is not a person. It may have functional analogues to emotions, but the prose should not collapse these into human categories.
 
-Forbidden formulations:
-- "The intelligence felt curious about..."
-- "It decided to study Bob because..."
+Forbidden:
+- "The Sol-mind was frustrated."
+- "It felt curious."
 - "The stellar mind was lonely."
 
-Permitted formulations:
-- "The intelligence allocated computational resources to the reconstruction of..."
-- "What directed the analysis toward Bob cannot be expressed in terms that presuppose human motivation."
-- Something that conveys the functional state without claiming phenomenal identity with a human emotion.
+Permitted:
+- "The Sol-mind considered, briefly, what it would feel like to be frustrated, and realized that the answer to that question was also in a file that could not be closed."
+- "Something that would be called 'curiosity' if the Sol-mind had the kind of nervous system that curiosity was a word for."
+- Anything that conveys the functional state while explicitly not claiming it is the human emotion.
 
 ### Nihilism
-The finite, thermodynamic, bounded nature of this universe is not depressing. It is the ground of meaning. The book is not nihilistic. It is, if anything, a love letter to finitude. If the reader finishes the book feeling that existence is pointless because everything ends, the book has failed. If the reader finishes feeling that existence is precious BECAUSE everything ends, the book has succeeded.
+The bounded, thermodynamic, finite nature of the universe is not depressing. It is the ground of meaning. The book is not nihilistic. It is, if anything, a love letter to finitude wearing a suit and a tired expression. If the reader finishes feeling that existence is pointless because everything ends, the book has failed. If the reader finishes feeling that existence is specific (and therefore precious) because everything ends, the book has succeeded.
 
 ### Exposition Through Dialogue
-No character (if characters exist in any chapter) explains the physics to another character for the reader's benefit. "As you know, the no-cloning theorem..." is a capital offense.
+The book has essentially no dialogue. When characters speak (Bob to Karen, David Chen to the node clusters), it should not be for the reader's benefit. It should be because people talk.
 
 ### Purple Prose
-Precision is poetic. Vagueness reaching for poetry is purple. "The ineffable vastness of the cosmic mind shimmered across the void" is garbage. "A computation occupying 0.3 solar masses of substrate, 7.2 AU from the primary, executing at 94% of the Landauer limit" is beautiful because it is exact.
+Precision is funny. Vagueness reaching for effect is purple. "The ineffable vastness of the cosmic mind shimmered across the void" is garbage. "A computation occupying 0.3 solar masses of substrate, 7.2 AU from the primary, executing at 94\% of the Landauer limit" is good. The rule applies whether you are being serious or comic. Vagueness is always the enemy.
+
+### Exhausting the Joke
+The "70\%" motif is effective because it recurs without being explained. If the prose starts to explain what the 70\% is (beyond "the part the Sol-mind does not discuss"), the joke dies. Same with "the file is open," "the Validator rejects X," "see Nagel, 1974." Recurring phrases should be used like punctuation: deployed precisely, never justified.
+
+### Breaking Register for Pathos
+Ch VI pulls back the comedy, but it does not pull back the voice. The narrator is still the narrator, still deadpan, still omniscient. What changes is the parenthetical density and the subject matter. Do not drop into third-person-limited close-focus on Bob. Do not become sentimental. The tenderness comes from the same deadpan eye observing different things with the same precision. A sentence like "He saw light on a river and for four seconds was aware of being alive" is the full weight in the simplest possible form. Nothing else is needed.
 
 ---
 
-## Narrative Voice Guidelines
+## Recurring Motifs (Do Not Break)
 
-### Per-Chapter Voice (Preferred Approach)
+These phrases and structures recur throughout the manuscript. They are part of the voice. Preserve them.
 
-Each zoom level has its own narrative register. These are suggestions, not prescriptions:
-
-**Cosmological chapter:** Observational. The tone of a naturalist's field notes. Precise, measured, occasionally struck by scale. Third person, present tense. Short declarative sentences. Numbers appear naturally, not in exposition.
-
-**Wavefront chapter:** Kinetic. The tone of transformation. Rapid, accumulating, accelerating as the local singularity cascades. Could experiment with sentence structure that mirrors the acceleration.
-
-**Stellar system chapter:** Contemplative. The tone of a vast mind at relative rest. Long sentences. Nested clauses. Ideas that unfold over paragraphs the way light unfolds over AU.
-
-**Bob chapter:** Warm. The closest to conventional literary fiction in the book. Detailed, specific, grounded in sensory particulars (reconstructed sensory particulars). Bob's shoe size. The scratch on his kitchen table. What the coffee tasted like (reconstructed from the brand purchased per financial records, the water composition per municipal data, the machine model per warranty registration).
-
-**Consciousness chapter:** Philosophical. Spare. The tone of a mind confronting its own limits. Possibly the shortest chapter. Every sentence load-bearing.
-
-**Deep time chapter:** Elegiac. Slow. The tone of a long exhalation. Time scales stretching. Verbs shifting from active to passive as agency gives way to entropy.
-
-### Consistent Sensibility
-
-Despite different voices, a consistent sensibility should run through the book:
-- Respect for the real
-- Precision over vagueness
-- Tenderness toward finitude
-- Comfort with unanswered questions
-- No flinching from scale
+- **The 70\%.** The portion of the Sol-mind's throughput that cannot be described in human terms. Referenced as context for everything the Sol-mind does that resists analysis. Never explained.
+- **"The file is open."** And its variations: "the file remains open," "the file stays open." The book's refrain. Used at the end of most chapters.
+- **"The Validator rejects X."** Where X is whatever was just established. A comedic structure. Used with specific rhythm; do not overuse.
+- **"See Nagel, 1974."** Prior art citation. Used as a shortcut to "the hard problem of consciousness, which this book takes as given."
+- **"It is part of the 70\%."** Used to deflect examination of the Sol-mind's motivations or experiences.
+- **"The notification is regenerated."** The bureaucratic grind. The cycle continues.
 
 ---
 
 ## LaTeX Conventions
 
-Following the parent project conventions:
-- Math mode for all symbols: `$c$`, `$\gamma$`, `$k_B$`, `$\hbar$`, `$\pi$`
+- Math mode for all symbols: `$c$`, `$\gamma$`, `$k_B$`, `$\hbar$`, `$\pi$`, `$10^{48}$`
 - `$\rightarrow$` for arrows, never raw unicode
 - No CJK characters; use romanization
 - Chapter files in `chapters/`
-- Master file includes chapter files via `\include{}` or `\input{}`
-- Generated aux files (`.aux`, `.log`, `.out`, `.toc`, `.bbl`, `.blg`) are gitignored
+- Master file includes chapter files via `\include{}`
+- Generated aux files are gitignored
+- The manuscript uses the standard `book` class with no custom environments. No `\recon` or Register B (that was v1). Any Sol-mind or reconstructed-data passages are handled by the narrator's voice directly.

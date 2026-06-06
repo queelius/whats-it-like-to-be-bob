@@ -1,6 +1,10 @@
 # The Probe (Designation: 7447-Lyra)
 
-**Status:** EXPLORATORY (the probe is a character in Chapter VIII; details subject to revision as the chapter develops)
+**Status:** V1-SPECIFIC. The interstellar probe narrative was a major element of the v1 manuscript (old Ch VIII, "The Probe"). The v2 manuscript does not feature 7447-Lyra. V2 replaces the probe chapter with "The Other Minds" (stellar-mind communication and the universality of unclosable files) and with "The Black Holes" (PBH terminal-trajectory probes, which are different probes).
+
+This document is preserved as: (a) historical reference to what v1 contained, (b) raw material for a potential spinoff (see `future-ideas.md`, "The 364 Years"), and (c) background world-building that applies to the universe generally even if 7447-Lyra specifically is not onstage in v2. The probe may still exist in the universe; it is simply no longer a manuscript subject.
+
+If revising v2 to reintroduce a probe, note that v2's tone is dry comedy, and any probe chapter would need to fit that register (see `style.md`).
 
 ---
 
