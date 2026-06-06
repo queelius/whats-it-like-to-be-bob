@@ -98,7 +98,7 @@ Same as ebook (KDP pre-fills from the ebook listing).
 - Chapter breaks start on new pages
 - Recon blocks visually distinct
 - Math renders correctly in print
-- Page count matches expected (~148 pages)
+- Page count matches expected (117 pages)
 - Back cover blurb readable
 - Barcode zone clear
 

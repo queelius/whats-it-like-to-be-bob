@@ -3,7 +3,7 @@ title: "What's It Like To Be Bob?"
 author: "Alex Towell"
 lang: en-US
 date: "2026"
-description: "A post-singularity galactic civilization has converted the galaxy's matter to computation. It studies one man's Tuesday. Robert Allen Kessler, claims adjuster, Columbus, Ohio, saw light on a river on March 14, 2028 and felt four seconds of happiness he never told anyone about. Twelve hundred years later, a stellar-scale intelligence devotes a fraction of its vast resources to reconstructing every recoverable detail of that day. It knows his shoe size. It knows the brand of his coffee. It knows the scratch on his kitchen table. It cannot know what the light looked like to him. Nine chapters zoom from cosmological scale to one man's morning and back out to the thermodynamic death of the universe. The physics is real. The numbers are right. The hard problem of consciousness is the last problem, and it outlasts the stars. Hard science fiction for readers of Ted Chiang, Greg Egan, and Peter Watts. A novella (~21,000 words)."
+description: "Twelve hundred years from now, a mind the size of a star cannot close a single file. The Sol-mind has turned the solar system into computation and catalogued every human who ever lived. Every file is closed but one. Robert Allen Kessler, claims adjuster, Columbus, Ohio, slowed his car on a bridge for 4.2 seconds on a Tuesday in March 2028 and saw light on a river. The Sol-mind knows his shoe size. It knows the brand of his coffee. It knows the scratch on his kitchen table. It does not know what the light looked like to him. The database has a field for exactly that, the field will not accept anything else, and the hard problem of consciousness guarantees that nothing else exists. So the file stays open, and a stellar intelligence spends twelve centuries failing to close it, on a schedule, forever. What's It Like To Be Bob? is hard science fiction in the key of Douglas Adams: the physics is real, the numbers are right, and the jokes are arguments. Underneath the comedy it is about the one thing the largest possible intelligence can never reach, the ordinary inside of an ordinary life. For readers of Ted Chiang, Peter Watts, and Douglas Adams. A novella (~14,000 words)."
 categories:
   - "Science Fiction > Hard Science Fiction"
   - "Science Fiction > Short Reads"
@@ -30,6 +30,6 @@ isbn_ebook: "ASIN assigned by KDP"
 isbn_paperback: "KDP free ISBN (pending)"
 # KDP cover specs
 cover_ebook: "2560x1600px JPG/TIFF, RGB, 72 DPI minimum"
-cover_paperback: "Use KDP Cover Calculator (trim 5.5in x 8.5in, ~148 pages)"
+cover_paperback: "Full wrap, trim 5.5in x 8.5in, 117 pages, cream stock, ~0.29in spine"
 # Trim size for paperback
 trim: "5.5in x 8.5in"

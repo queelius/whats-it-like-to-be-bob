@@ -2,14 +2,20 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20020298.svg)](https://doi.org/10.5281/zenodo.20020298)
 
+<img src="kdp/cover_ebook.jpg" alt="Cover: What's It Like To Be Bob?" align="right" width="260">
+
 A dry philosophical comedy in the style of Douglas Adams, set in a post-singularity galactic civilization. After Nagel's *"What Is It Like to Be a Bat?"*
 
-**Status:** First draft of comedy rewrite complete (April 2026). 9 chapters, ~15,700 words, 55 pages.
+**Status:** Complete and revised. 9 chapters, ~14,000 words, with full front and back matter. 56-page trade build, 117-page paperback.
 
-## Read
+## Buy
 
-- [Download PDF](whats_it_like_to_be_bob.pdf)
-- [Download EPUB](whats_it_like_to_be_bob.epub)
+Kindle eBook ($3.99) and paperback ($9.99). Forthcoming on Amazon; buy links land here at launch.
+
+<!-- At launch, replace the line above with:
+- [Kindle eBook](https://www.amazon.com/dp/ASIN) - $3.99
+- [Paperback](https://www.amazon.com/dp/ASIN) - $9.99
+-->
 
 ## Synopsis
 
@@ -26,16 +32,19 @@ The book *is* the file. Twelve hundred years of stellar-scale investigation exis
 - Post-singularity intelligence's limits
 - The dignity of the unmeasurable
 
+## Read
+
+The full source is in this repository (CC BY-NC-ND). Buy the Kindle or paperback edition above, or build the PDF or EPUB yourself (see Building).
+
 ## Repository Structure
 
 ```
 whats-it-like-to-be-bob/
 ├── whats_it_like_to_be_bob.tex    # Main LaTeX file
-├── chapters/                      # 9 chapter .tex files
+├── chapters/                      # 9 chapters + back matter (.tex)
 ├── lore/                          # Worldbuilding documentation
-├── archive/v1/                    # Previous "zoom-structure" contemplative version (~22k words)
-├── v2/                            # In-progress comedy revision
-├── kdp/                           # KDP publishing resources
+├── kdp/                           # KDP publishing resources (covers, metadata)
+├── archive/v1/                    # Previous "zoom-structure" version (~22k words)
 └── Makefile                       # Build system
 ```
 
@@ -45,6 +54,7 @@ whats-it-like-to-be-bob/
 make              # Full multi-pass PDF build
 make check        # Quick single-pass compile
 make epub         # EPUB3 via pandoc with MathML
+make paperback    # 5.5x8.5 paperback interior PDF
 ```
 
 ## Citation
