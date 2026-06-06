@@ -2,6 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
+\usepackage{microtype}
 \usepackage[margin=1in]{geometry}
 \usepackage{setspace}
 \usepackage{fancyhdr}
@@ -18,6 +19,12 @@
 \setstretch{1.5}
 \setlength{\parindent}{0.5in}
 \setlength{\parskip}{0pt}
+
+% Let long ALL-CAPS field names (PHENOMENAL_CONTENT, ANALOGOUS_PHENOMENAL_REPORTS,
+% APPROACHES_EXHAUSTED, ...) break at underscores so they don't overflow the margin.
+\renewcommand{\_}{\textunderscore\allowbreak}
+% Safety net for any remaining stubborn line (long technical tokens).
+\setlength{\emergencystretch}{3em}
 
 % Chapter formatting
 \titleformat{\chapter}[display]
