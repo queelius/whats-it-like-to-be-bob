@@ -1,6 +1,6 @@
 # What's It Like To Be Bob?
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20020298.svg)](https://doi.org/10.5281/zenodo.20020298)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20020297.svg)](https://doi.org/10.5281/zenodo.20020297)
 
 <img src="kdp/cover_ebook.jpg" alt="Cover: What's It Like To Be Bob?" align="right" width="260">
 

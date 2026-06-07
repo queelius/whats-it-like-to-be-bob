@@ -26,5 +26,6 @@ keywords:
 license: CC-BY-NC-ND-4.0
 repository-code: "https://github.com/queelius/whats-it-like-to-be-bob"
 url: "https://github.com/queelius/whats-it-like-to-be-bob"
-date-released: "2026-04-12"
-version: "0.1.0"
+date-released: "2026-06-06"
+version: "1.0.0"
+doi: "10.5281/zenodo.20020297"
