@@ -1,5 +1,9 @@
 # KDP Publishing Guide: "What's It Like To Be Bob?"
 
+> **Status (2026-06-06):** Submitted to KDP. Kindle eBook ASIN `B0H4C9BQ64` ($4.99),
+> paperback ISBN `9798180437600` ($10.99, free KDP ISBN). Both in KDP review; allow up
+> to 72 hours to go live. This guide is retained as the procedure of record.
+
 ## Pre-Flight Checklist
 
 - [x] EPUB builds clean (`make epub`)
@@ -65,7 +69,7 @@ Go to **kdp.amazon.com > Bookshelf > Create New Title > Kindle eBook**
 | KDP Select Enrollment | Your choice (90-day exclusive = Kindle Unlimited access; no exclusive = sell on other platforms too) |
 | Territories | All territories |
 | Pricing / Royalty | 70% royalty plan |
-| List Price (USD) | $3.99 |
+| List Price (USD) | $4.99 |
 | Other marketplaces | Let KDP auto-convert or set manually |
 
 **Click "Publish Your Kindle eBook"**
@@ -82,7 +86,7 @@ Same as ebook (KDP pre-fills from the ebook listing).
 
 | Field | Value |
 |-------|-------|
-| ISBN | Get a free KDP ISBN (click the button) |
+| ISBN | Get a free KDP ISBN (click the button). Assigned: 9798180437600 |
 | Print Options | |
 | -- Interior & Paper Type | Black & white interior, cream paper |
 | -- Trim Size | 5.5 x 8.5 in |
@@ -108,7 +112,7 @@ Same as ebook (KDP pre-fills from the ebook listing).
 |-------|-------|
 | Territories | All territories |
 | Pricing | |
-| -- List Price (USD) | $9.99 |
+| -- List Price (USD) | $10.99 |
 | -- Expanded Distribution | Optional (IngramSpark reach; lower royalty) |
 
 **Click "Publish Your Paperback"**

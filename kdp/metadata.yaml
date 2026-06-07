@@ -18,18 +18,18 @@ keywords:
   - "philosophical science fiction"
   - "literary science fiction short read"
 # Pricing
-price_ebook_usd: "3.99"
-price_paperback_usd: "9.99"
+price_ebook_usd: "4.99"
+price_paperback_usd: "10.99"
 royalty_plan: "70%"
 # ISBN
 # KDP assigns a free ISBN for paperback distribution. For wider distribution
 # (IngramSpark, libraries) purchase an ISBN from Bowker ($125 single, $295 for 10).
 # Decision: use KDP free ISBN for initial publication. Purchase own ISBN if
 # expanding distribution later.
-isbn_ebook: "ASIN assigned by KDP"
-isbn_paperback: "KDP free ISBN (pending)"
+isbn_ebook: "B0H4C9BQ64"  # Kindle ASIN (assigned at publication, 2026-06-06)
+isbn_paperback: "9798180437600"  # free KDP ISBN, imprint: Independently published
 # KDP cover specs
 cover_ebook: "2560x1600px JPG/TIFF, RGB, 72 DPI minimum"
-cover_paperback: "Full wrap, trim 5.5in x 8.5in, 117 pages, cream stock, ~0.29in spine"
+cover_paperback: "Full wrap, trim 5.5in x 8.5in, 117 pages, cream stock, ~0.35in spine"
 # Trim size for paperback
 trim: "5.5in x 8.5in"
