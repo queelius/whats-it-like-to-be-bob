@@ -1,8 +1,8 @@
 # KDP Publishing Guide: "What's It Like To Be Bob?"
 
-> **Status (2026-06-06):** Submitted to KDP. Kindle eBook ASIN `B0H4C9BQ64` ($4.99),
-> paperback ISBN `9798180437600` ($10.99, free KDP ISBN). Both in KDP review; allow up
-> to 72 hours to go live. This guide is retained as the procedure of record.
+> **Status (2026-06-08):** Live on Amazon. Kindle eBook ASIN `B0H4C9BQ64` ($4.99),
+> paperback ASIN `B0H4HLYV8X` / ISBN `9798180437600` ($9.99). This guide is retained
+> as the procedure of record.
 
 ## Pre-Flight Checklist
 
@@ -112,7 +112,7 @@ Same as ebook (KDP pre-fills from the ebook listing).
 |-------|-------|
 | Territories | All territories |
 | Pricing | |
-| -- List Price (USD) | $10.99 |
+| -- List Price (USD) | $9.99 |
 | -- Expanded Distribution | Optional (IngramSpark reach; lower royalty) |
 
 **Click "Publish Your Paperback"**

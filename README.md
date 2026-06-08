@@ -10,10 +10,10 @@ A dry philosophical comedy in the style of Douglas Adams, set in a post-singular
 
 ## Buy
 
-- [Kindle eBook](https://www.amazon.com/dp/B0H4C9BQ64) ($4.99)
-- Paperback ($10.99), in review; it joins the same Amazon product page once its review completes.
+Both editions are live on Amazon:
 
-Submitted to Amazon KDP on 2026-06-06; allow up to 72 hours to go live.
+- [Kindle eBook](https://www.amazon.com/dp/B0H4C9BQ64) ($4.99)
+- [Paperback](https://www.amazon.com/dp/B0H4HLYV8X) ($9.99)
 
 ## Synopsis
 
